@@ -4,18 +4,17 @@ description: Implementation of Genomics into Healthcare
 page_id: healthcare
 ---
 
-The implementation of Genomic medicine in healthcare systems will bring us closer to making personalised medicine a reality, with major socioeconomic benefits. 
+The implementation of genomic medicine in healthcare systems will bring us closer to making personalised medicine a reality, with major socioeconomic benefits.
 
-Citizens and patients can nowadays widely benefit from genomic data analysis for accurate and timely diagnosis, more effective treatments with less adverse events and, in the near future, accurate profiling for disease prevention.
-  
-Implementation of genomics in healthcare is complex and requires adjustments in the governance, structure and organization of health services, as well as dedicated investments. Implementation is also dependent on the country context.
+Citizens and patients can nowadays widely benefit from genomic data analysis for accurate and timely diagnosis, more effective treatments with fewer adverse events and, in the near future, accurate profiling for disease prevention.  
+Implementation of genomics in healthcare is complex and requires adjustments in the governance, structure and organisation of health services, as well as dedicated investments. Moreover, the progress of implementation varies with country context.
 
-Promoting dialogue and cooperation among countries, for capacity building and sharing of best practices, is key to promoting equity in access to PM across Europe.
+Facilitating dialogue and cooperation among countries for capacity building and sharing of best practices is key to promoting equity in access to Personal Medicine across Europe.
 
-To fully exploit the potential of genomic information to benefit citizens health, it is crucial to understand how effectively healthcare systems implement genomic medicine. In the context of the 1+ Million Genomes Initiative (1+MG), we developed a Maturity Level Model (MLM) for health systems to self-evaluate the maturity of their genomic medicine practices, and define a path to optimization.
+To fully exploit the potential of genomic information to benefit citizens health, it is crucial to understand how effectively healthcare systems implement genomic medicine. In the context of the 1+ Million Genomes Initiative (1+MG), a Maturity Level Model (MLM) was developped for healthcare systems to evaluate the maturity of their genomic medicine practices, and define a path to optimization.
 
 
-<img src="{{ 'assets/img/1+mg-roadmap.png' | relative_url }}" class="m-2" style="max-width: 100%; max-height: 100%; vertical-align: middle" alt="1+MG Roadmap" />
+<img src="{{ 'assets/img/1+mg-roadmap.png' | relative_url }}" class="m-2" style="max-width: 80%; max-height: 100%; vertical-align: middle" alt="1+MG Roadmap" />
 
 ## Maturity Level Model
 
