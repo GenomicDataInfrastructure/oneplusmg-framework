@@ -22,6 +22,9 @@ The website is a community effort, so unfortunately we do not have the resources
   * [The Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG21/)
   * [AccessibilityTest.org](https://accessibilitytest.org), which runs several online accessibility checkers at once.
 
+The website was last tested on 17 May 2021.
 
 ## Level of compliance
 As far as we can ascertain, this website is compliant with the Web Content Accessibility Guidelines version 2.1 AA standard. If you feel there are issues to address, however, then please email [framework@elixir-europe.org](mailto:framework@elixir-europe.org).
+
+This statement was prepared on 30 March 2021.
