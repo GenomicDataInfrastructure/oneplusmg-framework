@@ -1,5 +1,5 @@
 ---
-title: Data models, Standards & ontologies
+title: Data models, standards & ontologies
 description: Introduction to data standards
 ---
 
