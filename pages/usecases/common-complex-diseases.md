@@ -1,9 +1,9 @@
 ---
 title: Common and complex diseases
-description: The Common and Complex Disease Use Case are focussing on the devlopment of a national-focussed decision support software based on Polygenic Risk Scores (PRS) results. 
+description: The Common and Complex Disease Use Case are focussing on the development of a national-focussed decision support software based on Polygenic Risk Scores (PRS) results. 
 page_id: common-complex-diseases
 ---
-The Common and Complex Disease Use Case are focussing on the devlopment of a national-focussed decision support software based on Polygenic Risk Scores (PRS) results. 
+The Common and Complex Disease Use Case are focussing on the development of a national-focussed decision support software based on Polygenic Risk Scores (PRS) results. 
 
 The expected outcomes from the 1+MG initiative for the Common and Complex Disease Use Cases are to:
 
