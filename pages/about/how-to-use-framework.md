@@ -16,12 +16,12 @@ If you are already familiar with the projects or know the type of guidance or re
 
 ### Implementations
 
+* <a href="{{ '/data-governance' | relative_url }}">Governance & ELSI</a>: Legal and ethical framework to support the European genomics data infrastructure
+
 * <a href="{{ '/genomics-into-healthcare' | relative_url }}">Implementation into Healthcare</a>: guidance to promote and facilitate the adoption of genomics by healthcare systems for making personalised medicine accessible to citizens and patients across Europe.
 
     * B1MG Maturity Level Model: framework to enable all interested countries to self evaluate the level of maturity of national genomic medicine practices following a common matrix.
     * Health Economic Models
-
-* <a href="{{ '/data-governance' | relative_url }}">Governance & ELSI</a>: Legal and ethical framework to support the European genomics data infrastructure
 
 * <a href="{{ '/national-resources' | relative_url }}">National Resources</a>: tools and guidance created by the Nodes to implement the 1+MG Framework including technical implementations, ELSI documents, training, etc.
 

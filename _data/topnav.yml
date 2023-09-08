@@ -7,5 +7,11 @@ subitems:
         url: /about-the-framework
       - title: How to use the Framework
         url: /how-to-use-framework
+      - title: Contact
+        url: /contact
+      - title: Accessibility
+        url: /accessibility
+      - title: Privacy
+        url: /privacy     
   - title: Contribute
     url: /how_to_contribute

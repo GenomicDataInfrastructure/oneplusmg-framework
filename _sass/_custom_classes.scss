@@ -255,3 +255,23 @@ h2 span, h3 span{
     width: 50%;
     margin: 0px auto;
 }
+
+body#main {
+    position: relative;
+    z-index: 0;
+}
+  
+body#main:after {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url('/assets/img/main_logo-OLD.svg');
+    content: "";
+    opacity: 0.1;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: -30%;
+    z-index: -1;
+    background-size: cover;
+}

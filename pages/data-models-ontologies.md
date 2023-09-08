@@ -1,5 +1,5 @@
 ---
-title: Data models & ontologies
+title: Data models, Standards & ontologies
 description: Introduction to data standards
 ---
 
@@ -10,7 +10,7 @@ The description of the phenotypic and clinical information is heterogeneous, mos
 To facilitate cross-border searching, linking and analysis of genomic and health data, this section of the 1+MG Framework includes a set of recommendations and guidelines that cover the minimal requirements for the provenance of the samples and the description of patient-specific phenotype and clinical data. Also, establishing and using standards for both sequencing and phenotypic and clinical data are, together with the ELSI standards, key elements in creating trust.
 
 ## [Documented best practices in sharing and linking phenotypic and genetic data](https://zenodo.org/record/7342855) <span class="badge badge-dark">Recommended<i class="fa-solid fa-thumbs-up"></i></span>
-This is the second version of documented best practices in sharing and linking phenotypic and genetic data. It identifies and describes best practices on sharing and linking phenotypic and genetic data in both the healthcare sector as in the research setting to, as much as possible, avoid reinventing the wheel, learn from previous/current existing projects to improve performance and avoid mistakes made by others. The listed ’best practices’ have been identified by the 1+MG WG3 experts, who are nominated by the Member States, and are exemplary practices that have achieved results which could be used for larger-scale cross-border initiatives.
+This document identifies and describes best practices on sharing and linking phenotypic and genetic data in both the healthcare sector as in the research setting to, as much as possible, avoid reinventing the wheel, learn from previous/current existing projects to improve performance and avoid mistakes made by others. The listed ’best practices’ have been identified by the 1+MG WG3 experts, who are nominated by the Member States, and are exemplary practices that have achieved results which could be used for larger-scale cross-border initiatives.
 
 The areas of best practices covered are “data models and templates”, “Data interoperability, ontology and controlled terminology, ontology collections, mappings”, “Data standards”, “Data exchange standards”, “Data infrastructure, data management platforms and tools”, “Data governance, genomics data framework”, and “Data dictionaries”.
 
@@ -22,6 +22,13 @@ The Data Use Ontology (DUO) is an ontology that describes the data use condition
 
 ## [Phenopackets](https://www.ga4gh.org/product/phenopackets/) <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span>
 The Phenopacket standard is designed to allow phenotypic information to be exchanged in a consistent standardised and structured format. It links phenotypic information with individual, genetic, and disease information. Phenopackets are already used by the rare disease community, for example in the Solve-RD project and RD-Connect, which makes them ideal as a standard to drive the exchange of phenotypic information between nodes or services.
+
+## [DCAT](https://www.w3.org/TR/vocab-dcat-3/)
+DCAT is an RDF vocabulary designed to facilitate interoperability between data catalogs published on the Web.
+
+## [DCAT-AP](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/dcat-application-profile-data-portals-europe/release/11)
+DCAT-AP is the implementation of the European standard to aggregate data collections across borders in a single portal (1+MG User Portal currently in development) that facilitates integration and discovery by users of 1+MG, EHDS and other EU Data Spaces
+
 
 ## 1+MG Minimal dataset for cancer <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span> 
 * paper in progress

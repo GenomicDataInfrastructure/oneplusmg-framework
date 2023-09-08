@@ -30,7 +30,8 @@ It will contain the set of agreed outputs and guidance on:
 
 <img src="{{ 'assets/img/realising-vision-for-european-healthcare.png' | relative_url }}" class="m-2" style="max-width: 100%; max-height: 100%; vertical-align: middle" alt="Realising vision for European Healthcare" />
 
-B1MG defined the initial architecture, shared interfaces, and possible virtualisation platforms required to achieve technical interoperability. In addition, the proposed infrastructure must support semantic interoperability, so a variety of international standards were proposed to support this.  
+B1MG defined the initial architecture, shared interfaces, and possible virtualisation platforms required to achieve technical interoperability. In addition, the proposed infrastructure must support semantic interoperability, so a variety of international standards were proposed to support this. The below EOSC Interoperability Layers (adapted from Nictiz NL) have been considered throughout the development in the 1+MG resources to enable broad European interoperability of the infrastructure.
+
 
 <img src="{{ 'assets/img/standard-interoperability.jpg' | relative_url }}" class="m-2" style="max-width: 100%; max-height: 100%; vertical-align: middle" alt="B1MG objectives for interoperability EOSC model" />
 
