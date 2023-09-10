@@ -78,7 +78,7 @@ defaults:
     scope:
       path: "pages/usecases"
     values:
-      type: usecases
+      type: use-cases
   -
     scope:
       path: "pages/national-resources"
