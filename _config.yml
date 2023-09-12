@@ -14,7 +14,7 @@ gtag:
 # Google analytics tag
 
 theme_variables:
-  theme_color: da366e
+  theme_color: 004494
   topnav:
     brand_logo: assets/img/main_logo.svg
   fonts:
