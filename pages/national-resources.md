@@ -1,6 +1,6 @@
 ---
 title: National i
-description: Introduction to national resources
+description: Introduction to national implementation
 ---
 
 ## Training materials
