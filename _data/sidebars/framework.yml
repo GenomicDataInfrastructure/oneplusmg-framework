@@ -58,9 +58,9 @@ subitems:
       - title: "Population genomics"
         url: /population-genomics    
 
-  - title: National resources
+  - title: National implementation
     image_url: /assets/img/section-icons/nation.svg
-    url: /national-resources
+    url: /national-implementation
     description: Find pointers to country specific information resources and national research data management practices.
 
 

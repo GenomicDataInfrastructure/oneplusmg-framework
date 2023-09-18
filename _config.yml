@@ -81,13 +81,13 @@ defaults:
       type: use-cases
   -
     scope:
-      path: "pages/national-resources"
+      path: "pages/national-implementation"
     values:
-      type: national-resources
+      type: national-implementation
       datatable: true
   -
     scope:
-      path: "pages/national-resources/TEMPLATE_resources.md"
+      path: "pages/national-implementation/TEMPLATE_resources.md"
       type: "pages"
     values:
       sitemap: false

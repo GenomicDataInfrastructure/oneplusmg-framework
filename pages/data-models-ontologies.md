@@ -23,10 +23,10 @@ The Data Use Ontology (DUO) is an ontology that describes the data use condition
 ## [Phenopackets](https://www.ga4gh.org/product/phenopackets/) <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span>
 The Phenopacket standard is designed to allow phenotypic information to be exchanged in a consistent standardised and structured format. It links phenotypic information with individual, genetic, and disease information. Phenopackets are already used by the rare disease community, for example in the Solve-RD project and RD-Connect, which makes them ideal as a standard to drive the exchange of phenotypic information between nodes or services.
 
-## [DCAT](https://www.w3.org/TR/vocab-dcat-3/)
+## [DCAT](https://www.w3.org/TR/vocab-dcat-3/) <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span>
 DCAT is an RDF vocabulary designed to facilitate interoperability between data catalogs published on the Web.
 
-## [DCAT-AP](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/dcat-application-profile-data-portals-europe/release/11)
+## [DCAT-AP](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/dcat-application-profile-data-portals-europe/release/11) <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span>
 DCAT-AP is the implementation of the European standard to aggregate data collections across borders in a single portal (1+MG User Portal currently in development) that facilitates integration and discovery by users of 1+MG, EHDS and other EU Data Spaces
 
 

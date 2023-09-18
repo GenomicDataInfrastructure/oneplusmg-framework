@@ -23,7 +23,7 @@ If you are already familiar with the projects or know the type of guidance or re
     * B1MG Maturity Level Model: framework to enable all interested countries to self evaluate the level of maturity of national genomic medicine practices following a common matrix.
     * Health Economic Models
 
-* <a href="{{ '/national-resources' | relative_url }}">National Resources</a>: tools and guidance created by the Nodes to implement the 1+MG Framework including technical implementations, ELSI documents, training, etc.
+* <a href="{{ '/national-implementation' | relative_url }}">National Implementation</a>: tools and guidance created by the Nodes to implement the 1+MG Framework including technical implementations, ELSI documents, training, etc.
 
 ### Required/Recommended/Informational Labels 
 In order to determine the importance of each resource for development of each Node, most resources are labelled with one of the following tags:

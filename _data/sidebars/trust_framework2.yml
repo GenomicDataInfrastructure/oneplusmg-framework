@@ -11,9 +11,9 @@ subitems:
     url: /genomics-into-healthcare
     description: Assessment Maturity Level Model to guide healthcare systems on their journey to implement genomic medicine.    
 
-  - title: National resources
+  - title: National implementation
     image_url: /assets/img/section-icons/nation.svg
-    url: /national-resources
+    url: /national-implementation
     description: Find pointers to country specific information resources and national research data management practices.
         
 
