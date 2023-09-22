@@ -17,3 +17,5 @@ subitems:
         url: /google_doc_way
       - title: Git way (advanced)
         url: /working_with_git
+  - title: Code of Conduct
+    url: /code-of-conduct

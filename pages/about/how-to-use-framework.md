@@ -2,7 +2,7 @@
 title: How to use the Framework
 ---
 
-The Framework is the collection of outputs from the 1+MG-related projects and their national implementations.  
+The Framework is the collection of outputs from the 1+MG-related projects and their national implementations. All content of this page are subject to the <a href="{{ '/code-of-conduct' | relative_url }}">1+MG Framework Code of Conduct</a>
 
 ## Core Framework
 
