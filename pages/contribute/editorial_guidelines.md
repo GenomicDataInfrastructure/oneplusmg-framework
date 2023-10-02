@@ -23,4 +23,21 @@ The wider contributor community, i.e. members of the Nodes or National Mirror Gr
 
 <img src="{{ 'assets/img/1+mg-framework-editorial-guideline.png' | relative_url }}" class="m-2" style="max-width: 100%; max-height: 100%; vertical-align: middle" alt="Editorial guidelines" />
 
+## Contribution Methods
+
+* Github -
+Main submission method with Issue Tracking
+* Google Docs -
+Available for members not comfortable with Github. Editors track via a GitHub Issue.
+* Webform
+For minor edits/suggestions.  Minor edits, such as spelling changes, can be approved by the ELIXIR hub.  Anything submitted via this form which is deemed to be a genuine change to content will be re-submitted as a GitHub issue.
+
+## Contributors
+
+The development of the inital version of the 1+MG Framework page was lead by the ELIXIR Hub based on the outpus from [1+MG](https://digital-strategy.ec.europa.eu/en/policies/1-million-genomes), [B1MG](https://b1mg-project.eu/), and [GDI](https://gdi.onemilliongenomes.eu/).  Please contact [framework@elixir-europe.org](mailto:framework@elixir-europe.org ) for any questions or comments.
+
+[B1MG Participants](https://b1mg-project.eu/about/participants)<br />
+[GDI participants](https://gdi.onemilliongenomes.eu/about/participants)
+
+
 
