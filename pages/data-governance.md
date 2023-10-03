@@ -39,8 +39,10 @@ To bridge these gaps and to help the 1+MG community navigate the heterogeneous e
     * Policy for the data inclusion in 1+MG, the data access procedures and requirements for data use; for research use only – data governance for other data use to follow
 * [Transparency and consent guidance](https://zenodo.org/record/8279851) <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span>
     * Minimum standards and recommendations to be considered for information sheets and for obtaining consent for secondary use of data 
-* Data Protection / ELSI by Design and Default (DPbDD recommendations): 
+* [Data Protection / ELSI by Design and Default (DPbDD recommendations):](https://zenodo.org/record/8399424) 
     * Recommendations for the information management and IT infrastructure features to comply with legal requirements and to implement the data governance
+*  [Data Protection by Design and Default: Full list of principles](https://zenodo.org/record/8399563)
+    * A presentation that lists all DPbDD principles by category
 * GDPR requirements as influencing factors for the legal framework of 1+MG
     * Discussion and recommendations on the legal framework for the implementation of 1+MG as a genomic infrastructure with respect to the legal instrument for establishment and the legally compliant operations; document shared with the 1+MG Group of Signatory Countries
 * Legal instruments for the sustainable implementation of the 1+MG genomic infrastructure 
