@@ -7,15 +7,17 @@ The National Implementations section of the 1+MG Framework is designed to be a p
 
 Below, the resources can be found both by catagory and by country:
 
+## Implementations by Category
 
-## Training materials
-## <a href="{{'/technical-implementation' | relative_url}}">Technical implementations</a>
-## ELSI documents
-## Sequencing Guidelines
-## Sustainability Plans
-## National Genomic Plans
+* ### Training materials
+* ### <a href="{{'/technical-implementation' | relative_url}}">Technical implementations</a>
+* ### ELSI documents
+* ### Sequencing Guidelines
+* ### Sustainability Plans
+* ### National Genomic Plans
 
-
+<br />
+## Implementations by Country
 {% include section-navigation-tiles-simple.html type="national-implementation" %}
 
 
