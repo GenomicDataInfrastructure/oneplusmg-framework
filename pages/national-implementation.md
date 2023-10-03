@@ -9,7 +9,7 @@ Below, the resources can be found both by catagory and by country:
 
 
 ## Training materials
-## Technical implementations
+## <a href="{{'/technical-implementation' | relative_url}}">Technical implementations</a>
 ## ELSI documents
 ## Sequencing Guidelines
 ## Sustainability Plans
