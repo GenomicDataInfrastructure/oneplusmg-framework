@@ -24,9 +24,6 @@ To bridge these gaps and to help the 1+MG community navigate the heterogeneous e
     * Identification of roles under the GDPR for the main processing operations for 1+MG
 * Challenges: Legal basis for the core processing operations <span class="badge badge-primary">Informational<i class="fa-sharp fa-solid fa-circle-info"></i></span>
     * Analysis of the availability of legal bases under Art. 6.1 GDPR and Art. 9.2 GDPR for the controllers along the main processing operations
-* Legal Instruments: Legal basis for the core processing operations <span class="badge badge-primary">Informational<i class="fa-sharp fa-solid fa-circle-info"></i></span>
-    * Analysis of the availability of legal bases under Art. 6.1 GDPR and Art. 9.2 GDPR for the controllers along the main processing operations
-
 
 ## Translation of ethical and legal requirements into policies and recommendations
 * [Policy for special (vulnerable) subjects and groups](https://zenodo.org/record/8279861) <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span>
@@ -45,7 +42,7 @@ To bridge these gaps and to help the 1+MG community navigate the heterogeneous e
     * A presentation that lists all DPbDD principles by category
 * GDPR requirements as influencing factors for the legal framework of 1+MG
     * Discussion and recommendations on the legal framework for the implementation of 1+MG as a genomic infrastructure with respect to the legal instrument for establishment and the legally compliant operations; document shared with the 1+MG Group of Signatory Countries
-* Legal instruments for the sustainable implementation of the 1+MG genomic infrastructure 
+* Legal instruments for the sustainable implementation of the 1+MG genomic infrastructure <span class="badge badge-primary">Informational<i class="fa-sharp fa-solid fa-circle-info"></i></span>
     * Analysis of possible legal instruments that could be used to create the legal framework that the 1+MG infrastructure could build on and their evaluation with respect to suitability for 1+MG needs
 
 ## Public Trust & Stakeholder Engagement
