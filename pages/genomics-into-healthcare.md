@@ -14,28 +14,28 @@ Facilitating dialogue and cooperation among countries for capacity building and 
 To fully exploit the potential of genomic information to benefit citizens health, it is crucial to understand how effectively healthcare systems implement genomic medicine. In the context of the 1+ Million Genomes Initiative (1+MG), a Maturity Level Model (MLM) was developped for healthcare systems to evaluate the maturity of their genomic medicine practices, and define a path to optimization.
 
 
-<img src="{{ 'assets/img/1+mg-roadmap.png' | relative_url }}" class="m-2" style="max-width:80%; max-height: 100%; vertical-align: middle" alt="1+MG Roadmap" />
+<img src="{{ 'assets/img/1+mg-roadmap-v2.png' | relative_url }}" class="m-2" style="max-width:100%; max-height: 100%; vertical-align: middle" alt="1+MG Roadmap" />
 
 ## Maturity Level Model
 
-<img src="{{ 'assets/img/mlm.png' | relative_url }}" class="m-2 width-80" style="max-width: 100%; max-height: 100%; vertical-align: middle" alt="Maturity Level Model" />
+<!--<img src="{{ 'assets/img/mlm.png' | relative_url }}" class="m-2 width-80" style="max-width: 100%; max-height: 100%; vertical-align: middle" alt="Maturity Level Model" /> -->
 
-### [B1MG Maturity Level Model](https://b1mg-project.eu/resources/maturity-level-model)
+### [1+MG Healthcare Maturity Level Model](https://b1mg-project.eu/resources/maturity-level-model)
 A tool for healthcare systems to self-evaluate the level of maturity of their genomic medicine practices according to a common matrix, and to define a path to optimization. 
 
 The MLM assesses indicators in eight key domains for the implementation of genomics in healthcare. Maturity in each domain is assessed by selecting one of five pre-defined maturity levels regarding the specified indicators. 
 
 The five maturity levels are indicative of a maturity progression, from a non-existent or Ad hoc level of implementation to a level of maturity characterized by a system adaptable to opportunity and change, and in support of international cooperation.
 
-A [B1MG MLM User Guide](https://docs.google.com/document/d/1t5y_Bnu_gaBPHiEfyXnAxeSKjzbx7oRw/edit#) is available
+A [1+MG Healthcare MLM User Guide](https://zenodo.org/records/10066995) is available
 
 ### [B1MG Maturity Level Model Report](https://zenodo.org/record/6587561)
-The Beyond One Million Genomes Maturity Level Model (B1MG MLM) was created as a tool for countries to self-assess the maturity level of implementation of genomics into their healthcare systems, according to a common matrix, and to define a path to optimization. As such, it aims to promote and facilitate the adoption of genomics in healthcare systems, close the best practice gaps across Europe, and make personalised medicine accessible to citizens and patients across Europe.
+The 1+MG Healthcare Maturity Level Model (1+MG Healthcare MLM) was created as a tool for countries to self-assess the maturity level of implementation of genomics into their healthcare systems, according to a common matrix, and to define a path to optimization. As such, it aims to promote and facilitate the adoption of genomics in healthcare systems, close the best practice gaps across Europe, and make personalised medicine accessible to citizens and patients across Europe.
 
-This report describes the design of the B1MG MLM and the content validation through a Delphi exercise.
+This report describes the design of the 1+MG Healthcare MLM and the content validation through a Delphi exercise.
 
-### [Roadmap and Guidance Tool](https://zenodo.org/record/8403567)
-This tool is available for countries that supports the B1MG Maturity Level Model. 
+### [Roadmap and Guidance Tool](https://zenodo.org/records/10067169)
+This tool is available for countries that supports the 1+MG Healthcare Maturity Level Model. 
 
 
 This roadmap is a very comprehensive guide to the current status of the field of genomic medicine in healthcare, covering all crucial areas with the most up to date recommendations for genomic medicine in healthcare.
