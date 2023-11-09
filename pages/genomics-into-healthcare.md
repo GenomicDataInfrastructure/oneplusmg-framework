@@ -18,8 +18,6 @@ To fully exploit the potential of genomic information to benefit citizens health
 
 ## Maturity Level Model
 
-<!--<img src="{{ 'assets/img/mlm.png' | relative_url }}" class="m-2 width-80" style="max-width: 100%; max-height: 100%; vertical-align: middle" alt="Maturity Level Model" /> -->
-
 ### [1+MG Healthcare Maturity Level Model](https://b1mg-project.eu/resources/maturity-level-model)
 A tool for healthcare systems to self-evaluate the level of maturity of their genomic medicine practices according to a common matrix, and to define a path to optimization. 
 
