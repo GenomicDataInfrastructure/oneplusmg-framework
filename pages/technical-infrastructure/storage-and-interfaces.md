@@ -5,7 +5,7 @@ description: Introduction to Storage and Interfaces
 
 Organisations store data and offer interfaces (APIs) following international standards that form the technically interoperable infrastructure backbone. Service building is assumed to leverage national and European investments in e-infrastructure capacities. Storage & interfaces need to provide techniques ensuring data privacy and confidentiality.
 
-### [Federated European Genome Archive (EGA)](https://ega-archive.org/federated) Technologies <span class="badge badge-dark">Recommended<i class="fa-solid fa-thumbs-up"></i></span>
+### [Federated European Genome Archive (EGA)](https://web2.ega-archive.org/federated) Technologies <span class="badge badge-dark">Recommended<i class="fa-solid fa-thumbs-up"></i></span>
 FEGA-based Technologies are used for the establishment of the 1+MG National Nodes that will store the genomic, phenotypic and the corresponding metada.
 
 ### [Phenopackets](https://www.ga4gh.org/product/phenopackets/) <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span>

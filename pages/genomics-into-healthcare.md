@@ -34,7 +34,11 @@ The Beyond One Million Genomes Maturity Level Model (B1MG MLM) was created as a 
 
 This report describes the design of the B1MG MLM and the content validation through a Delphi exercise.
 
-A Roadmap and Guidance Tool is available for countries that supports the B1MG Maturity Level Model
+### [Roadmap and Guidance Tool](https://zenodo.org/record/8403567)
+This tool is available for countries that supports the B1MG Maturity Level Model. 
+
+
+This roadmap is a very comprehensive guide to the current status of the field of genomic medicine in healthcare, covering all crucial areas with the most up to date recommendations for genomic medicine in healthcare.
 
 ## 1+MG Framework
 

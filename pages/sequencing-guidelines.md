@@ -17,6 +17,12 @@ Determining variants in the genome involves several bioinformatic procedures, su
 
 A general conclusion is that all participants have achieved a good level of quality at the sequencing stage, and the metrics measuring it are largely consistent, as there is very little dispersion. Differences in library preparation and sequencing protocols do not appear to significantly impact the expected quality of results. In the deliverable, the authors explain the performance of different participating laboratories for each one of the relevant sequencing metrics, and suggest general best practices to ensure the best quality.
 
+## [The B1MG data analysis challenge](https://zenodo.org/records/10057879)
+<span class="badge badge-primary">Informational<i class="fa-sharp fa-solid fa-circle-info"></i></span>
+
+This document aims to bridge the connection between genomic and health data analyses. Achieving this mission mandates a meticulous exploration of existing voids and optimal methodologies within germline and tumor WGS. The central focus lies in the orchestration of a somatic WGS benchmarking initiative, encompassing three distinct challenges: Wet Lab, Full Pipeline, and Dry Lab challenges.
+
+
 **We are still working on the content for this page.** If you are interested in adding to the page, then:
 
 [Feel free to contribute](how_to_contribute){: class="btn btn-primary btn-lg rounded-pill"}

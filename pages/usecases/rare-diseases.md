@@ -43,14 +43,12 @@ Proof of Concept completed  for Rare Disease utilising a number of existing GA4G
     <iframe width="560" height="349" src="https://www.youtube.com/embed/6MtIJA4xXdU" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## Catalogue of Met and Unmet Use Case Needs 
+## [Catalogue of Met and Unmet Use Case Needs](https://zenodo.org/records/10047185)
 <span class="badge badge-dark">Recommended<i class="fa-solid fa-thumbs-up"></i></span>
 
 * Planned further activities to meet the needs of the use cases as of 13/12/2022
 
-* Final deliverable forthcoming
-
-    * Met and unmet use cases will be recorded in [Zenhub](https://app.zenhub.com/workspaces/gdi-user-portal-649bf718bcef694f631ea9a9/epics?state=OPEN&state=TODO&state=IN_PROGRESS)
+* Met and unmet use cases will be recorded in [Zenhub](https://app.zenhub.com/workspaces/gdi-user-portal-649bf718bcef694f631ea9a9/epics?state=OPEN&state=TODO&state=IN_PROGRESS)
 
 * EJP RD Rare Disease Patient Registries Initiative: https://resourcemap.ejprarediseases.org/ 
 

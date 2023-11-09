@@ -9,14 +9,14 @@ The description of the phenotypic and clinical information is heterogeneous, mos
 
 To facilitate cross-border searching, linking and analysis of genomic and health data, this section of the 1+MG Framework includes a set of recommendations and guidelines that cover the minimal requirements for the provenance of the samples and the description of patient-specific phenotype and clinical data. Also, establishing and using standards for both sequencing and phenotypic and clinical data are, together with the ELSI standards, key elements in creating trust.
 
-## [Documented best practices in sharing and linking phenotypic and genetic data](https://zenodo.org/record/7342855) 
+## [Documented best practices in sharing and linking phenotypic and genetic data v2.0](https://zenodo.org/record/7342855) 
 <span class="badge badge-dark">Recommended<i class="fa-solid fa-thumbs-up"></i></span>
 
 This document identifies and describes best practices on sharing and linking phenotypic and genetic data in both the healthcare sector as in the research setting to, as much as possible, avoid reinventing the wheel, learn from previous/current existing projects to improve performance and avoid mistakes made by others. The listed ’best practices’ have been identified by the 1+MG WG3 experts, who are nominated by the Member States, and are exemplary practices that have achieved results which could be used for larger-scale cross-border initiatives.
 
 The areas of best practices covered are “data models and templates”, “Data interoperability, ontology and controlled terminology, ontology collections, mappings”, “Data standards”, “Data exchange standards”, “Data infrastructure, data management platforms and tools”, “Data governance, genomics data framework”, and “Data dictionaries”.
 
-## [Phenotypic and clinical metadata framework 2v0](https://zenodo.org/record/7554481) 
+## [Phenotypic and clinical metadata framework 3v0](https://zenodo.org/records/10058688) 
 <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span>
 
 One of the crucial instruments for 1+MG is a phenotypic and clinical metadata framework which describes, in a commonly understandable language, the principles, models, and recommendations for sharing and linking of phenotypic and clinical metadata and genetic metadata between the member states.  This framework document proposes to adhere to standards for data capture and exchange.  It provides guidance on which standards, terminologies, and tools to use.  
