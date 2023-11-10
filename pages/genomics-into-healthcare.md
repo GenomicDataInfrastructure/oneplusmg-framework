@@ -25,12 +25,12 @@ The MLM assesses indicators in eight key domains for the implementation of genom
 
 The five maturity levels are indicative of a maturity progression, from a non-existent or Ad hoc level of implementation to a level of maturity characterized by a system adaptable to opportunity and change, and in support of international cooperation.
 
-A [1+MG Healthcare MLM User Guide](https://zenodo.org/records/10066995) is available
+A [1+MG MLM for Healthcare User Guide](https://zenodo.org/records/10066995) is available
 
 ### [B1MG Maturity Level Model Report](https://zenodo.org/record/6587561)
-The 1+MG Healthcare Maturity Level Model (1+MG Healthcare MLM) was created as a tool for countries to self-assess the maturity level of implementation of genomics into their healthcare systems, according to a common matrix, and to define a path to optimization. As such, it aims to promote and facilitate the adoption of genomics in healthcare systems, close the best practice gaps across Europe, and make personalised medicine accessible to citizens and patients across Europe.
+The 1+MG Healthcare Maturity Level Model (1+MG MLM for Healthcare) was created as a tool for countries to self-assess the maturity level of implementation of genomics into their healthcare systems, according to a common matrix, and to define a path to optimization. As such, it aims to promote and facilitate the adoption of genomics in healthcare systems, close the best practice gaps across Europe, and make personalised medicine accessible to citizens and patients across Europe.
 
-This report describes the design of the 1+MG Healthcare MLM and the content validation through a Delphi exercise.
+This report describes the design of the 1+MG MLM for Healthcare and the content validation through a Delphi exercise.
 
 ### [Roadmap and Guidance Tool](https://zenodo.org/records/10067169)
 This tool is available for countries that supports the 1+MG Healthcare Maturity Level Model. 
