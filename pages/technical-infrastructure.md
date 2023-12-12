@@ -40,11 +40,11 @@ Global Alliance for Genomics and Health (GA4GH) standards are used to link the d
 
 <img src="{{ 'assets/img/data-infrastructure.png' | relative_url }}" class="m-2" style="max-width: 100%; max-height: 100%; vertical-align: middle" alt="Cancer Proof of Concept Schema" />
 
-<figcaption class="text-center">Cancer Proof of Concept Schema</figcaption>
+<figcaption class="text-center">Proof of Concept Schema</figcaption>
 
-<img src="{{ 'assets/img/technical-infrastructure-figure2.png' | relative_url }}" class="m-2" style="max-width: 100%; max-height: 100%; vertical-align: middle" alt="Rare Disease Proof of Concept Schema" />
+<!--<img src="{{ 'assets/img/technical-infrastructure-figure2.png' | relative_url }}" class="m-2" style="max-width: 100%; max-height: 100%; vertical-align: middle" alt="Rare Disease Proof of Concept Schema" />
 
-<figcaption class="text-center">Rare Disease Proof of Concept Schema</figcaption>
+<figcaption class="text-center">Rare Disease Proof of Concept Schema</figcaption>-->
 
 ## [European Genomes Dashboard](https://dashboard.onemilliongenomes.eu/)
 This dashboard shows the current number of genomic datasets across the 1+MG Member States.
