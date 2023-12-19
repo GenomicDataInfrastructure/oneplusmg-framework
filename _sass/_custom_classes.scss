@@ -229,6 +229,12 @@ main {
 .badge.national{
     padding: 0.6rem;
 }
+.badge-techimp{
+    background-color: $corblue;
+}
+.badge-elsi{
+    background-color: $lightblue;
+}
 .badge-warning {
     color: $body-text-colour;
     background-color: $yellow;
