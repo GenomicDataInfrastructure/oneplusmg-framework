@@ -15,12 +15,10 @@ Below, the resources can be found both by category and by country:
 
 ## Implementations by Category
 
-* ### National Mirror Groups Contact Points
 * ### <a href="{{'/training-materials' | relative_url}}">Training materials</a>
 * ### <a href="{{'/technical-implementation' | relative_url}}">Technical implementations</a>
 * ### <a href="{{'/elsi-documents' | relative_url}}">ELSI documents</a>
 * ### Sequencing Guidelines
-* ### Sustainability Plans
 * ### <a href="{{'/national-genomic-plans' | relative_url}}">National Genomic Plans</a>
 
 <br />
