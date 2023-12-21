@@ -5,7 +5,7 @@ title: About the Framework
 ## Intro to 1+MG, B1MG, and GDI
 
 The [1+ Million Genomes (1+MG) initiative](https://digital-strategy.ec.europa.eu/en/policies/1-million-genomes) aims to enable secure access to genomics and the corresponding clinical data across Europe for better research, personalised healthcare and health policy making. Since the Digital Day 2018, 24 EU countries plus the United Kingdom and Norway signed the Member States’ Declaration ‘Towards access to at least 1 million sequenced genomes in the EU by 2022. This plan consists of stepping up efforts towards creating a European data infrastructure for genomic data and implementing common national rules enabling federated data access. The initiative forms part of the EU’s agenda for the Digital Transformation
-of Health and Care and is aligned with the goals of the European Health Data Space (EHDS). The 1+MG Roadmap, published in February 2020, sets out the priorities for the period 2020-2022.
+of Health and Care and is aligned with the goals of the European Health Data Space (EHDS). The updated [1+MG Roadmap](https://ec.europa.eu/newsroom/dae/redirection/document/99974), published in Q3, 2023, sets out the priorities for the period 2023-2027.
 
 The [Beyond 1 Million Genomes (B1MG)](https://b1mg-project.eu/) project is helping to create a network of genetic and clinical data across Europe. The project provides coordination and support to the 1+ Million Genomes Initiative (1+MG). This initiative is a commitment of 24 EU countries, the UK and Norway to give cross-border access to one million sequenced genomes by 2022.  But B1MG will go 'beyond' the 1+MG Initiative by creating long-term means of sharing data beyond 2022, and enabling access to beyond 1 million genomes. 
 
