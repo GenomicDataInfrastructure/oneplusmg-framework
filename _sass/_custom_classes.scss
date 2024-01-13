@@ -29,13 +29,13 @@
     }
 
     h2 {
-        font-family:  $font-family-theme;
+        //font-family:  $font-family-theme;
         font-size: 1.6rem;
     }
 
     h3 {
         font-weight: 500;
-        font-family:  $font-family-theme;
+        //font-family:  $font-family-theme;
         font-size: 1.2rem;
     }
     .pb45{
@@ -283,4 +283,13 @@ body#main:after {
     left: -30%;
     z-index: -1;
     background-size: cover;
+}
+
+main{
+    h2{
+        font-weight: 500;
+    }
+    h3{
+        font-weight: 600;
+    }
 }

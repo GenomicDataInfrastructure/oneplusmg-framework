@@ -1,6 +1,17 @@
 
 /*-----General styling-----*/
-$font-family-theme: 'Fira Sans', sans-serif;
+/* fira-sans-regular - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'fira_sansregular';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/assets/font/fira-sans-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+    //src: url('../assets/font/firasans-regular-webfont.woff2') format('woff2'),
+         //url('../assets/font/firasans-regular-webfont.woff') format('woff');
+  }
+  
+$font-family-theme: 'fira_sansregular', sans-serif;
 $h2-color: $primary;
 $h4-color: $primary;
 
