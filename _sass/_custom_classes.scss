@@ -269,6 +269,10 @@ body#main {
     position: relative;
     z-index: 0;
 }
+.ngp img{
+    padding: 15px;
+    background-color: #eee;
+}
   
 body#main:after {
     background-position: center;
