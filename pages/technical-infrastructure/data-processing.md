@@ -14,6 +14,16 @@ The GA4GH Workflow Execution Service (WES) standard specifies how complex analyt
 
 Researchers use genomics tools and workflows to conduct analyses in cloud computing environments. Tools and workflows, however, are often developed for a specific environment and are stored in a registry that services only associated platforms. Since each registry requires the tools and workflows it stores to meet a unique set of criteria, the contents of one registry are not guaranteed to work across multiple cloud environments. This lack of interoperability slows research and limits the variety of analyses that researchers can perform. Developed by the GA4GH Cloud Work Stream, the Tool Registry Service (TRS) API provides a standard mechanism to list, search, and register tools and workflows across multiple registries.
 
+### [Report on federated learning technologies](https://zenodo.org/records/11550561)
+
+Federated learning is described as a distributed machine learningtechnique in which multiple participants, which provide remote devices or siloed data centres, collaboratively train a shared machine learning model while keeping their data locally, better supporting data privacy. In this report, we provide a brief background on recent work on federated learning applied to genomics and health and how they are aligned to demonstrations performed in GDI, report the results of surveys conducted within the GDI participants regarding workflows and federated learning technologies, and discuss and evaluation of different possible scenarios for integrating these technologies into the GDI infrastructure.
+
+
+### [Evaluation of distributed analysis and federated learning infrastructure solutions and recommendations for adoption](https://zenodo.org/records/10887366)
+
+The completion of the first iteration of the Global Data Initiative technical demonstrators marks a significant milestone in collaborative efforts defining the next level of technologies that will be incorporated into the project. Three key demonstrators showcased advancements in distributed and federated analysis, cancer data mobilisation, and trusted research environments. Advancements in Distributed and Federated Analysis, Cancer Data Mobilization and Integration, and Advancements in Trusted Research Environments:
+
+
 
 
 

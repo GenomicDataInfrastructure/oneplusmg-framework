@@ -25,7 +25,7 @@ It will contain the set of agreed outputs and guidance on:
 * Data standards to be applied to fulfil FAIR principles
 * Technical Infrastructure standards and APIs to be implemented
 * Data quality guidelines
-* Tools and guideance for Node and country advancement
+* Tools and guidance for Node and country advancement
 
 
 <img src="{{ 'assets/img/realising-vision-for-european-healthcare.png' | relative_url }}" class="m-2" style="max-width: 100%; max-height: 100%; vertical-align: middle" alt="Realising vision for European Healthcare" />

@@ -1,5 +1,5 @@
 ---
-title: EHDS Alignment
+title: European Project Alignment
 ---
 
 In order to fulfil the 1+MG ambition, the 1+MG Framework collects the recommendations and guidelines of EU experts to facilitate access to genomic, phenotypic and other types of data across borders. The 1+MG Framework therefore can be used by the European Health Data Space (EHDS) when tackling the access to genomic data for secondary use. Most processes, standards and reference implementations related to the management of genomic information could be used by 1+MG, EHDS and other initiatives and projects that would need to share access to genomic information across borders, ensuring technical interoperability.
@@ -23,8 +23,8 @@ This cycle has gone through multiple iterations by TEHDAS and we examine the con
         <tr>
             <td colspan="1" rowspan="4" class="text-center align-middle pink">Data Preparation</td>
             <td colspan="1" rowspan="1">Collection</td>
-            <td colspan="1" rowspan="1"><a href="{{ '/sequencing-guidelines' | relative_url }}">Sequencing Guidelines</a></td>
-            <td colspan="1" rowspan="8" class="text-center align-middle"><a href="{{ '/data-governance' | relative_url }}">Governance &amp; ELSI</a></td>
+            <td colspan="1" rowspan="1"><a href="{{ '/data-quality-inclusion' | relative_url }}">Data Quality & Inclusion</a></td>
+            <td colspan="1" rowspan="8" class="text-center align-middle"><a href="{{ '/governance-elsi' | relative_url }}">Governance &amp; ELSI</a></td>
         </tr>
         <tr class="c7">
             <td colspan="1" rowspan="2">Standardization</td>

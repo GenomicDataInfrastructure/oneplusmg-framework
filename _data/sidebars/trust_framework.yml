@@ -1,9 +1,9 @@
 title: 1+MG Framework
 title_url: /index
 subitems:
-  - title: Sequencing guidelines
+  - title: Data Quality & Inclusion
     image_url: /assets/img/section-icons/data-quality-v1.svg
-    url: /sequencing-guidelines
+    url: /data-quality-inclusion
     description: Sequence data generation and quality requirements for WGS/WES data to be labelled as 1+MG complaint
 
   - title: Data models, standards & ontologies

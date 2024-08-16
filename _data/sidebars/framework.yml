@@ -1,15 +1,15 @@
 title: 1+MG Framework
 title_url: /index
 subitems:
-  - title: EHDS Alignment
+  - title: European Project Alignment
     url: /ehds-data-lifecycle
     description: Outlining how the elements of the 1+MG Framework align with the European Health Data Space User Journey and Data Life Cycle
     image_url: /assets/img/section-icons/user-journey.svg
 
-  - title: Data governance and ELSI
-    url: /data-governance
+  - title: Governance and ELSI
+    url: /governance-elsi
     image_url: /assets/img/section-icons/data-standard-v1.svg
-    description: Guidance and recommendations on how to address data governance and ELSI aspect to ensure data can be made available.
+    description: Guidance and recommendations on how to address governance and ELSI aspect to ensure data can be made available.
 
   - title: Data models, standards & ontologies
     image_url: /assets/img/section-icons/data-governance-v1.svg
@@ -32,9 +32,9 @@ subitems:
       - title: "Data processing"
         url: /data-processing
 
-  - title: Sequencing guidelines
+  - title: Data Quality & Inclusion
     image_url: /assets/img/section-icons/data-quality-v1.svg
-    url: /sequencing-guidelines
+    url: /data-quality-inclusion
     description: Sequence data generation and quality requirements for WGS/WES data to be labelled as 1+MG complaint.
 
   - title: Genomics into healthcare

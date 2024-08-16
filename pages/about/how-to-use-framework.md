@@ -10,13 +10,13 @@ If you are already familiar with the projects or know the type of guidance or re
 
 ### Technical Framework
 
-* <a href="{{ '/sequencing-guidelines' | relative_url }}">Sequencing Guidelines</a>: Sequence data generation guidelines with a focus on data quality
+* <a href="{{ '/data-quality-inclusion' | relative_url }}">Data Quality & Inclusion</a>: Sequence data generation guidelines with a focus on data quality
 * <a href="{{ '/data-models-ontologies' | relative_url }}">Data Models & Ontologies</a>: Standards for structuring genomic and health data
 * <a href="{{ '/technical-infrastructure' | relative_url }}">Technical Infrastructure</a>: Technical standards, APIs and software solutions for creating an interoperable federated European genomic data infrastructure
 
 ### Implementations
 
-* <a href="{{ '/data-governance' | relative_url }}">Governance & ELSI</a>: Legal and ethical framework to support the European genomics data infrastructure
+* <a href="{{ '/governance-elsi' | relative_url }}">Governance & ELSI</a>: Legal and ethical framework to support the European genomics data infrastructure
 
 * <a href="{{ '/genomics-into-healthcare' | relative_url }}">Implementation into Healthcare</a>: guidance to promote and facilitate the adoption of genomics by healthcare systems for making personalised medicine accessible to citizens and patients across Europe.
 

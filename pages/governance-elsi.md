@@ -1,6 +1,6 @@
 ---
-title: Data governance and ELSI
-description: Introduction to data governance and ELSI
+title: Governance and ELSI
+description: Introduction to governance and ELSI
 ---
 
 To improve personalised medicine based on genomic information, the 1+MG initiative aims to give cross-border access to genomic data from 1 million+ EU citizens for research analyses and clinical applications. This effort must meet ethical-legal standards and be socially responsible.
@@ -27,6 +27,9 @@ To bridge these gaps and to help the 1+MG community navigate the heterogeneous e
 
 
 ## Translation of ethical and legal requirements into policies and recommendations
+* [Evaluation of the potential legal frameworks for the infrastructure](https://zenodo.org/records/8208479)
+    * The establishment of a joint European genomic data infrastructure requires the establishment of a legal basis under Article 6 of the General Data Protection Regulation (GDPR) and a legitimation for processing health and genetic data for the processing within the infrastructure itself as well as for the stakeholders contributing personal data to it or using the personal data. We have identified the challenges related to the the three steps of 1) how to bring data into the 1+Million Genomes (1+MG) infrastructure, 2) how to  disclose data towards users, and 3)how to process data as a user, in particular where data use goes beyond research.
+
 * [Policy for special (vulnerable) subjects and groups](https://zenodo.org/record/8279861) <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span>
     * Recommendations on how to consider the vulnerability and rights of special subjects such as children and special groups subject to vulnerability
 * [Policy for incidental findings](https://zenodo.org/record/8279737) <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span>
@@ -46,6 +49,19 @@ To bridge these gaps and to help the 1+MG community navigate the heterogeneous e
 * Legal instruments for the sustainable implementation of the 1+MG genomic infrastructure 
     * Analysis of possible legal instruments that could be used to create the legal framework that the 1+MG infrastructure could build on and their evaluation with respect to suitability for 1+MG needs
 
+* [Draft data management policy published including ELSI best practice](https://zenodo.org/records/7956612)
+
+    * Defining the data management policy is an important step to ensure genomic data in GDI is protected from unauthorised access, use, or disclosure, and that it complies to local legal and regulatory requirements. This is the draft version of the data management policy and it will evolve as the discussions around data governance, ELSI requirements and data management plans are taken into account in WP6 and in GDI as a whole. This report describes the main elements of the data management plan that need to be taken into account and as such this should be used as a guide for each node in GDI. Over time, we will describe good common practices for each of these elements, and individual nodes will be able to add any deviations from these common practices to represent the way data management is actually performed. 
+
+
+* [Report outlining the recommendations on data curation and ELSI compliance](https://zenodo.org/records/10723494)
+
+    * It is a challenging task to work with genomic data sequenced over several years (legacy and future data). The aim of this deliverable is to gather recommendations and best practices for the process of curating data for ingestion into GDI nodes. Data curation is a broad term that includes managing data throughout its lifecycle, overlapping with other tasks and aspects of the GDI project. Since one important aspect of data curation is to ensure its quality—the availability and fitness for use and reuse-, this report will focus on data quality aspects and ELSI compliance during the submission process to the data repository. It also discusses some possibilities on how to assure data quality and elaborates on the concepts of data quality and data curation, with a strong focus on genomic data. This report then provides a list of resources for genomic data quality assessment.
+
+
+* [Evaluation of data governance experiences](https://zenodo.org/records/10069814)
+    * This deliverable reports on experience collected from existing national and international data infrastructures with the focus on data access governance. This is based on input gathered in the project HealthData @ EU and complemented by information gathered in a workshop that we organised ourselves.
+
 ## Public Trust & Stakeholder Engagement
 * [Stakeholders trust in genomic data sharing landscape analysis](https://zenodo.org/record/6382431) <span class="badge badge-dark">Recommended<i class="fa-solid fa-thumbs-up"></i></span>
     * This scoping report represents a mission-oriented approach to supporting citizens' engagement and public trust in genomic data sharing, scoping out and suggesting possible approaches. It recognises from the outset that the issues of engagement and trust extend beyond the indispensable involvement of citizens to embrace a much wider range of stakeholders whose buy-in will also be essential to success. This review takes account of the B1MG and 1+MG, and aims to offer conceptual and practical steps for building on those achievements to bridge potential and actual benefits to science and society with a specific focus on citizens.
@@ -53,6 +69,20 @@ To bridge these gaps and to help the 1+MG community navigate the heterogeneous e
     * Citizen engagement and public trust have been raised as critical components in the B1MG stakeholder forum meetings and country visits. To discuss these components, an online expert workshop was facilitated on January 18, 2023. Lessons learned from various engagement activities were shared under three subthemes: “When an ELSI framework is in place, what is the (additional) role of citizen engagement in fostering data sharing and public trust?”; “How does citizen engagement relate to (interests of) other stakeholders?”; “When and how to engage and at what level?”.
 * [B1MG recommendation on citizens engagement and public trust in genomic data sharing](https://zenodo.org/record/8403577) <span class="badge badge-dark">Recommended<i class="fa-solid fa-thumbs-up"></i></span>
     * Lessons learned from various engagement activities were shared under three subthemes: “When an ELSI framework is in place, what is the (additional) role of citizen engagement in fostering data sharing and public trust?”; “How does citizen engagement relate to (interests of) other stakeholders?”; “When and how to engage and at what level?”. Recommendations stress the need for dedicated resources; acknowledging different views and interests; the need for capacity building to enable engagement; and creating meaningful participation via selected tools through early engagement with a careful choice of engagement strategy; having good and transparent governance for enabling trustworthiness to contribute to accountability; and the need to find ways to connect the relational trust established at the national level to the EU level.
+
+## Economics and Sustainability of the Infrastructure
+
+* [First analysis of cost elements for the setup of 1+MG infrastructure](https://zenodo.org/records/10728049)
+
+    * Long-term financial sustainability is vital for any data infrastructure – but it is particularly true for infrastructures like 1+MG that depend on the accumulation of data over time to function. To accommodate the sensitive nature of the data, the computing infrastructure needs to be made available to users in secure processing environments and there needs to be sufficient storage in place. Coordinating and aligning compute hardware infrastructure, the data and services across many stakeholders and countries is challenging. The infrastructure will need to be able to support a large number of different users, working in research, health care and innovation.
+
+    This deliverable provides the first step in building the financial underpinnings of this understanding: it defines the functional elements across the infrastructure with their independent functions in operating the infrastructure, and provides lists of cost items for each of these functions including how they scale with regard to the size of the infrastructure. Future work will focus on possible sources of financing that can be appealed to for the maintenance of each of these functions.
+
+
+* [Infrastructure cost report](https://zenodo.org/records/11635233)
+
+    * This report will give the reader the first overview of the financial obligations for a country in becoming a member of the EDIC. In this report, the assumption is that the costs of the central operation will be distributed across member countries based on the individual countries GDP level. While this is only the first iteration of the budget and cost distribution, it should provide an indication of the expected size of the general membership fee. 
+
 
 
 
