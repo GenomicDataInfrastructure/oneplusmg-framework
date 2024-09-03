@@ -1,6 +1,6 @@
 ---
-title: Data Quality & Inclusion
-description: Introduction to data quality & inclusion
+title: Data quality and inclusion
+description: Introduction to data quality and inclusion
 ---
 
 Guidelines and best practices for sequencing and data generation with a focus on ensuring data quality.
