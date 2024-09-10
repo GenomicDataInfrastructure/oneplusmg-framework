@@ -1,5 +1,5 @@
 ---
-title: Data Quality and Inclusion
+title: Data quality and inclusion
 description: Introduction to data quality & inclusion
 ---
 
