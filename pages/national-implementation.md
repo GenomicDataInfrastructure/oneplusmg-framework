@@ -18,7 +18,7 @@ Below, the resources can be found both by category and by country:
 * ### <a href="{{'/training-materials' | relative_url}}">Training materials</a>
 * ### <a href="{{'/technical-implementation' | relative_url}}">Technical implementations</a>
 * ### <a href="{{'/elsi-documents' | relative_url}}">ELSI documents</a>
-* ### Data Quality & Inclusion
+* ### Data quality and inclusion
 * ### <a href="{{'/national-genomic-plans' | relative_url}}">National Genomic Plans</a>
 
 <br />
