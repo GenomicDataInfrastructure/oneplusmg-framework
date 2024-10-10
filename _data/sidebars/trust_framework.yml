@@ -1,7 +1,7 @@
 title: 1+MG Framework
 title_url: /index
 subitems:
-  - title: Data Quality & Inclusion
+  - title: Data quality & inclusion
     image_url: /assets/img/section-icons/data-quality-v1.svg
     url: /data-quality-inclusion
     description: Sequence data generation and quality requirements for WGS/WES data to be labelled as 1+MG complaint
@@ -14,7 +14,7 @@ subitems:
   - title: Technical infrastructure
     image_url: /assets/img/section-icons/data-infrastructure-v1.svg
     url: /technical-infrastructure
-    description: Stack of standards, open source references implementations, synthetic data and proof of concepts that can be used to establish a 1+MG node.
+    description: Stack of standards, open source references implementations, synthetic data and proof of concepts that can be used to establish a 1+MG node
     subitems:
       - title: "Data discovery"
         url: /data-discovery
