@@ -4,17 +4,17 @@ subitems:
   - title: Governance and ELSI
     url: /governance-elsi
     image_url: /assets/img/section-icons/data-standard-v1.svg
-    description: Guidance and recommendations on how to address governance and ELSI aspect to ensure data can be made available.
+    description: Guidance and recommendations on how to address governance and ELSI aspect to ensure data can be made available
 
   - title: Genomics into healthcare
     image_url: /assets/img/section-icons/genomics-into-healthcare.svg
     url: /genomics-into-healthcare
-    description: Assessment Maturity Level Model to guide healthcare systems on their journey to implement genomic medicine.    
+    description: Assessment Maturity Level Model to guide healthcare systems on their journey to implement genomic medicine    
 
   - title: National implementation
     image_url: /assets/img/section-icons/nation.svg
     url: /national-implementation
-    description: Find pointers to country specific information resources and national research data management practices.
+    description: Find pointers to country specific information resources and national research data management practices
         
 
 
