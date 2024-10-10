@@ -4,7 +4,7 @@ subitems:
   - title: Data quality & inclusion
     image_url: /assets/img/section-icons/data-quality-v1.svg
     url: /data-quality-inclusion
-    description: Sequence data generation and quality requirements for WGS/WES data to be labelled as 1+MG complaint
+    description: Sequence data generation and quality requirements for WGS/WES data to be labelled as 1+MG compliant
 
   - title: Data models, standards & ontologies
     image_url: /assets/img/section-icons/data-governance-v1.svg 
