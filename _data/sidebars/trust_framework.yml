@@ -11,7 +11,7 @@ subitems:
     url: /data-models-ontologies
     description: 1+MG minimal data models for different use cases and recommendations on ontologies and data standards
 
-  - title: Technical Infrastructure
+  - title: Technical infrastructure
     image_url: /assets/img/section-icons/data-infrastructure-v1.svg
     url: /technical-infrastructure
     description: Stack of standards, open source references implementations, synthetic data and proof of concepts that can be used to establish a 1+MG node.
