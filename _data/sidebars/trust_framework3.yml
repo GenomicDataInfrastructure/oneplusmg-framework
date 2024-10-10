@@ -1,7 +1,7 @@
 title: 1+MG Framework
 title_url: /index
 subitems:
-  - title: European Project Alignment
+  - title: European project alignment
     url: /ehds-data-lifecycle
     description: Outlining how the elements of the 1+MG Framework align with the European Health Data Space User Journey and Data Life Cycle
     image_url: /assets/img/section-icons/user-journey.svg
@@ -9,7 +9,7 @@ subitems:
   - title: Use cases
     image_url: /assets/img/section-icons/use-case.svg
     url: /usecases
-    description: Learn about data management tasks that affect your domain or research community, and the solutions adopted to address them.
+    description: Learn about data management tasks that affect your domain or research community, and the solutions adopted to address them
     subitems:
       - title: "Rare diseases"
         url: /rare-diseases
