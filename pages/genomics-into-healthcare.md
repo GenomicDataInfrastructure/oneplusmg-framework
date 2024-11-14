@@ -32,7 +32,7 @@ The 1+MG Healthcare Maturity Level Model (1+MG MLM for Healthcare) was created a
 
 This report describes the design of the 1+MG MLM for Healthcare and the content validation through a Delphi exercise.
 
-### [Roadmap and Guidance Tool](https://zenodo.org/records/10067169)
+### [Roadmap and Guidance Tool](https://zenodo.org/records/6587561)
 This tool is available for countries that supports the 1+MG Healthcare Maturity Level Model. 
 
 
