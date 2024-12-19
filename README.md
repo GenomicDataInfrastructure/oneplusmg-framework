@@ -1,6 +1,6 @@
  [![theme badge](https://img.shields.io/badge/ELIXIR%20toolkit%20theme-jekyll-blue?color=0d6efd)](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme)
 
-<img src="https://raw.githubusercontent.com/GenomicDataInfrastructure/oneplusmg-framework/master/assets/img/main_logo.svg" alt="1+MG Framework logo" width="450" />
+<img src="https://raw.githubusercontent.com/GenomicDataInfrastructure/oneplusmg-framework/master/assets/img/logo.png" alt="1+MG Framework logo" width="450" />
 
 
 

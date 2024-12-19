@@ -16,7 +16,7 @@ gtag:
 theme_variables:
   theme_color: 004494
   topnav:
-    brand_logo: assets/img/main_logo.svg
+    brand_logo: assets/img/logo.png
   fonts:
     
 

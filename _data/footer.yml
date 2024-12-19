@@ -4,7 +4,7 @@ columns:
   - type: image
     image_width: 120px
     width: 2
-    src: 'assets/img/1+MG_logo_White.png'
+    src: 'assets/img/secondary-logo-v1.png'
     alt: logo by-covid
   - type: links
     width: 5
