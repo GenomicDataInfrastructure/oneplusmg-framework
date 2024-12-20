@@ -36,7 +36,7 @@ Sensitive data needs specialised services to manage data in an ELSI-compliant wa
 Local, high-performance and cloud computing must fulfil appropriate security standards to provide processing capacities for human data coordinated in 1+MG. Distinct processing events happen on the infrastructure: Localisation of the data and code to the appropriate platform (local or distributed) and data analysis by the individual data user who has acquired the access rights for the intended data use. 
 
 
-Global Alliance for Genomics and Health (GA4GH) standards are used to link the different applications supporting the five technical functionalities within the B1NG Proof of Concept.  The chosen standards aligned with the functionalities can be seen in the diagram below.  While none of these standards are required for a Node to implement, they can be seen as the interoperability backbone of the infrastructure.
+Global Alliance for Genomics and Health (GA4GH) standards are used to link the different applications supporting the five technical functionalities within the B1MG Proof of Concept.  The chosen standards aligned with the functionalities can be seen in the diagram below.  While none of these standards are required for a Node to implement, they can be seen as the interoperability backbone of the infrastructure.
 
 <img src="{{ 'assets/img/data-infrastructure.png' | relative_url }}" class="m-2" style="max-width: 100%; max-height: 100%; vertical-align: middle" alt="Cancer Proof of Concept Schema" />
 
