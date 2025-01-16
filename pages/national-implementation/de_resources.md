@@ -7,11 +7,26 @@ coordinators:
 
 ---
 
-**We are still working on the content for this page.** If you are interested in adding to the page, then:
+# Entry page
 
-[Feel free to contribute](how_to_contribute){: class="btn btn-primary btn-lg rounded-pill"}
+- [GHGA (The German Human Genome-Phenome Archive)](https://www.ghga.de)
 
-This is a community-driven website, so contributions are welcome! You will, of course, be listed as a contributor on the page.
+# Training Materials
+
+- [GHGA Training Resources](https://www.ghga.de/resources/training)
+- [GHGA Lecture Series](https://www.youtube.com/playlist?list=PLXMwmQxyLByXrAqR-HPve0SSc0E-YqK4b)
+- [GHGA Webinars](https://www.youtube.com/playlist?list=PLXMwmQxyLByXU38-1aG7m-b1A6UADZcxw)
+
+# Technical Implementation
+
+- [GDI Starter Kit deployment at GHGA notes](https://github.com/GenomicDataInfrastructure/starter-kit-de-deployment-notes)
+- [German Node Presentation in the GDI Pillar II Meeting (Dec. 4, 2024)](https://www.youtube.com/watch?v=Q3-IjT8Jpf4)
+
+# ELSI Documents
+
+- [Patient Engagement at GHGA](https://www.ghga.de/about-us/how-we-work/patient-engagement)
+- [ELSI Tools](https://www.ghga.de/resources/elsi-tools)
+- [Legal Documents](https://www.ghga.de/datenportal/legal-documents)
 
 <a onclick="window.history.back()" class="btn btn-primary btn-lg rounded-pill">Browse other nations</a>
 
