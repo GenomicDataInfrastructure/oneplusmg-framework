@@ -14,7 +14,7 @@ coordinators:
 # Training Materials
 
 - [GHGA Training Resources](https://www.ghga.de/resources/training)
-- [GHGA Lecture Series](https://www.youtube.com/watch?v=MfeaK_XrVx4&list=PLXMwmQxyLByXrAqR-HPve0SSc0E-YqK4b)
+- [GHGA Lecture Series](https://www.youtube.com/playlist?list=PLXMwmQxyLByXrAqR-HPve0SSc0E-YqK4b)
 - [GHGA Webinars](https://www.youtube.com/playlist?list=PLXMwmQxyLByXU38-1aG7m-b1A6UADZcxw)
 
 # Technical Implementation
