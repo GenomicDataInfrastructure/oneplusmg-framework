@@ -20,7 +20,7 @@ coordinators:
 # Technical Implementation
 
 - [GDI Starter Kit deployment at GHGA notes](https://github.com/GenomicDataInfrastructure/starter-kit-de-deployment-notes)
-- [German Node Presentation in the GDI Pillar II Meeting (Dec. 4, 2024)](https://www.youtube.com)
+- [German Node Presentation in the GDI Pillar II Meeting (Dec. 4, 2024)](https://www.youtube.com/watch?v=Q3-IjT8Jpf4)
 
 # ELSI Documents
 
