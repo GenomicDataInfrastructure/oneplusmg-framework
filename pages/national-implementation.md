@@ -14,7 +14,7 @@ The National Implementations section of the 1+MG Framework is designed to be a p
 
 The NMGs Contact points will play a key role in supporting national players and interacting with other NMGs to build capacity across 1+MG countries. Prototypical questions they could need to answer could be for national players: How can I engage with the initiative? How can I find data available? What do I need to share my data? How can I run my pipeline? How do I connect with my institute? For NMGs: How are you organised? How can I get access to your service implementation? Note that a helpdesk will be delivered as part of GDI to support NMGs contact points among other users and stakeholders.
 
-### Description of National Mirror Groups status and recommendations
+### [Description of National Mirror Groups status and recommendations](https://zenodo.org/records/14001481)
 
 This deliverable presents the results of the first activities of National Mirror Group (NMG) support of the GDI project. The activities are classified as follows:1) Analysis of the NMG status in collaboration with ELIXIR and 2) Fostering participation and capacity-building actions. 
 
