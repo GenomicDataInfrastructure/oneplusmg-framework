@@ -30,13 +30,10 @@ The 1+MG Initiative and related projects provide technical and ELSI guidelines w
 * ### Data quality and inclusion
 * ### <a href="{{'/national-genomic-plans' | relative_url}}">National Genomic Plans</a>
 
-<br />
 ## Implementations by country
 {% include section-navigation-tiles-simple.html type="national-implementation" %}
 
-
 To contribute your country’s Genomic Data Infrastructure’s solutions, please email [framework@elixir-europe.org](mailto:framework@elixir-europe.org) and include your country, a permanent, sharable link to your resource and the category or categories under which it fits.  If you are not the National Mirror Group lead for your country, please make sure you copy them into the email for approval.
-
 
 **We are still working on the content for this page.** If you are interested in adding to the page, then:
 
