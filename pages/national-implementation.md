@@ -1,5 +1,5 @@
 ---
-title: National implementation.
+title: National implementation
 description: National implementation through the 1+MG National Mirror Groups (NMGs)
 ---
 The 1+MG National Mirror Groups (NMGs) are the key instrument for implementing the 1+MG EU-level guidelines and recommendations presented in this framework across EU countries according to their national reality (learn more about NMGs <a href="https://zenodo.org/record/5018535">here<a>). 
@@ -31,7 +31,7 @@ The 1+MG Initiative and related projects provide technical and ELSI guidelines w
 * ### <a href="{{'/national-genomic-plans' | relative_url}}">National Genomic Plans</a>
 
 <br />
-## Implementations by Country
+## Implementations by country
 {% include section-navigation-tiles-simple.html type="national-implementation" %}
 
 
