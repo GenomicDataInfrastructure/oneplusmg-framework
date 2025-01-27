@@ -72,20 +72,13 @@ To bridge these gaps and to help the 1+MG community navigate the heterogeneous e
 
 ## Economics and Sustainability of the Infrastructure
 
-* [First analysis of cost elements for the setup of 1+MG infrastructure](https://zenodo.org/records/10728049)
+[First analysis of cost elements for the setup of 1+MG infrastructure](https://zenodo.org/records/10728049)
 
-    * Long-term financial sustainability is vital for any data infrastructure – but it is particularly true for infrastructures like 1+MG that depend on the accumulation of data over time to function. To accommodate the sensitive nature of the data, the computing infrastructure needs to be made available to users in secure processing environments and there needs to be sufficient storage in place. Coordinating and aligning compute hardware infrastructure, the data and services across many stakeholders and countries is challenging. The infrastructure will need to be able to support a large number of different users, working in research, health care and innovation.
+Long-term financial sustainability is vital for any data infrastructure – but this is particularly true for infrastructures like 1+MG which depend on the accumulation of data over time to function. This deliverable provides the first step in building the financial underpinnings of this understanding: it defines the functional elements across the infrastructure with their independent functions in operating the infrastructure, and provides lists of cost items for each of these functions, including how they scale with regard to the size of the infrastructure.
 
-    This deliverable provides the first step in building the financial underpinnings of this understanding: it defines the functional elements across the infrastructure with their independent functions in operating the infrastructure, and provides lists of cost items for each of these functions including how they scale with regard to the size of the infrastructure. Future work will focus on possible sources of financing that can be appealed to for the maintenance of each of these functions.
+[Infrastructure cost report](https://zenodo.org/records/11635233)
 
-
-* [Infrastructure cost report](https://zenodo.org/records/11635233)
-
-    * This report will give the reader the first overview of the financial obligations for a country in becoming a member of the EDIC. In this report, the assumption is that the costs of the central operation will be distributed across member countries based on the individual countries GDP level. While this is only the first iteration of the budget and cost distribution, it should provide an indication of the expected size of the general membership fee. 
-
-
-
-
+This report will give the reader the first overview of the financial obligations for a country in becoming a member of the EDIC. In this report, the assumption is that the costs of the central operation will be distributed across member countries based on the individual countries GDP level. While this is only the first iteration of the budget and cost distribution, it should provide an indication of the expected size of the general membership fee. 
 
 
 **We are still working on the content for this page.** If you are interested in adding to the page, then:
@@ -93,6 +86,3 @@ To bridge these gaps and to help the 1+MG community navigate the heterogeneous e
 [Feel free to contribute](how_to_contribute){: class="btn btn-primary btn-lg rounded-pill"}
 
 This is a community-driven website, so contributions are welcome! You will, of course, be listed as a contributor on the page.
-
-
-
