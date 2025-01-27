@@ -16,7 +16,7 @@ The NMGs Contact points will play a key role in supporting national players and 
 
 ### [Description of National Mirror Groups status and recommendations](https://zenodo.org/records/14001481)
 
-This deliverable presents the results of the first activities of National Mirror Group (NMG) support of the GDI project. The activities are classified as follows:1) Analysis of the NMG status in collaboration with ELIXIR and 2) Fostering participation and capacity-building actions. 
+This deliverable presents the results of the first activities of National Mirror Group support of the GDI project. The activities are classified as follows: 1) Analysis of the NMG status in collaboration with ELIXIR and 2) Fostering participation and capacity-building actions. 
 
 ## National implementations
 
