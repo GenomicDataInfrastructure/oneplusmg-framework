@@ -19,7 +19,7 @@ The [Genomic Data Infrastructure (GDI)](https://gdi.onemilliongenomes.eu/) proje
 The 1+MG Framework is meant to provide a user friendly interface to navigate the guidelines and recommendations provided by the 1+MG Working Groups and the project supporting the initiative across the different phases of its implementation: currently the European GDI project.
 
 
-<img src="{{ 'assets/img/1+MG journey.png' | relative_url }}" class="m-2" style="max-width: 100%; max-height: 100%; vertical-align: middle" alt="About the 1+MG framework" />
+<img src="{{ 'assets/img/1+mg_journey.png' | relative_url }}" class="m-2" style="max-width: 100%; max-height: 100%; vertical-align: middle" alt="About the 1+MG framework" />
 
 It contains the set of agreed outputs and guidance on:
 
