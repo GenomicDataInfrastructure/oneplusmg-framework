@@ -9,9 +9,16 @@ The description of the phenotypic and clinical information is heterogeneous, mos
 
 To facilitate cross-border searching, linking and analysis of genomic and health data, this section of the 1+MG Framework includes a set of recommendations and guidelines that cover the minimal requirements for the provenance of the samples and the description of patient-specific phenotype and clinical data. Also, establishing and using standards for both sequencing and phenotypic and clinical data are, together with the ELSI standards, key elements in creating trust.
 
-# Minimal metadata model
+## Minimal metadata model
 
 * [README_ Version 1 Release .pdf](/assets/minimal-metadata-model/README_ Version 1 Release .pdf)
+* [Sample Class Version 1](assets/minimal-metadata-model/Sample Class Version 1.pdf)
+* [Subject and Diagnosis Class Version 1](assets/minimal-metadata-model/Subject and Diagnosis Class Version 1.pdf)
+* [Treatment Class Version 1](assets/minimal-metadata-model/Treatment Class Version 1.pdf)
+* [Environmental Exposure and Biomarker Class Version 1](assets/minimal-metadata-model/Environmental Exposure and Biomarker Class Version 1.pdf)
+* [Sequence Class Version 1](assets/minimal-metadata-model/Sequence Class Version 1.pdf)
+* [Metadata Submission Version 1](assets/minimal-metadata-model/Metadata Submission Version 1.pdf)
+  
 
 ## [Documented best practices in sharing and linking phenotypic and genetic data v2.0](https://zenodo.org/record/7342855) 
 <span class="badge badge-dark">Recommended<i class="fa-solid fa-thumbs-up"></i></span>
