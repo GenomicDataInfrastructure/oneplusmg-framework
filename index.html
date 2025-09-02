@@ -7,7 +7,7 @@ layout: none
 <html lang="en">
 {% include head.html %}
 
-<body id="main">
+<body id="main" class="home">
     {% include topnav.html %}
     <!--<section class="container mb-5">
         <div class="card border border-primary text-primary text-center">
@@ -16,15 +16,32 @@ layout: none
             </div>
         </div>
     </section>-->
+    <div class="hero">
+        <!-- <picture>
+            <source media="(max-width: 550px)" srcset="/assets/img/1920x360.png">
+            <img src="/assets/img/1920x360.png" alt="1+MG framework">
+        </picture> -->
+        <div class="content-wrapper hero-content">
+            <div class="banner-content">
+            <h1>Connecting genomics across Europe</h1>
+            <p class="mb-45">A shared approach for secure, ethical and interoperable genomic data sharing across Europe</p>
+            <p>
+                <a class="btn btn-primary btn-lg rounded-pill mr-1 teal" href="/how-to-use-framework">Explore the Framework</a>
+                <a class="btn btn-primary btn-lg rounded-pill white" href="/about-the-framework">About the Framework</a>
+            </p>
+        </div>
+    </div>
+
+</div>
     <div class="landingpage">
-       <section class="container mb-5">
+<!--        <section class="container mb-5">
             <div class="card border border-primary text-primary text-center">
                 <div class="card-body">
                     <p class="text-center lead">The 1+MG Framework is a series of components based on the output of the 1+MG projects that provide guidance on ELSI, data quality, data standards, and technical infrastructure standards and APIs.
                     </p>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!--<section id="search-section" class="bg-light py-5">
             <div class="container">
                 <div class="row">
@@ -43,59 +60,15 @@ layout: none
             </div>
         </section>-->
             <div class="container">
-                <h1 class="card-title pb45">Core 1+MG Framework</h1>
-                <section class="bg-light p-45">
+                <h1 class="card-title pb-2 text-center mt-6">Framework foundations</h1>
+                <p class="text-center mb-5">Core guidance for building 1+MG compatible genomic data sharing Nodes in Europe.
+                </p>
+                <section class="">
                     {%- assign sidebar1 = site.data.sidebars[page.sidebar1] %}
-                    {%- assign sidebar2 = site.data.sidebars[page.sidebar2] %}
                     {%- assign sidebar3 = site.data.sidebars[page.sidebar3] %}
-                    <div class="row">
-                        <div class="col"><h2 class="no-anchor">Technical framework</h2></div>
-                    </div>
-                    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
+
+                    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 g-4">
                         {%- for folder in sidebar1.subitems %}
-                        <div class="col">
-                                <div class="card border bg-white h-100">
-                                    {%- if folder.image_url%}
-                                    <img src="{{folder.image_url | relative_url}}" class="card-img-top h-icon-5 mx-auto" alt="{{folder.title}} icon">
-                                    {%- endif %}
-                                    <div class="card-body text-center">
-                                        <a href="{{ folder.url | relative_url }}" class="stretched-link">
-                                            <h3 class="card-title no-anchor text-primary">{{folder.title}}</h3>
-                                        </a>
-                                        <p class="card-text">{{folder.description}}</p>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        {%- endfor %}
-                    </div>
-                    <div class="row">
-                        <div class="col"><h2 class="no-anchor pt-4">Implementation</h2></div>
-                    </div>
-                    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
-                        {%- for folder in sidebar2.subitems %}
-                        <div class="col">
-                                <div class="card border bg-white h-100">
-                                    {%- if folder.image_url%}
-                                    <img src="{{folder.image_url | relative_url}}" class="card-img-top h-icon-5 mx-auto" alt="{{folder.title}} icon">
-                                    {%- endif %}
-                                    <div class="card-body text-center">
-                                        <a href="{{ folder.url | relative_url }}" class="stretched-link">
-                                            <h3 class="card-title no-anchor text-primary">{{folder.title}}</h3>
-                                        </a>
-                                        <p class="card-text">{{folder.description}}</p>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        {%- endfor %}
-                    </div>
-                </section>
-                
-                <h1 class="card-title pt-5 pb-4">Applying the Framework</h1>
-                <section class="bg-light p-45">
-                    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-2 g-4">
-                        {%- for folder in sidebar3.subitems %}
                         <div class="col">
                                 <div class="card border bg-white h-100">
                                     {%- if folder.image_url%}
@@ -114,9 +87,63 @@ layout: none
                     </div>
                 </section>
             </div>
-        <section class="py-5">
+                
+                <h1 class="card-title pb-2 text-center mt-6">Applying the Framework</h1>
+                <p class="text-center mb-5">Core guidance for building 1+MG compatible genomic data sharing Nodes in Europe.
+                </p>
+                <section class="bg-light p-45">
+                    <div class="container">
+                        <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
+                            {%- for folder in sidebar3.subitems %}
+                            <div class="col">
+                                    <div class="card border bg-white h-100">
+                                        {%- if folder.image_url%}
+                                        <img src="{{folder.image_url | relative_url}}" class="card-img-top h-icon-5 mx-auto" alt="{{folder.title}} icon">
+                                        {%- endif %}
+                                        <div class="card-body text-center">
+                                            <a href="{{ folder.url | relative_url }}" class="stretched-link">
+                                                <h3 class="card-title no-anchor text-primary">{{folder.title}}</h3>
+                                            </a>
+                                            <p class="card-text">{{folder.description}}</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            {%- endfor %}
+                        </div>
+                    </div>
+
+                </section>
+                <h1 class="card-title pb-2 text-center mt-6">Projects</h1>
+                
+        <section class="py-4">
             <div class="container">
                 <div class="row">
+                    <div class="col">
+                        <p class="text-center">The 1+MG Framework is built from the outputs of the 1+MG project family, including B1MG, B1MG+, GDI (Genomic Data Infrastructure) and Genome of Europe.
+                        </p>
+                        <p class="text-center">These projects have developed the foundational components, infrastructure and policy coordination needed to realise the 1+MG Framework.
+                        </p>
+                    </div>
+                </div>
+                <div class="container-small">
+                    <div class="row">
+                        <div class="col-lg-2 my-auto">
+                            <a class="btn btn-primary btn-lg" href="{{ 'https://b1mg-project.eu/' | relative_url }}">B1MG</a>
+                        </div>
+                        <div class="col-lg-3 my-auto text-right">
+                            <a class="btn btn-primary btn-lg" href="{{ 'https://b1mgplus.onemilliongenomes.eu/' | relative_url }}">B1MGplus</a>
+                        </div>
+                        <div class="col-lg-2 my-auto">
+                            <a class="btn btn-primary btn-lg" href="{{ 'https://gdi.onemilliongenomes.eu/' | relative_url }}">GDI</a>
+                        </div>
+                        <div class="col-lg-5 my-auto">
+                            <a class="btn btn-primary btn-lg" href="{{ 'https://genomeofeurope.eu/' | relative_url }}">Genome of Europe</a>
+                        </div>
+                </div>
+                </div>
+
+<!--                 <div class="row">
                     <div class="col-lg-2 my-auto">
                         <img class="h-icon-6" src="{{ '/assets/img/section-icons/users-light.svg' | relative_url }}" alt="Contributors icon">
                     </div>
@@ -128,7 +155,7 @@ layout: none
                     <div class="col-lg-3 my-auto">
                         <a class="btn btn-primary btn-lg rounded-pill" href="{{ '/editorial_guidelines' | relative_url }}">Start contributing</a>
                     </div>
-                </div>
+                </div> -->
             </div>
         </section>
         <!--<section class="py-5 bg-light">

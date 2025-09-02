@@ -1,6 +1,6 @@
 ---
-title: Governance and ELSI
-description: Introduction to governance and ELSI
+title: Legal, ethics and governance
+description: Introduction tolegal, ethics and governance
 ---
 
 To improve personalised medicine based on genomic information, the 1+MG initiative aims to give cross-border access to genomic data from 1 million+ EU citizens for research analyses and clinical applications. This effort must meet ethical-legal standards and be socially responsible.

@@ -1,11 +1,6 @@
 title: 1+MG Framework
 title_url: /index
 subitems:
-  - title: European project alignment
-    url: /ehds-data-lifecycle
-    description: Outlining how the elements of the 1+MG Framework align with the European Health Data Space User Journey and Data Life Cycle
-    image_url: /assets/img/section-icons/user-journey.svg
-  
   - title: Use cases
     image_url: /assets/img/section-icons/use-case.svg
     url: /usecases
@@ -22,4 +17,13 @@ subitems:
       - title: "Population genomics"
         url: /population-genomics
 
+  - title: External alignment
+    url: /ehds-data-lifecycle
+    description: Outlining how the elements of the 1+MG Framework align with the European Health Data Space User Journey and Data Life Cycle
+    image_url: /assets/img/section-icons/user-journey.svg
+
+  - title: National implementation
+    url: /national-implementation
+    description: See how countries are integrating and adapting the Framework
+    image_url: /assets/img/section-icons/nation.svg
 

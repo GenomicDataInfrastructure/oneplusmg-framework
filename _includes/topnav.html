@@ -20,32 +20,40 @@
                         <a class="nav-link ps-2" href="{{item.external_url}}" target="_blank" rel="noopener">{{item.title}}</a>
                         {%- elsif page.url == item.url %}
                         <a class="nav-link ps-2 active" aria-current="page" href="{{item.url | relative_url }}">{{item.title}}</a>
-                        {%- elsif item.subitems %}
-                        {%- for subitem in item.subitems %}
-                            {%- if subitem.url == page.url %}
-                            {%- assign hide_menu = "hide" | default: "" %}
-                            <a class="nav-link ps-2 dropdown-toggle active" href="#" id="Dropdown{{item.title | jsonify }}" role="button" data-bs-toggle="dropdown" aria-expanded="false">{{item.title}}</a>
-                            {%- endif %}
-                        {%- endfor %}
-                        <a class="nav-link ps-2 dropdown-toggle {{hide_menu}}" href="#" id="Dropdown{{item.title | jsonify }}" role="button" data-bs-toggle="dropdown" aria-expanded="false">{{item.title}}</a>
-                        <ul class="dropdown-menu" aria-labelledby="Dropdown{{item.title | jsonify }}">
-                            {%- for subitem in item.subitems %}
+                        {%- elsif item.subitems -%}
+                        {%- assign active_subitem = item.subitems | where: "url", page.url | first -%}
+                        <a
+                          class="nav-link ps-2 dropdown-toggle {% if active_subitem %}active{% endif %}"
+                          href="#"
+                          id="Dropdown{{ item.title | slugify }}"
+                          role="button"
+                          data-bs-toggle="dropdown"
+                          aria-expanded="false">
+                          {{ item.title }}
+                        </a>
+                      
+                        <ul class="dropdown-menu" aria-labelledby="Dropdown{{ item.title | slugify }}">
+                          {%- for subitem in item.subitems -%}
                             <li>
-                                {%- if subitem.hr == true %}
+                              {%- if subitem.hr -%}
                                 <hr class="dropdown-divider">
-                                {%- elsif page.url == subitem.url %}
-                                <a class="dropdown-item active" href="{{subitem.url | relative_url }}">{{ subitem.title }}</a>
-                                {%- elsif subitem.external_url %}
-                                <a class="dropdown-item" href="{{subitem.external_url}}" target="_blank" rel="noopener">{{subitem.title}}</a>
-                                {%- else %}
-                                <a class="dropdown-item" href="{{subitem.url | relative_url }}">{{ subitem.title }}</a>
-                                {%- endif %}
+                              {%- elsif subitem.external_url -%}
+                                <a class="dropdown-item" href="{{ subitem.external_url }}" target="_blank" rel="noopener">
+                                  {{ subitem.title }}
+                                </a>
+                              {%- else -%}
+                                <a class="dropdown-item {% if page.url == subitem.url %}active{% endif %}"
+                                   href="{{ subitem.url | relative_url }}">
+                                  {{ subitem.title }}
+                                </a>
+                              {%- endif -%}
                             </li>
-                            {%- endfor %}
+                          {%- endfor -%}
                         </ul>
-                        {%- else %}
-                        <a class="nav-link ps-2" href="{{item.url | relative_url }}">{{item.title}}</a>
-                        {%- endif %}
+                      {%- else -%}
+                        <a class="nav-link ps-2" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                      {%- endif -%}
+                      
                     </li>
                     {%- endfor %}
                     {%- if topnav.subitems.size > 1 %}
@@ -62,7 +70,7 @@
                         <a class="nav-link ps-2 d-flex align-items-center" href="{{site.theme_variables.topnav.twitter}}"><i class="fa-brands fa-twitter me-2"></i>Twitter</a>
                     </li>
                     {%- endif %}
-                    {%- if site.theme_variables.topnav.github or site.theme_variables.topnav.github == nil %}
+<!--                     {%- if site.theme_variables.topnav.github or site.theme_variables.topnav.github == nil %}
                     <li class="nav-item ms-0 ms-lg-3 mt-2 mt-lg-0">
                         <a class="nav-link ps-2 d-flex align-items-center" href="{{site.github.repository_url}}">
                             {%- assign git_host = site.theme_variables.git_host | downcase %}
@@ -74,7 +82,7 @@
                             {{site.theme_variables.git_host | default: 'GitHub' }}
                         </a>
                     </li>
-                    {%- endif %}
+                    {%- endif %} -->
                     {%- unless include.search == false %}
                     <!--start search-->
                     <li class="nav-item ms-0 ms-lg-3 my-2 my-lg-0">

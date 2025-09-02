@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Hero demo</title>
+<style>
+  /* Reset */
+  html,body{margin:0}
+
+  /* Simple hero with a visible gradient background */
+  .hero{
+    min-height:320px;               /* make it tall enough to see */
+    display:grid; place-items:center;
+    text-align:center;
+    background: linear-gradient(115deg, #acd196 0%, #F9EC78 100%);
+    /* optional: add a little padding so text breathes on small screens */
+    padding: 48px 16px;
+  }
+  .hero h1{font: 700 40px/1.1 system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; margin:0; color:#0b2239}
+  .hero p {margin:.5rem 0 0; color:#2b3d47}
+</style>
+</head>
+<body>
+  <section class="hero">
+    <div>
+      <h1>Connecting genomics across Europe</h1>
+      <p>A shared approach for secure, ethical and interoperable genomic data sharing across Europe</p>
+    </div>
+  </section>
+</body>
+</html>

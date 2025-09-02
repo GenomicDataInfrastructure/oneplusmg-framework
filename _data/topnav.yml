@@ -1,17 +1,25 @@
 subitems:
-  - title: 1+MG Framework
+  - title: Home
     url: /index
-  - title: About
+  - title: Framework Foundations
     subitems:
-      - title: About the Framework
-        url: /about-the-framework
-      - title: How to use the Framework
-        url: /how-to-use-framework
-      - title: Contact
-        url: /contact
-      - title: Accessibility
-        url: /accessibility
-      - title: Privacy
-        url: /privacy     
-  - title: Contribute
-    url: /how_to_contribute
+      - title: Legal, ethics and governance
+        url: /governance-elsi
+      - title: Technical infrastructure
+        url: /technical-infrastructure
+      - title: Data and metadata
+        url: /data-metadata
+      - title: Healthcare integration and sustainability
+        url: /healthcare-integration-sustainability
+  - title: Applying the Framework
+    subitems:
+      - title: Use cases
+        url: /usecases
+      - title: External alignment
+        url: /ehds-data-lifecycle
+      - title: National implementation
+        url: /national-implementation
+  - title: About
+    url: /about-the-framework
+  - title: Contact
+    url: /contact
