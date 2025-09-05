@@ -2,7 +2,7 @@
 title: About the Framework
 ---
 
-## Intro to 1+MG, B1MG and GDI
+## Intro to 1+MG, B1MG, B1MGplus and GDI
 
 <!-- <div class="accordion">
             <details class="accordion-item">
