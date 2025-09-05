@@ -11,11 +11,6 @@ subitems:
     image_url: /assets/img/section-icons/data-standard-v1.svg
     description: Guidance and recommendations on how to address governance and ELSI aspect to ensure data can be made available
 
-  - title: Data models, standards & ontologies
-    image_url: /assets/img/section-icons/data-governance-v1.svg
-    url: /data-models-ontologies
-    description: 1+MG minimal data models for different use cases and recommendations on ontologies and data standards
-
   - title: Data and metadata
     image_url: /assets/img/section-icons/data-infrastructure-v1.svg
     url: /data-metadata
@@ -41,11 +36,6 @@ subitems:
         url: /access-management
       - title: "Data processing"
         url: /data-processing
-
-  - title: Data quality & inclusion
-    image_url: /assets/img/section-icons/data-quality-v1.svg
-    url: /data-quality-inclusion
-    description: Sequence data generation and quality requirements for WGS/WES data to be labelled as 1+MG compliant
 
   - title: Genomics into healthcare
     image_url: /assets/img/section-icons/genomics-into-healthcare.svg
