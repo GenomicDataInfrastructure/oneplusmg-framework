@@ -4,7 +4,7 @@ subitems:
   - title: Use cases
     image_url: /assets/img/section-icons/use-case.svg
     url: /usecases
-    description: Learn about data management tasks that affect your domain or research community, and the solutions adopted to address them
+    description: Information on the scientific and clinical questions driving our development
     subitems:
       - title: "Rare diseases"
         url: /rare-diseases
@@ -19,7 +19,7 @@ subitems:
 
   - title: External alignment
     url: /ehds-data-lifecycle
-    description: Outlining how the elements of the 1+MG Framework align with the European Health Data Space User Journey and Data Life Cycle
+    description: Discover how the 1+MG infrastructure is connected across Europe and beyond
     image_url: /assets/img/section-icons/user-journey.svg
 
   - title: National implementation

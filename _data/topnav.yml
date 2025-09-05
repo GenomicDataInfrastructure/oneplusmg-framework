@@ -1,7 +1,7 @@
 subitems:
   - title: Home
     url: /index
-  - title: Framework Foundations
+  - title: 1+MG Framework Foundations
     subitems:
       - title: Legal, ethics and governance
         url: /governance-elsi
@@ -11,7 +11,7 @@ subitems:
         url: /data-metadata
       - title: Healthcare integration and sustainability
         url: /healthcare-integration-sustainability
-  - title: Applying the Framework
+  - title: Applying the 1+MG Framework
     subitems:
       - title: Use cases
         url: /usecases
@@ -21,5 +21,3 @@ subitems:
         url: /national-implementation
   - title: About
     url: /about-the-framework
-  - title: Contact
-    url: /contact

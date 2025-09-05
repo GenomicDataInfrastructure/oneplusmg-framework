@@ -18,5 +18,5 @@ subitems:
 
   - title: Healthcare integration and sustainability
     image_url: /assets/img/section-icons/genomics-into-healthcare.svg
-    url: /technical-infrastructure
+    url: /genomics-into-healthcare
     description: Guidance for preparing health systems to adopt genomics, including a maturity model and long-term sustainability planning 

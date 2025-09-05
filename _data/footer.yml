@@ -7,7 +7,7 @@ columns:
     src: 'assets/img/secondary-logo-v1.png'
     alt: logo by-covid
   - type: links
-    width: 2
+    width: 1
     children: 
       - url_text: About
         url: /about-the-framework
@@ -16,12 +16,15 @@ columns:
       - url_text: Privacy
         url: /privacy
   - type: links
-    width: 3
+    width: 4
+    class: second
     children: 
       - url_text: Contact
         url: /contact
       - url_text: GitHub
         url: https://github.com/GenomicDataInfrastructure/oneplusmg-framework
+      - url_text: Contribute
+        url: /editorial_guidelines
   - type: image
     image_width: 80px
     width: 1
