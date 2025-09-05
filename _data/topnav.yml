@@ -10,7 +10,7 @@ subitems:
       - title: Data and metadata
         url: /data-metadata
       - title: Healthcare integration and sustainability
-        url: /healthcare-integration-sustainability
+        url: /genomics-into-healthcare
   - title: Applying the 1+MG Framework
     subitems:
       - title: Use cases
