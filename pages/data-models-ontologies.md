@@ -55,10 +55,10 @@ DCAT-AP is the implementation of the European standard to aggregate data collect
 
 
 
-## 1+MG Minimal dataset for cancer 
+## [1+MG Minimal dataset for cancer](https://doi.org/10.1038/s41588-024-01721-x)
 <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span> 
 
-* paper in progress
+* 1+MG Harmonised minimal datamodel paper - in progress
 
 ## [Report on semantic interoperability scenarios](https://zenodo.org/records/11550316)
 
