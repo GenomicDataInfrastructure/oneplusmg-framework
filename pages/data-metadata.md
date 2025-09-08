@@ -4,11 +4,11 @@ description: Introduction to data and metadata
 ---
 
 
-## [Data quality & inclusion](/oneplusmg-trust-framework/data-quality-inclusion)
+## [Data quality & inclusion](/data-quality-inclusion)
 
 Sequence data generation and quality requirements for WGS/WES data to be labelled as 1+MG compliant
 
-## [Data models, standards & ontologies](/oneplusmg-trust-framework/data-models-ontologies)
+## [Data models, standards & ontologies](/data-models-ontologies)
 
 1+MG minimal data models for different use cases and recommendations on ontologies and data standards
 

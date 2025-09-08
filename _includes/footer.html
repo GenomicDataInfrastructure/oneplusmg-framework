@@ -3,11 +3,11 @@
         <div class="row g-4 d-flex justify-content-between">
             {%- for column in site.data.footer.columns %}
             {%- if column.type == "image" %}
-            <div class="col-lg-{{column.width}} col-sm-6 d-flex justify-content-center {% unless forloop.first %} mt-0 {% endunless %}">
+            <div class="col-lg-{{column.width}} col-sm-2 d-flex justify-content-center {% unless forloop.first %} mt-0 {% endunless %}">
                 <img class="my-auto" width="{{column.image_width}}" src="{{ column.src | relative_url }}" alt="{{column.alt}}" />
             </div>
             {%- elsif column.type == "links" %}
-            <div class="col-lg-{{column.width}} col-sm-6">
+            <div class="col-lg-{{column.width}} col-sm-2">
                 {%- if column.title != nil %}
                 <span class="footer-title">{{column.title}}</span>
                 {%- endif %}
@@ -24,7 +24,7 @@
                 </ul>
             </div>
             {%- elsif column.type == "text" %}
-            <div class="col-lg-{{column.width}} col-sm-6 d-flex justify-content-center mt-0">
+            <div class="col-lg-{{column.width}} col-sm-2 d-flex justify-content-center mt-0">
                 {{column.content | markdownify }}
                 <p class="footer-text">B1MG has been received funding from European Union's Horizon 2020 Research and Innovation programme under grant agreement No. 951724. The development of the 1+MG Framework has been funded by B1MG.</p>
             </div>

@@ -1,6 +1,6 @@
 ---
-title: Implementation of Genomics into Healthcare
-description: Implementation of Genomics into Healthcare
+title: Healthcare integration and sustainability
+description: Healthcare integration and sustainability
 page_id: healthcare
 ---
 

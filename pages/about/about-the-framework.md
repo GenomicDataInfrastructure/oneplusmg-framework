@@ -45,15 +45,15 @@ The 1+MG Framework is meant to provide a user friendly interface to navigate the
 
 It contains the set of agreed outputs and guidance on:
 
-* [**Legal, ethics and governance**](/oneplusmg-trust-framework/governance-elsi) \
+* [**Legal, ethics and governance**](/governance-elsi) \
 Governance documentation including consent models, privacy safeguards and legal frameworks
-* [**Technical infrastructure**](/oneplusmg-trust-framework/technical-infrastructure) \
+* [**Technical infrastructure**](/technical-infrastructure) \
 Information on the standards, APIs and reference implementations to build a 1+MG Node
-* [**Data and metadata**](/oneplusmg-trust-framework/data-metadata) \
+* [**Data and metadata**](/data-metadata) \
 Resources on data models, minimal metadata, quality and inclusion standards
-* [**Healthcare integration and sustainability**](/oneplusmg-trust-framework/genomics-into-healthcare) \
+* [**Healthcare integration and sustainability**](/genomics-into-healthcare) \
 Guidance for preparing health systems to adopt genomics, including a maturity model and long-term sustainability planning 
-* [**Use cases**](/oneplusmg-trust-framework/usecases) \
+* [**Use cases**](/usecases) \
 The use cases and analysis driving the development of the 1+MG infrastructure
 
 
