@@ -13,6 +13,13 @@ sass:
 gtag: 
 # Google analytics tag
 
+matomo: https://webstats.elixir-europe.org/
+# Matomo domain where Matomo is running
+matomo_id: 13
+# Integer indicating the Matomo Website ID
+matomo_cookies: false
+# Boolean that determines whether a Matomo tracking cookie is used or not
+
 theme_variables:
   theme_color: 004494
   topnav:
