@@ -33,7 +33,7 @@ columns:
   - type: image
     image_width: 100px
     width: 1
-    src: 'assets/img/flag-eu-bw.png'
+    src: 'assets/img/eu-flag.png'
     alt: European flag
   - type: text
     width: 3
