@@ -1,0 +1,44 @@
+---
+layout: none
+---
+
+<!doctype html>
+<html lang="en">
+{% include head.html %}
+
+<body id="main" class="topic">
+    {% include topnav.html %}
+</div>
+    <div class="landingpage topicdetail">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-9">
+                    <div class="content-conatiner">
+                        <p><i class="fa fa-arrow-left" aria-hidden="true"></i> <a href="/lets-talk-genomics">Back to all topics</a></p>
+                            {{content}}
+                        <p class="text-right mt-1"><a href="mailto:Marlies.Saelaert@sciensano.be?cc=Chloe.Mayeur@sciensano.be" class="btn btn-primary btn-lg rounded-pill teal">Get in touch</a></p>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="row">
+                        <div class="col-md-12 border spotlight p-5 ">
+                            <h3>Get involved</h3> 
+                        </div>
+                        <div class="col border spotlight mt-5 p-5">
+                            <h3>Links to existing materials</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {%- if site.theme_variables.back_to_top or site.theme_variables.back_to_top == nil %}
+    <button id="back-to-top" class="btn btn-primary" type="button" aria-hidden="true" onclick="topFunction()">
+        <i class="fa-solid fa-arrow-up"></i>
+    </button>
+    {%- endif %}
+    {% include footer.html %}
+    {% include cookie-popup.html %}
+</body>
+
+</html>

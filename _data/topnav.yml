@@ -1,6 +1,4 @@
 subitems:
-  - title: Home
-    url: /index
   - title: 1+MG Framework Foundations
     subitems:
       - title: Legal, ethics and governance
@@ -20,4 +18,25 @@ subitems:
       - title: National implementation
         url: /national-implementation
   - title: About
-    url: /about-the-framework
+    subitems:
+      - title: How to use the Framework
+        url: /about-the-framework
+      - title: Contact
+        url: /contact
+      - title: Accessibility
+        url: /accessibility
+      - title: Privacy
+        url: /privacy
+  - title: Let's talk Genomics
+    subitems:
+      - title: Let's talk Genomics
+        url: /lets-talk-genomics
+      - title: About
+        url: /lets-talk-genomics/about-genomics
+      - title: Glossary
+        url: /lets-talk-genomics/glossary
+      - title: Citizen engagement initiatives and materials
+        url: /lets-talk-genomics/citizen-engagement-initiative-materials
+      - title: Q&A
+        url: /lets-talk-genomics/question-answer
+    

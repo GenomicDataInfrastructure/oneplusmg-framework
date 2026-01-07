@@ -1,0 +1,37 @@
+title: 1+MG Framework
+title_url: /index
+subitems:
+  - title: My DNA versus Our DNA
+    image_url: /assets/img/section-icons/topic-icons/topic-icon-dna-v2.png
+    url: /lets-talk-genomics/dna
+    description: Lorem Ipsum is simply dummy text of the printing and typesetting
+
+  - title: Heritage
+    image_url: /assets/img/section-icons/topic-icons/topic-icon-heritage-v2.png
+    url: /lets-talk-genomics/heritage
+    description: Lorem Ipsum is simply dummy text of the printing and typesetting
+
+  - title: Vulnerabilities
+    image_url: /assets/img/section-icons/topic-icons/topic-icon-vulnerability-v2.png
+    url: /lets-talk-genomics/vulnerabilities
+    description: Lorem Ipsum is simply dummy text of the printing and typesetting
+
+  - title: Privacy
+    image_url: /assets/img/section-icons/topic-icons/topic-icon-privacy-v2.png
+    url: /lets-talk-genomics/privacy
+    description: Lorem Ipsum is simply dummy text of the printing and typesetting
+
+  - title: Uncertainties
+    image_url: /assets/img/section-icons/topic-icons/topic-icon-uncertainties-v2.png
+    url: /lets-talk-genomics/uncertainties
+    description: Lorem Ipsum is simply dummy text of the printing and typesetting
+
+  - title: Big data and AI
+    image_url: /assets/img/section-icons/topic-icons/topic-icon-ai-v2.png
+    url: /lets-talk-genomics/big-data-ai
+    description: Lorem Ipsum is simply dummy text of the printing and typesetting
+
+  - title: Forensics
+    image_url: /assets/img/section-icons/topic-icons/topic-icon-forensic-v2.png
+    url: /lets-talk-genomics/forensics
+    description: Lorem Ipsum is simply dummy text of the printing and typesetting
