@@ -198,3 +198,13 @@ This glossary describes terms related to genomics that are frequently used on th
     </tr>
   </tbody>
 </table>
+
+
+### Sources:
+
+* [https://b1mg-project.eu/about/glossary](https://b1mg-project.eu/about/glossary)
+* [https://www.genome.gov/genetics-glossary](https://www.genome.gov/genetics-glossary)
+* [https://www.cancer.gov/publications/dictionaries/genetics-dictionary/](https://www.cancer.gov/publications/dictionaries/genetics-dictionary/)
+* [https://www.sciencedirect.com/topics/nursing-and-health-professions/rare-disease#definition](https://www.sciencedirect.com/topics/nursing-and-health-professions/rare-disease#definition)
+* [https://dph.illinois.gov/topics-services/life-stages-populations/genomics/direct-to-consumer-testing.html](https://dph.illinois.gov/topics-services/life-stages-populations/genomics/direct-to-consumer-testing.html)
+* [https://www.merriam-webster.com/dictionary/exome](https://www.merriam-webster.com/dictionary/exome)
