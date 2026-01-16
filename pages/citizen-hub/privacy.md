@@ -7,7 +7,7 @@ permalink: /lets-talk-genomics/privacy
 
 ## On this page
 - [What privacy means in genomics](#what-privacy-means-in-genomics)
-- [The risk of reidentification](#the-risk-of-reidentification)
+- [Identification risks](#identification-risks)
 - [Balancing benefits and risks](#balancing-benefits-and-risks)
 
 Technological advances have made it possible to analyse DNA more quickly and at lower cost, as well as to share genomic data on a much larger scale. These advances support scientific research and medical care by enabling more personalised and effective approaches to healthcare. However, this potential for personalisation that genomics offers also raises important privacy concerns. Our genes contain sensitive information about us and, in some cases, about our relatives. This raises key questions: who should be allowed to access genetic data, and for what purposes? How can we keep people safe from data misuse? And what level of risk are we ready to accept to benefit from personalised medicine? Open discussion is essential to ensure genomic data are used in ways that reflect shared values and bring more benefits than harm.
