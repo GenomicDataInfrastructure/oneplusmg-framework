@@ -8,10 +8,11 @@ layout: none
 
 <body id="main" class="home">
     {% include topnav.html %}
-<div class="content-wrapper hero-content">
-    <div class="banner-content">
-        <h1>Let’s talk genomics</h1>
-       
+    <div class="hero" style="background-image:url('{{ '/assets/img/hero-bg.svg' | relative_url }}')">
+        <div class="content-wrapper hero-content">
+            <div class="banner-content">
+            <h1>A toolkit for citizen engagement</h1>
+        </div>
     </div>
 </div>
     <div class="landingpage topic">
@@ -31,7 +32,7 @@ layout: none
               </div>
             <div class="row mt-6">
                 <div class="col-md-4">
-                    <h2 class="text-center text-primary mb-5">Genomics through life</h2>
+                    <h2 class="text-center text-primary mb-5">Genomics through life</h1>
     
                     <div class="timeline-container">
                         <div class="timeline-line">
@@ -54,7 +55,7 @@ layout: none
                                     <span class="topic-dot"></span>
                                 </div>
                                 <div class="topic-item" data-meal="lunch" style="top: 45%;">
-                                    <a href="congenital-and-paediatric-diseases" class="topic-label" data-url="congenital-and-paediatric-diseases">Congenital and paediatric diseases</a>
+                                    <a href="congenital-and-paediatric-diseases" class="topic-label" data-url="congenital-and-paediatric diseases">Congenital and paediatric diseases</a>
                                     <span class="topic-dot"></span>
                                 </div>
                                 <!-- <div class="topic-item" data-meal="lunch" style="top: 55%;">
@@ -118,7 +119,7 @@ layout: none
                                             <p class="card-text">{{folder.description}}</p>
                                         </div>
                                     </div>
-                              
+                                </a>
                             </div>
                             {%- endfor %}
                         </div>
