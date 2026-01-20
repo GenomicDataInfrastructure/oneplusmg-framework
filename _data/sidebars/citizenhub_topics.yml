@@ -4,34 +4,34 @@ subitems:
   - title: My DNA versus Our DNA
     image_url: /assets/img/section-icons/topic-icons/topic-icon-dna-v2.png
     url: /lets-talk-genomics/dna
-    description: Lorem Ipsum is simply dummy text of the printing and typesetting
+    description: How individual genetic information can affect families, communities and society
 
   - title: Heritage
     image_url: /assets/img/section-icons/topic-icons/topic-icon-heritage-v2.png
     url: /lets-talk-genomics/heritage
-    description: Lorem Ipsum is simply dummy text of the printing and typesetting
+    description: How genetics relates to ancestry, identity, culture and shared history
 
   - title: Vulnerabilities
     image_url: /assets/img/section-icons/topic-icons/topic-icon-vulnerability-v2.png
     url: /lets-talk-genomics/vulnerabilities
-    description: Lorem Ipsum is simply dummy text of the printing and typesetting
+    description: How genetic information can expose individuals or groups to harm
 
   - title: Privacy
     image_url: /assets/img/section-icons/topic-icons/topic-icon-privacy-v2.png
     url: /lets-talk-genomics/privacy
-    description: Lorem Ipsum is simply dummy text of the printing and typesetting
+    description: How genetic data is protected, shared and sometimes put at risk
 
   - title: Uncertainties
     image_url: /assets/img/section-icons/topic-icons/topic-icon-uncertainties-v2.png
     url: /lets-talk-genomics/uncertainties
-    description: Lorem Ipsum is simply dummy text of the printing and typesetting
+    description: Why genetic results are not always clear, complete or conclusive
 
   - title: Big data and AI
     image_url: /assets/img/section-icons/topic-icons/topic-icon-ai-v2.png
     url: /lets-talk-genomics/big-data-ai
-    description: Lorem Ipsum is simply dummy text of the printing and typesetting
+    description: How artificial intelligence uses large genomic datasets to find patterns
 
   - title: Forensics
     image_url: /assets/img/section-icons/topic-icons/topic-icon-forensic-v2.png
     url: /lets-talk-genomics/forensics
-    description: Lorem Ipsum is simply dummy text of the printing and typesetting
+    description: How DNA is used in criminal investigations and legal decision-making.
