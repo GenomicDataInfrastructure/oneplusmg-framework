@@ -24,7 +24,8 @@ For these reasons, it is essential to put safeguards and trustworthy frameworks 
 
 Genetic testing is becoming increasingly common. People may seek testing because of a family history of inherited disease, for reproductive planning, or out of curiosity through direct-to-consumer tests. Results can vary widely in scope and severity, but they often highlight an important reality: everyone has some predisposition to illness.
 
-While we all know that illness is possible, this awareness can become much more concrete when a genetic test suggests an increased risk of conditions such as cancer, diabetes or Alzheimer’s disease. In this way, genomics can confront people with their vulnerability as human beings.
+While we all know that illness is possible, this awareness can become much more concrete when a genetic test suggests an increased risk of conditions such as cancer, diabetes or Alzheimer’s disease. In this way, [genomics can confront people with their vulnerability as human beings](https://www.nature.com/articles/s41599-023-01580-7). For deeper insight into how people experience and make sense of vulnerabilities in genomics,  
+[see this qualitative study on public perspectives and lived experiences](https://www.nature.com/articles/s41599-023-01580-7).
 
 Becoming aware of this vulnerability can have a significant emotional and social impact. It may cause fear or anxiety, affect family relationships, or raise difficult questions — particularly because genomic information often involves uncertainty and probabilities rather than clear answers. Interpreting these risks can be challenging  
 (see the topic on Uncertainty for more on this).
