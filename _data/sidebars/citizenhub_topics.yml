@@ -4,7 +4,7 @@ subitems:
   - title: My DNA versus Our DNA
     image_url: /assets/img/section-icons/topic-icons/topic-icon-dna-v2.png
     url: /lets-talk-genomics/dna
-    description: How individual genetic information can affect families, communities and society
+    description: How individual genetic information can affect families and society
 
   - title: Heritage
     image_url: /assets/img/section-icons/topic-icons/topic-icon-heritage-v2.png
@@ -29,9 +29,9 @@ subitems:
   - title: Big data and AI
     image_url: /assets/img/section-icons/topic-icons/topic-icon-ai-v2.png
     url: /lets-talk-genomics/big-data-ai
-    description: How artificial intelligence uses large genomic datasets to find patterns
+    description: How AI uses large genomic datasets to find patterns
 
   - title: Forensics
     image_url: /assets/img/section-icons/topic-icons/topic-icon-forensic-v2.png
     url: /lets-talk-genomics/forensics
-    description: How DNA is used in criminal investigations and legal decision-making.
+    description: How DNA is used in criminal investigations and legal decisions
