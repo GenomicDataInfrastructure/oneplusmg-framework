@@ -24,6 +24,6 @@ To maintain trust in AI-supported healthcare, human oversight and professional j
 
 In principle, big data and AI could make healthcare more efficient, cost-effective and accessible, including for underserved populations. In practice, however, AI systems can reflect existing biases if they are trained on datasets that are incomplete or unrepresentative (for example, if data from certain population groups are missing or underrepresented). As a result, AI outputs may be less accurate or less useful for these groups, potentially reinforcing existing inequalities. While there are ways to reduce bias and use AI to support fairer healthcare, doing so requires careful ethical reflection and ongoing societal debate.
 
- X These conversations are essential to ensure that big data and AI genuinely contribute to better health outcomes for everyone.
+ These conversations are essential to ensure that big data and AI genuinely contribute to better health outcomes for everyone.
 
 
