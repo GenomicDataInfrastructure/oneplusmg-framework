@@ -3,8 +3,7 @@ layout: citizen-hub-subpage
 permalink: /lets-talk-genomics/preconception-carrier-screening
 ---
 
-# Preconception carrier screening  
-*(Reproductive carrier screening)*
+# Before pregnancy
 
 ## On this page
 - [What is preconception carrier screening?](#what-is-preconception-carrier-screening)
