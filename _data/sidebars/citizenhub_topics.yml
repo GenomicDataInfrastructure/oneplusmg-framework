@@ -21,7 +21,7 @@ subitems:
     url: /lets-talk-genomics/privacy
     description: How genetic data is protected, shared and sometimes put at risk
 
-  - title: Understanding genomic results 
+  - title: Interpreting results 
     image_url: /assets/img/section-icons/topic-icons/topic-icon-uncertainties-v2.png
     url: /lets-talk-genomics/uncertainties
     description: Why genetic results are not always clear, complete or conclusive
