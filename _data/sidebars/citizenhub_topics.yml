@@ -11,7 +11,7 @@ subitems:
     url: /lets-talk-genomics/heritage
     description: How genetics relates to ancestry, identity, culture and shared history
 
-  - title: Vulnerabilities
+  - title: Managing vulnerability
     image_url: /assets/img/section-icons/topic-icons/topic-icon-vulnerability-v2.png
     url: /lets-talk-genomics/vulnerabilities
     description: How genetic information can expose people to harm
@@ -21,7 +21,7 @@ subitems:
     url: /lets-talk-genomics/privacy
     description: How genetic data is protected, shared and sometimes put at risk
 
-  - title: Uncertainties
+  - title: Understanding genomic results 
     image_url: /assets/img/section-icons/topic-icons/topic-icon-uncertainties-v2.png
     url: /lets-talk-genomics/uncertainties
     description: Why genetic results are not always clear, complete or conclusive
