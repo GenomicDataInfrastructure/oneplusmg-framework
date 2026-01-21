@@ -3,41 +3,32 @@ layout: citizen-hub-subpage
 permalink: /lets-talk-genomics/newborn-screening
 ---
 
-# Newborn screening
+# At birth
 
 ## On this page
 - [What is newborn screening?](#what-is-newborn-screening)
-- [Key debates](#key-debates)
 - [The range of diseases](#the-range-of-diseases)
 - [How broad should newborn screening be?](#how-broad-should-newborn-screening-be)
 - [Potential uses of newborn screening data](#potential-uses-of-newborn-screening-data)
 - [Autonomy and decision-making](#autonomy-and-decision-making)
 
-## Let’s talk newborn screening
-
-*Insert free iStock image here*
-
-Newborn screening (NBS) helps detect serious but treatable diseases in babies. Taking a few drops of blood soon after delivery can reveal serious conditions that might otherwise remain hidden until too late. With early treatment, many severe diseases can be prevented or managed effectively.
+Newborn screening (NBS) helps detect serious but treatable diseases in babies. Taking a few drops of blood soon after delivery can reveal serious conditions that might otherwise remain hidden until it is too late. With early treatment, many severe conditions can be prevented or managed effectively.
 
 This type of screening is routinely offered across Europe, but the specific approach varies from country to country.
 
 ## What is newborn screening?
 
-Newborn screening (NBS) – sometimes also called newborn blood spot screening or neonatal testing – is now offered in all European countries and the UK. A few days after birth, a small blood sample is taken to test for treatable congenital diseases that may not show symptoms immediately, but can cause serious health problems if untreated.
+Newborn screening – sometimes also called newborn blood spot screening or neonatal testing – is now offered in all European countries and the UK. A few days after birth, a small blood sample is taken to test for treatable congenital conditions that may not show symptoms immediately, but can cause serious health problems if untreated.
 
 Conditions tested can include cystic fibrosis (or mucoviscidosis), spinal muscular atrophy, blood disorders and hearing loss.  
-[See an overview of diseases currently included in newborn screening programmes across Europe](https://media.crai.com/wp-content/uploads/2021/11/28135510/CRA-Insights-NBS-Policy-Updated-28-February-2024-vSTCCR.pdf).
+[See an overview of conditions currently included in newborn screening programmes across Europe](https://media.crai.com/wp-content/uploads/2021/11/28135510/CRA-Insights-NBS-Policy-Updated-28-February-2024-vSTCCR.pdf).
 
-Early detection and diagnosis (before symptoms appear) allow for timely treatment, monitoring and preventive care. This improves quality of life and ensures every child has equal access to lifesaving care.
-
----
-
-> **Key debates**  
-> There are some significant challenges with newborn screening, generating ethical and societal discussions.
+Early detection and diagnosis (before symptoms appear) allow for timely treatment, monitoring and preventive care. This improves the quality of life and ensures every child has equal access to lifesaving care.
+> Yet, newborn screening also raises important ethical and societal points of discussion.
 
 ## Which diseases should be included in NBS programmes?
 
-Across Europe, there is ongoing debate about which diseases should be included in NBS programmes. Different countries currently make varying choices.
+Across Europe, there is an ongoing debate about which diseases should be included in NBS programmes. Different countries currently make varying choices.
 
 There is no standardised European list or common criteria for deciding which diseases should be included  
 ([see analysis of the lack of harmonised criteria across Europe](https://media.kbs-frb.be/fr/media/7601/20180704PP.pdf)).
@@ -46,9 +37,7 @@ This raises a key question: if feasible, should all babies be routinely screened
 
 ## How should NBS data be used?
 
-NBS raises two closely related debates. One concerns autonomy: parents consent to NBS, but as children grow they may want control over how their data is used.
-
-The other concerns reuse: information collected for health might also be applied in research, policymaking or even law enforcement, raising questions of transparency, consent and trust.
+NBS raises two closely related debates. One is about autonomy: parents consent to NBS, but as children grow, they may want control over how their data is used. The other is about reuse: information collected for health might also be applied in research, policymaking or even law enforcement, raising questions of transparency, consent and trust.
 
 ## The range of diseases
 
@@ -98,12 +87,12 @@ Finally, whole-genome sequencing could shift how society views health. If risks 
 
 ## Potential uses of newborn screening data
 
-Health data collected at birth can be valuable beyond its original purpose. It supports public health statistics, research and policymaking. With initiatives such as the European Health Data Space, reuse of such data is expected to grow.
+Health data collected at birth can be valuable beyond its original purpose. It supports public health statistics, research and policymaking. With initiatives such as the European Health Data Space, the reuse of such data is expected to grow.
 
 This raises sensitive questions. Should newborn screening data ever be used for non-medical purposes, such as criminal or forensic investigations? How should transparency, consent and trust be ensured?
 
 ## Autonomy and decision-making
 
-When considering reuse of NBS data, autonomy is key. Parents give consent at birth, but as children grow, they may wish to decide for themselves how their genetic data is used.
+When considering the reuse of NBS data, autonomy is key. Parents give consent at birth, but as children grow, they may wish to decide for themselves how their genetic data is used.
 
-These debates highlight a central tension: balancing individual rights with the broader societal value of research. Decisions made at the very start of life can carry consequences for decades to come — for both individuals and society.
+These debates highlight a central tension in balancing individual rights with the broader societal value of research. Decisions made at the very start of life can carry consequences for decades to come — for both individuals and society.
