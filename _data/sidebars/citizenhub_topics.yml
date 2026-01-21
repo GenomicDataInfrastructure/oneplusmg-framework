@@ -4,32 +4,32 @@ subitems:
   - title: My DNA vs Our DNA
     image_url: /assets/img/section-icons/topic-icons/topic-icon-dna-v2.png
     url: /lets-talk-genomics/dna
-    description: How individual genetic information can affect families and society
+    description: How can genomics benefit both individuals and society? 
 
   - title: Heritage
     image_url: /assets/img/section-icons/topic-icons/topic-icon-heritage-v2.png
     url: /lets-talk-genomics/heritage
-    description: How genetics relates to ancestry, identity, culture and shared history
+    description: What can genomics tell us about our family and cultural origins? 
 
   - title: Managing vulnerability
     image_url: /assets/img/section-icons/topic-icons/topic-icon-vulnerability-v2.png
     url: /lets-talk-genomics/vulnerabilities
-    description: How genetic information can expose people to harm
+    description: What vulnerabilities does genomics reveal and how to manage them? 
 
   - title: Privacy
     image_url: /assets/img/section-icons/topic-icons/topic-icon-privacy-v2.png
     url: /lets-talk-genomics/privacy
-    description: How genetic data is protected, shared and sometimes put at risk
+    description: How sensitive is genomic information and how to protect privacy? 
 
   - title: Interpreting results 
     image_url: /assets/img/section-icons/topic-icons/topic-icon-uncertainties-v2.png
     url: /lets-talk-genomics/uncertainties
-    description: Why genetic results are not always clear, complete or conclusive
+    description: What can – and can’t – genomic results tell us? 
 
   - title: Artificial intelligence
     image_url: /assets/img/section-icons/topic-icons/topic-icon-ai-v2.png
     url: /lets-talk-genomics/big-data-ai
-    description: How AI uses large genomic datasets to find patterns
+    description: How can AI improve healthcare in a transparent and ethical way? 
 
   - title: Forensics
     image_url: /assets/img/section-icons/topic-icons/topic-icon-forensic-v2.png
