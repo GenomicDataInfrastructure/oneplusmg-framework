@@ -30,8 +30,3 @@ subitems:
     image_url: /assets/img/section-icons/topic-icons/topic-icon-ai-v2.png
     url: /lets-talk-genomics/big-data-ai
     description: How can AI improve healthcare in a transparent and ethical way? 
-
-  - title: Forensics
-    image_url: /assets/img/section-icons/topic-icons/topic-icon-forensic-v2.png
-    url: /lets-talk-genomics/forensics
-    description: How DNA is used in criminal investigations and legal decisions

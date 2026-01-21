@@ -1,5 +1,6 @@
 ---
 layout: citizen-hub-subpage
+title: My DNA versus Our DNA
 permalink: /lets-talk-genomics/dna
 ---
 
