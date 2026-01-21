@@ -37,7 +37,7 @@ NBS raises two closely related debates. One is about autonomy: parents consent t
 
 ## The range of diseases
 
-The number of diseases screened for varies considerably across Europe. Countries like Italy, Portugal and Austria test for more than 30 conditions, while others – Cyprus, for example – test for as few as two.
+The number of [diseases screened] (https://media.crai.com/wp-content/uploads/2021/11/28135510/CRA-Insights-NBS-Policy-Updated-28-February-2024-vSTCCR.pdf) for varies considerably across Europe. Countries like Italy, Portugal and Austria test for more than 30 conditions, while others – Cyprus, for example – test for as few as two.
 
 Patient associations argue that this lack of standardisation creates inequalities ([see EURORDIS position on newborn screening](https://www.eurordis.org/our-priorities/diagnosis/newborn-screening/)). From the very start of life, children receive different levels of preventive, diagnostic and curative care across countries.
 
