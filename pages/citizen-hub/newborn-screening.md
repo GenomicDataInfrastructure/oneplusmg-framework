@@ -28,9 +28,7 @@ Yet, newborn screening also raises important ethical and societal points of disc
 
 ## Which diseases should be included in NBS programmes?
 
-Across Europe, there is an ongoing debate about which diseases should be included in NBS programmes. Different countries currently make varying choices.
-
-There is no standardised European list or common criteria for deciding which diseases should be included  
+Across Europe, there is an ongoing debate about which diseases should be included in NBS programmes. Different countries currently make varying choices. There is no standardised European list or common criteria for deciding which diseases should be included  
 ([see analysis of the lack of harmonised criteria across Europe](https://media.kbs-frb.be/fr/media/7601/20180704PP.pdf)).
 
 This raises a key question: if feasible, should all babies be routinely screened for the widest possible range of diseases to give every child the best chance of a healthy start in life?
@@ -44,9 +42,7 @@ NBS raises two closely related debates. One is about autonomy: parents consent t
 The number of diseases screened for varies considerably across Europe. Countries like Italy, Portugal and Austria test for more than 30 conditions, while others – Cyprus, for example – test for as few as two.
 
 Patient associations argue that this lack of standardisation creates inequalities  
-([see EURORDIS position on newborn screening](https://www.eurordis.org/our-priorities/diagnosis/newborn-screening/)).
-
-From the very start of life, children receive different levels of preventive, diagnostic and curative care across countries.
+([see EURORDIS position on newborn screening](https://www.eurordis.org/our-priorities/diagnosis/newborn-screening/)). From the very start of life, children receive different levels of preventive, diagnostic and curative care across countries.
 
 To address this, patient groups are calling for common European criteria for which diseases should be included in NBS, as a step towards more equitable healthcare.  
 If you would like to know more about the opinions and experiences of rare disease patients on NBS,  
