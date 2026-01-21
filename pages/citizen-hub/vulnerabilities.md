@@ -2,7 +2,7 @@
 layout: citizen-hub-subpage
 permalink: /lets-talk-genomics/vulnerabilities
 ---
-# Managing vulnerabilities
+# Managing vulnerability
 
 ## On this page
 - [Genomics and vulnerability](#genomics-and-vulnerability)
