@@ -9,7 +9,7 @@ Genomics can offer significant benefits for individuals. It can improve the accu
 <img src="{{ 'assets/img/dna.jpg' | relative_url }}" class="rightpos" alt="My DNA versus Our DNA" />
 
 At the same time, about 99% of the human genome is shared across all people. Genomics therefore also highlights what we have in common and can generate benefits at the population level. 
-For example, genomic research has supported the development of vaccines for widespread illnesses such as COVID-19 and influenza.
+For example, genomic research has supported the development of vaccines for widespread illnesses such as influenza.
 
 In either case, both personalised and public health applications rely on accurate interpretation of genomic data. This requires rigorous scientific research and access to large collections of data. Progress in personalised medicine is only possible when many people are willing to share their data for research and innovation.
 
