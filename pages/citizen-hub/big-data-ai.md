@@ -9,7 +9,7 @@ Artificial intelligence (AI) and big data have the potential to transform health
 
 ## AI in healthcare
 
-In medicine, AI systems can, for example, detect patterns in medical images (such as tumours) or generate summaries of conversations between doctors and patients. These tools may support faster and more reliable diagnoses, and help clinicians manage increasing amounts of information.
+In medicine, AI systems can, for example, detect patterns (such as tumours) in medical images or generate summaries of conversations between doctors and patients. These tools may support faster and more reliable diagnoses, and help clinicians manage increasing amounts of information.
 
 However, a major challenge is the so-called black box nature of many AI systems; it is often unclear how they arrive at their conclusions. This raises important questions about accuracy, transparency and accountability. If an AI-supported decision leads to an error, who is responsible — the developer, the clinician, or someone else?
 
