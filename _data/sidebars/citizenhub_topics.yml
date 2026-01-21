@@ -26,7 +26,7 @@ subitems:
     url: /lets-talk-genomics/uncertainties
     description: Why genetic results are not always clear, complete or conclusive
 
-  - title: Big data and AI
+  - title: Big data and artificial intelligence
     image_url: /assets/img/section-icons/topic-icons/topic-icon-ai-v2.png
     url: /lets-talk-genomics/big-data-ai
     description: How AI uses large genomic datasets to find patterns
