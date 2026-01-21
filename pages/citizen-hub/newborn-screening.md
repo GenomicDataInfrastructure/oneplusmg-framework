@@ -50,8 +50,7 @@ If you would like to know more about the opinions and experiences of rare diseas
 
 However, countries have very different organisational, political and financial systems, and, as a result, different capacities for prevention, diagnosis and treatment. A strict one-size-fits-all approach may therefore be out of reach for Europe.
 
-Instead, patient associations have suggested  
-[11 broad principles to support a more harmonised approach to newborn screening across Europe](https://download2.eurordis.org/documents/pdf/eurordis_nbs_position_paper.pdf).
+Instead, patient associations have suggested [11 broad principles to support a more harmonised approach to newborn screening across Europe](https://download2.eurordis.org/documents/pdf/eurordis_nbs_position_paper.pdf).
 
 ---
 
