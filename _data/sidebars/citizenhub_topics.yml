@@ -14,13 +14,13 @@ subitems:
   - title: Managing vulnerability
     image_url: /assets/img/section-icons/topic-icons/topic-icon-vulnerability-v2.png
     url: /lets-talk-genomics/vulnerabilities
-    description: What vulnerabilities does genomics reveal and how to manage them? 
+    description: How to manage the vulnerability that comes with genomics?
 
   - title: Privacy
     image_url: /assets/img/section-icons/topic-icons/topic-icon-privacy-v2.png
     url: /lets-talk-genomics/privacy
-    description: How sensitive is genomic information and how to protect privacy? 
-
+    description: How should genomic information be protected? 
+    
   - title: Interpreting results 
     image_url: /assets/img/section-icons/topic-icons/topic-icon-uncertainties-v2.png
     url: /lets-talk-genomics/uncertainties
