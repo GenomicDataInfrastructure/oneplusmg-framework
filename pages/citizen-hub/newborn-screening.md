@@ -24,7 +24,7 @@ Conditions tested can include cystic fibrosis (or mucoviscidosis), spinal muscul
 [See an overview of conditions currently included in newborn screening programmes across Europe](https://media.crai.com/wp-content/uploads/2021/11/28135510/CRA-Insights-NBS-Policy-Updated-28-February-2024-vSTCCR.pdf).
 
 Early detection and diagnosis (before symptoms appear) allow for timely treatment, monitoring and preventive care. This improves the quality of life and ensures every child has equal access to lifesaving care.
-> Yet, newborn screening also raises important ethical and societal points of discussion.
+Yet, newborn screening also raises important ethical and societal points of discussion.
 
 ## Which diseases should be included in NBS programmes?
 
