@@ -3,7 +3,7 @@ layout: citizen-hub-subpage
 permalink: /lets-talk-genomics/uncertainties
 ---
 
-# Uncertainties
+# Interpreting results
 
 ## On this page
 - [Uncertain results](#uncertain-results)
