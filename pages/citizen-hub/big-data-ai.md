@@ -3,7 +3,7 @@ layout: citizen-hub-subpage
 permalink: /lets-talk-genomics/big-data-ai
 ---
 
-# Big data and artificial intelligence
+# Artificial intelligence
 
 Artificial intelligence (AI) and big data have the potential to transform health and medicine. They can support more accurate diagnoses, help clinicians make decisions and improve the overall quality of care. At the same time, it is essential to ensure these technologies promote fair and patient-centred care, and do not reinforce — and ideally help to reduce — existing biases and inequalities in genomics and healthcare. While the benefits can be significant, so can the risks. Many of these risks are difficult to measure or predict in advance. Because big data and AI will inevitably shape the future of healthcare, their ethical and societal implications need to be discussed openly with the public.
 
