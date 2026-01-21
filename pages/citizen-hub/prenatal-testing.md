@@ -3,14 +3,14 @@ layout: citizen-hub-subpage
 permalink: /lets-talk-genomics/prenatal-testing
 ---
 
-# Prenatal testing
+# During pregnancy
 
 ## On this page
 - [How prenatal testing has changed](#how-prenatal-testing-has-changed)
 - [Non-invasive prenatal testing (NIPT)](#non-invasive-prenatal-testing-nipt)
 - [Questions and considerations](#questions-and-considerations)
 
-During pregnancy, regular follow-up and testing are important for the health of mother and baby. Advances in science and technology have changed prenatal testing significantly over time, resulting in new possibilities for information and care, but also raising new questions and debates.
+During pregnancy, regular follow-up and testing are important for the health of the mother and baby. Advances in science and technology have significantly changed prenatal testing over time, resulting in new possibilities for information and care, but also raising new questions and debates.
 
 ## How prenatal testing has changed
 
