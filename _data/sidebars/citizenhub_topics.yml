@@ -14,7 +14,7 @@ subitems:
   - title: Managing vulnerability
     image_url: /assets/img/section-icons/topic-icons/topic-icon-vulnerability-v2.png
     url: /lets-talk-genomics/vulnerabilities
-    description: How support and safeguards help people benefit from genomic information
+    description: How can the vulnerability associated with genomics be managed?
 
   - title: Privacy
     image_url: /assets/img/section-icons/topic-icons/topic-icon-privacy-v2.png
