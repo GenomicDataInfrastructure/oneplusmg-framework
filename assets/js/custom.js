@@ -61,3 +61,37 @@ mealTabs.forEach(tab => {
 
 // Initialize with morning meal
 updateActiveMeal('morning');
+
+
+// Add this script before the closing </body> tag
+document.addEventListener('DOMContentLoaded', function() {
+    // Function to highlight and fade
+    function highlightElement() {
+        const hash = window.location.hash;
+        if (hash) {
+            const target = document.querySelector(hash);
+            if (target) {
+                // Remove any existing highlights
+                document.querySelectorAll('.highlight-fade').forEach(el => {
+                    el.classList.remove('highlight-fade');
+                });
+                
+                // Add highlight class
+                target.classList.add('highlight-fade');
+                
+                // Remove highlight after animation completes (2 seconds)
+                setTimeout(() => {
+                    target.classList.remove('highlight-fade');
+                }, 2000);
+            }
+        }
+    }
+    
+    // Trigger on hash change (when clicking a link)
+    window.addEventListener('hashchange', highlightElement);
+    
+    // Trigger on page load if hash exists
+    if (window.location.hash) {
+        setTimeout(highlightElement, 100); // Small delay to ensure scroll completes
+    }
+});

@@ -17,7 +17,7 @@ This glossary describes terms related to genomics that are frequently used on th
   </thead>
   <tbody>
     <tr>
-      <td>Carrier status</td>
+      <td id="carrier-status">Carrier status</td>
       <td>
         A carrier is someone who has one copy of a gene with a variant that can cause disease.
         Usually, carriers themselves do not have any symptoms of the disease, but they can pass
@@ -27,7 +27,7 @@ This glossary describes terms related to genomics that are frequently used on th
     </tr>
 
     <tr>
-      <td>Carrier screening</td>
+      <td id="carrier-screening">Carrier screening</td>
       <td>
         A type of genetic test that checks whether a person carries a variant that could be
         passed on to their children and cause a genetic condition.
@@ -35,7 +35,7 @@ This glossary describes terms related to genomics that are frequently used on th
     </tr>
 
     <tr>
-      <td>Cascade screening</td>
+      <td id="cascade-screening">Cascade screening</td>
       <td>
         Testing family members of someone with a genetic condition to see whether they also
         carry the same hereditary variant. This helps identify relatives who may be at risk.
@@ -43,7 +43,7 @@ This glossary describes terms related to genomics that are frequently used on th
     </tr>
 
     <tr>
-      <td>Complex disease</td>
+      <td id="complex-disease">Complex disease</td>
       <td>
         A health condition caused by a combination of genetic factors, lifestyle behaviours,
         and environmental influences. Examples include diabetes, heart disease, and many types
@@ -52,7 +52,7 @@ This glossary describes terms related to genomics that are frequently used on th
     </tr>
 
     <tr>
-      <td>Congenital disease</td>
+      <td id="congenital-disease">Congenital disease</td>
       <td>
         A condition present from birth that can be caused by genetic factors, problems during
         pregnancy, or a combination of both.
@@ -60,7 +60,7 @@ This glossary describes terms related to genomics that are frequently used on th
     </tr>
 
     <tr>
-      <td>Direct-to-consumer test</td>
+      <td id="direct-to-consumer-test">Direct-to-consumer test</td>
       <td>
         A type of genetic test that people can order themselves, usually online, without
         medical assistance. The results may give information about ancestry, traits, or health
@@ -69,7 +69,7 @@ This glossary describes terms related to genomics that are frequently used on th
     </tr>
 
     <tr>
-      <td>DNA</td>
+      <td id="dna">DNA</td>
       <td>
         The hereditary material that is in every cell of our body and contains our genes. It
         strongly influences how our body looks, develops, and functions.
@@ -77,7 +77,7 @@ This glossary describes terms related to genomics that are frequently used on th
     </tr>
 
     <tr>
-      <td>Exome</td>
+      <td id="exome">Exome</td>
       <td>
         A small part of the genome (about 1.5%) composed of exons, which are the sections of
         genes containing instructions to make proteins. Whole-exome sequencing is sometimes
@@ -86,7 +86,7 @@ This glossary describes terms related to genomics that are frequently used on th
     </tr>
 
     <tr>
-      <td>Gene</td>
+      <td id="gene">Gene</td>
       <td>
         A section of DNA that contains instructions for making specific proteins that help the
         body work. Our genes contain the information needed to specify our biological and
@@ -95,14 +95,14 @@ This glossary describes terms related to genomics that are frequently used on th
     </tr>
 
     <tr>
-      <td>Genome</td>
+      <td id="genome">Genome</td>
       <td>
         All the genetic material (DNA) in our body. It includes all our genes.
       </td>
     </tr>
 
     <tr>
-      <td>Genomics</td>
+      <td id="genomics">Genomics</td>
       <td>
         The study of the entire genome, including how all genes interact with each other and
         with the environment to affect health and disease.
@@ -110,7 +110,7 @@ This glossary describes terms related to genomics that are frequently used on th
     </tr>
 
     <tr>
-      <td>Genotype</td>
+      <td id="genotype">Genotype</td>
       <td>
         An individual’s collection of genes. Humans have a lot of DNA in common, but some genes
         vary from individual to individual, making each genotype unique.
@@ -118,7 +118,7 @@ This glossary describes terms related to genomics that are frequently used on th
     </tr>
 
     <tr>
-      <td>Mutation</td>
+      <td id="mutation">Mutation</td>
       <td>
         A permanent change in the DNA sequence of a gene. Some mutations have no effect, while
         others can cause disease or influence how the body works.
@@ -126,7 +126,7 @@ This glossary describes terms related to genomics that are frequently used on th
     </tr>
 
     <tr>
-      <td>PRS (Polygenic Risk Score)</td>
+      <td id="prs">PRS (Polygenic Risk Score)</td>
       <td>
         A score that calculates a person’s probability of developing a disease based on the
         combined effect of many small genetic variations across the genome.
@@ -134,7 +134,7 @@ This glossary describes terms related to genomics that are frequently used on th
     </tr>
 
     <tr>
-      <td>Personalised medicine</td>
+      <td id="personalised-medicine">Personalised medicine</td>
       <td>
         An approach to healthcare that tailors prevention, diagnosis, and treatment to each
         person’s genes, environment, and lifestyle.
@@ -142,7 +142,7 @@ This glossary describes terms related to genomics that are frequently used on th
     </tr>
 
     <tr>
-      <td>Pharmacogenomics</td>
+      <td id="pharmacogenomics">Pharmacogenomics</td>
       <td>
         The study of how a person’s genes affect their response to medicines, helping doctors
         choose the safest and most effective drugs and doses.
@@ -150,7 +150,7 @@ This glossary describes terms related to genomics that are frequently used on th
     </tr>
 
     <tr>
-      <td>Phenotype</td>
+      <td id="phenotype">Phenotype</td>
       <td>
         Observable characteristics such as height, skin colour, or blood type. Phenotype is
         influenced by both genes and environmental factors like nutrition and lifestyle.
@@ -158,7 +158,7 @@ This glossary describes terms related to genomics that are frequently used on th
     </tr>
 
     <tr>
-      <td>Rare disease</td>
+      <td id="rare-disease">Rare disease</td>
       <td>
         A condition affecting a small proportion of the population. Most rare diseases have a
         genetic cause.
@@ -166,7 +166,7 @@ This glossary describes terms related to genomics that are frequently used on th
     </tr>
 
     <tr>
-      <td>Sequencing</td>
+      <td id="sequencing">Sequencing</td>
       <td>
         Determining the exact order of the building blocks (A, T, C, G) that make up a DNA
         fragment.
@@ -174,7 +174,7 @@ This glossary describes terms related to genomics that are frequently used on th
     </tr>
 
     <tr>
-      <td>Variant</td>
+      <td id="variant">Variant</td>
       <td>
         A variation in the DNA sequence compared to what is common in the population. Some
         variants have no effect, while others may increase or reduce disease risk.
@@ -182,7 +182,7 @@ This glossary describes terms related to genomics that are frequently used on th
     </tr>
 
     <tr>
-      <td>VUS (Variant of Uncertain Significance)</td>
+      <td id="vus">VUS (Variant of Uncertain Significance)</td>
       <td>
         A DNA variant whose effect on health remains unclear. More research is often needed to
         understand its impact.
@@ -190,7 +190,7 @@ This glossary describes terms related to genomics that are frequently used on th
     </tr>
 
     <tr>
-      <td>Whole Genome Sequencing (WGS)</td>
+      <td id="wgs">Whole Genome Sequencing (WGS)</td>
       <td>
         A laboratory method that reads the complete DNA sequence of a person’s genome to
         identify variants that may affect health or disease.

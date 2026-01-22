@@ -1025,4 +1025,21 @@ img.middlepos{
   }
   .card-text strong{ text-transform: lowercase;}
 
+  html {
+    scroll-behavior: smooth;
+}
+
+#prs:target, #personalised-medicine:target,  #carrier-status:target,  #carrier-screening:target, #cascade-screening:target, #complex-disease:target, #congenital-disease:target, #direct-to-consumer-test:target, #dna:target, #exome:target, #gene:target, #genome:target, #genomics:target, #genotype:target, #mutation:target, #pharmacogenomics:target, #phenotype:target, #rare-disease:target, #sequencing:target, #variant:target, #vus:target, #wgs:target{
+    background-color: #f9ec78;
+    padding: 15px;
+    border-radius: 8px;
+    border-left: 4px solid #6ec6d8;
+    animation: fadeOut 2s ease-in-out 0.5s forwards; /* 0.5s delay for scroll */
+}
+
+@keyframes fadeOut {
+    from { background-color: #f9ec78; }
+    to { background-color: transparent; }
+}
+
   
