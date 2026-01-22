@@ -37,8 +37,8 @@ Finally, the website showcases numerous examples of public engagement initiative
 
 ### Context of this website
 
-**Let’s talk genomics** was created in the context of the *Beyond 1 Million Genomes plus (B1MGplus)* project.
+**Let’s talk genomics** was created in the context of the Beyond 1 Million Genomes plus (B1MGplus) project.
 
-The [B1MGplus](https://b1mgplus.onemilliongenomes.eu/) project is funded by the European Commission and supports the development of a European cross-border network of genomic and clinical data to improve healthcare outcomes. It provides coordination and support for the *1+ Million Genomes (1+MG)* initiative.
+The [B1MGplus](https://b1mgplus.onemilliongenomes.eu/) project is funded by the European Commission and supports the development of a European cross-border network of genomic and clinical data to improve healthcare outcomes. It provides coordination and support for the 1+ Million Genomes (1+MG) initiative.
 
 The [1+ Million Genomes (1+MG)](https://framework.onemilliongenomes.eu/) initiative is a commitment by 24 EU countries, the United Kingdom and Norway to enable secure access to genomic and corresponding clinical data across Europe. Its goal is to support ground-breaking research, inform health policymaking and incentivise personalised healthcare with the potential to improve disease prevention. To achieve this, the initiative aims to provide cross-border access to one million sequenced genomes. As a result, the 1+MG initiative has become one of the world’s largest genomics projects and plays a leading role in setting global standards in the field.
