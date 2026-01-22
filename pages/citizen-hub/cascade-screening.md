@@ -5,11 +5,6 @@ permalink: /lets-talk-genomics/cascade-screening
 
 # When a family member falls ill 
 
-## On this page
-- [What is cascade screening?](#what-is-cascade-screening)
-- [Privacy, responsibility and family dynamics](#privacy-responsibility-and-family-dynamics)
-- [The role of healthcare professionals](#the-role-of-healthcare-professionals)
-
 ## What is cascade screening?
 
 One of the distinctive features of genomic information is that it is often shared within families. When a person is diagnosed with a hereditary condition, this information may also be relevant for their relatives. Through cascade screening, also known as family-based genetic testing, relatives can be offered genetic testing to find out whether they may also be at increased risk to develop the condition. This information can help them consider preventive care, monitoring or early treatment, where appropriate.
