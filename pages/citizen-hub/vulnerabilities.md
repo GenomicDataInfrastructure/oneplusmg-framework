@@ -4,6 +4,8 @@ permalink: /lets-talk-genomics/vulnerabilities
 ---
 # Managing vulnerability
 
+[Link to another topic page](uncertainties)
+
 ## On this page
 - [Genomics and vulnerability](#genomics-and-vulnerability)
 - [Inherent vulnerabilities and susceptibility](#inherent-vulnerabilities-and-susceptibility)
