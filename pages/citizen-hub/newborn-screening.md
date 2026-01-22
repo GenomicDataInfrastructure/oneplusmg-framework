@@ -6,35 +6,23 @@ permalink: /lets-talk-genomics/newborn-screening
 # At birth
 
 ## On this page
-- [What is newborn screening?](#what-is-newborn-screening)
-- [The range of diseases](#the-range-of-diseases)
+- [Introduction](#Introduction)
 - [How broad should newborn screening be?](#how-broad-should-newborn-screening-be)
 - [Potential uses of newborn screening data](#potential-uses-of-newborn-screening-data)
-- [Autonomy and decision-making](#autonomy-and-decision-making)
 
-At birth, newborn screening (NBS) helps detect serious but treatable diseases in babies. Taking a few drops of blood soon after delivery can reveal serious conditions that might otherwise remain hidden until it is too late. With early treatment, many severe conditions can be prevented or managed effectively.
+## Introduction
 
-This type of screening is routinely offered across Europe, but the specific approach varies from country to country.
+At birth, newborn screening (NBS) – sometimes called newborn blood spot screening or neonatal testing – helps detect serious but treatable diseases in babies. By taking a few drops of blood soon after delivery,  serious congenital conditions are detected that may not show symptoms immediately, but can cause serious health problems if untreated. Conditions tested can include cystic fibrosis (or mucoviscidosis), spinal muscular atrophy, blood disorders and hearing loss. [See an overview of conditions currently included in newborn screening programmes across Europe](https://media.crai.com/wp-content/uploads/2021/11/28135510/CRA-Insights-NBS-Policy-Updated-28-February-2024-vSTCCR.pdf). Early detection and diagnosis (before symptoms appear), however, allow for timely treatment, monitoring and preventive care. This improves the quality of life and ensures every child has equal access to lifesaving care. 
 
-## What is newborn screening?
+Nevertheless, NBS also raises important ethical and societal points of discussion.
 
-Newborn screening – sometimes also called newborn blood spot screening or neonatal testing – is now offered in all European countries and the UK. A few days after birth, a small blood sample is taken to test for treatable congenital conditions that may not show symptoms immediately, but can cause serious health problems if untreated.
+NBS is now offered in all European countries and the UK, but the specific approach varies from country to country. Across Europe, there is an ongoing debate about which diseases should be included in NBS programmes. Different countries currently make varying choices. There is no standardised European list or common criteria for deciding which diseases should be included ([see an analysis of the lack of harmonised criteria across Europe](https://media.kbs-frb.be/fr/media/7601/20180704PP.pdf)). This raises a key question: if feasible, should all babies be routinely screened for the widest possible range of diseases to give every child the best chance of a healthy start in life?
 
-Conditions tested can include cystic fibrosis (or mucoviscidosis), spinal muscular atrophy, blood disorders and hearing loss. [See an overview of conditions currently included in newborn screening programmes across Europe](https://media.crai.com/wp-content/uploads/2021/11/28135510/CRA-Insights-NBS-Policy-Updated-28-February-2024-vSTCCR.pdf).
+Additionally, NBS raises questions about how and by whom the genomic information obtained can be used. Parents consent to NBS, but as children grow, they may want control over how their data is used. Moreover, information collected for health might also be applied in research, policymaking or even law enforcement, raising questions of transparency, consent and trust.
 
-Early detection and diagnosis (before symptoms appear) allow for timely treatment, monitoring and preventive care. This improves the quality of life and ensures every child has equal access to lifesaving care. However, newborn screening also raises important ethical and societal points of discussion.
+## How broad should newborn screening be?
 
-## Which diseases should be included in NBS programmes?
-
-Across Europe, there is an ongoing debate about which diseases should be included in NBS programmes. Different countries currently make varying choices. There is no standardised European list or common criteria for deciding which diseases should be included ([see an analysis of the lack of harmonised criteria across Europe](https://media.kbs-frb.be/fr/media/7601/20180704PP.pdf)). This raises a key question: if feasible, should all babies be routinely screened for the widest possible range of diseases to give every child the best chance of a healthy start in life?
-
-## How should NBS data be used?
-
-NBS raises two closely related debates. One is about autonomy: parents consent to NBS, but as children grow, they may want control over how their data is used. The other is about reuse: information collected for health might also be applied in research, policymaking or even law enforcement, raising questions of transparency, consent and trust.
-
-## The range of diseases
-
-The number of [diseases screened] (https://media.crai.com/wp-content/uploads/2021/11/28135510/CRA-Insights-NBS-Policy-Updated-28-February-2024-vSTCCR.pdf) for varies considerably across Europe. Countries like Italy, Portugal and Austria test for more than 30 conditions, while others – Cyprus, for example – test for as few as two.
+The number of [diseases screened](https://media.crai.com/wp-content/uploads/2021/11/28135510/CRA-Insights-NBS-Policy-Updated-28-February-2024-vSTCCR.pdf) for varies considerably across Europe. Countries like Italy, Portugal and Austria test for more than 30 conditions, while others – Cyprus, for example – test for as few as two.
 
 Patient associations argue that this lack of standardisation creates inequalities ([see EURORDIS position on newborn screening](https://www.eurordis.org/our-priorities/diagnosis/newborn-screening/)). From the very start of life, children receive different levels of preventive, diagnostic and curative care across countries. To address this, patient groups are calling for common European criteria for which conditions should be included in NBS, as a step towards more equitable healthcare. If you would like to know more about the opinions and experiences of rare disease patients on NBS, [read the EURORDIS *Voices on Newborn Screening* report](https://www.eurordis.org/publications/voices-on-newborn-screening-rb-report/). However, countries have very different organisational, political and financial systems, and, as a result, different capacities for prevention, diagnosis and treatment. A strict one-size-fits-all approach may therefore be out of reach for Europe. Instead, patient associations have suggested [11 broad principles to support a more harmonised approach to newborn screening across Europe](https://download2.eurordis.org/documents/pdf/eurordis_nbs_position_paper.pdf).
 
@@ -51,7 +39,6 @@ Patient associations argue that this lack of standardisation creates inequalitie
 > Health professionals have argued that broader screening protects children and reduces long-term costs  
 > ([see clinical perspectives on expanding screening](https://www.analesdepediatria.org/en-newborn-screening-for-metabolic-disorders-articulo-S2341287919301164)).
 
-## How broad should newborn screening be?
 
 Even if common standards were agreed across Europe, the pressing question remains: how broad should NBS be, and which diseases should it cover?
 
@@ -71,8 +58,6 @@ Health data collected at birth can be valuable beyond its original purpose. It s
 
 This raises sensitive questions. Should newborn screening data ever be used for non-medical purposes, such as criminal or forensic investigations? How should transparency, consent and trust be ensured?
 
-## Autonomy and decision-making
-
-When considering the reuse of NBS data, autonomy is key. Parents give consent at birth, but as children grow, they may wish to decide for themselves how their genetic data is used.
+Finally, when considering the reuse of NBS data, autonomy is key. Parents give consent at birth, but as children grow, they may wish to decide for themselves how their genetic data is used.
 
 These debates highlight a central tension in balancing individual rights with the broader societal value of research. Decisions made at the very start of life can carry consequences for decades to come — for both individuals and society.
