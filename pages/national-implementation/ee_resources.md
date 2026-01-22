@@ -7,10 +7,13 @@ coordinators:
 
 ---
 
-**We are still working on the content for this page.** If you are interested in adding to the page, then:
+## Entry page
 
-[Feel free to contribute](how_to_contribute){: class="btn btn-primary btn-lg rounded-pill"}
+- [GDI Estonia](https://gdi.ut.ee)
 
-This is a community-driven website, so contributions are welcome! You will, of course, be listed as a contributor on the page.
+## Technical Implementation
+
+- [Technical Specs](https://gdi.ut.ee/en/technical/)
+- [Deployment Notes](https://gdi.ut.ee/en/technical/deployment-notes/)
 
 <a onclick="window.history.back()" class="btn btn-primary btn-lg rounded-pill">Browse other nations</a>

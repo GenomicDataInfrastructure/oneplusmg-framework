@@ -18,6 +18,7 @@ To facilitate cross-border searching, linking and analysis of genomic and health
 * [Environmental Exposure and Biomarker Class Version 1](assets/minimal-metadata-model/Environmental Exposure and Biomarker Class Version 1.pdf)
 * [Sequence Class Version 1](assets/minimal-metadata-model/Sequence Class Version 1.pdf)
 * [Metadata Submission Version 1](assets/minimal-metadata-model/Metadata Submission Version 1.pdf)
+* [UML Diagram Version 1](assets/minimal-metadata-model/GDI_diagram.pdf)
   
 
 ## [Documented best practices in sharing and linking phenotypic and genetic data v2.0](https://zenodo.org/record/7342855) 
