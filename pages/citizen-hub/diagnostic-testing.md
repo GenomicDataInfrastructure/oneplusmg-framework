@@ -6,13 +6,13 @@ permalink: /lets-talk-genomics/diagnostic-testing
 # When illness strikes
 
 ## On this page
-- [When the diagnosis is hard to reach](#when-diagnosis-is-hard-to-reach)
+- [When it's hard to reach a diagnosis](#when-its-hard-to-reach-a-diagnosis)
 - [Rare diseases and the role of genomics](#rare-diseases-and-the-role-of-genomics)
 - [Limits, uncertainty and support](#limits-uncertainty-and-support)
 - [Choosing a test](#choosing-a-test)
 - [Access and equity](#access-and-equity)
 
-## When the diagnosis is hard to reach
+## When it's hard to reach a diagnosis
 
 Sometimes, traditional clinical investigations like physical examinations, blood tests or imaging are not enough to explain a person’s symptoms. When this happens, genetic or genomic testing can provide additional clues and may help end a long and difficult search for answers. Receiving a diagnosis can bring clarity and relief, and can be an important step towards appropriate treatment or support.
 
