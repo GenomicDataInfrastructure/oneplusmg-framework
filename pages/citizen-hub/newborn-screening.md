@@ -12,7 +12,7 @@ permalink: /lets-talk-genomics/newborn-screening
 - [Potential uses of newborn screening data](#potential-uses-of-newborn-screening-data)
 - [Autonomy and decision-making](#autonomy-and-decision-making)
 
-Newborn screening (NBS) helps detect serious but treatable diseases in babies. Taking a few drops of blood soon after delivery can reveal serious conditions that might otherwise remain hidden until it is too late. With early treatment, many severe conditions can be prevented or managed effectively.
+At birth, newborn screening (NBS) helps detect serious but treatable diseases in babies. Taking a few drops of blood soon after delivery can reveal serious conditions that might otherwise remain hidden until it is too late. With early treatment, many severe conditions can be prevented or managed effectively.
 
 This type of screening is routinely offered across Europe, but the specific approach varies from country to country.
 
