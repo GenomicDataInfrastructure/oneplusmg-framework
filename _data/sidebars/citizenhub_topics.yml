@@ -24,9 +24,9 @@ subitems:
   - title: Interpreting results 
     image_url: /assets/img/section-icons/topic-icons/topic-icon-uncertainties-v2.png
     url: /lets-talk-genomics/uncertainties
-    description: What can genomic results tell us? 
+    description: What can genomic results really tell us? 
 
   - title: AI
     image_url: /assets/img/section-icons/topic-icons/topic-icon-ai-v2.png
     url: /lets-talk-genomics/big-data-ai
-    description: How AI can improve healthcare in a transparent and ethical way? 
+    description: How can AI improve healthcare in a transparent and ethical way? 
