@@ -14,9 +14,7 @@ Technological advances have made it possible to analyse DNA more quickly and at 
 
 ## What privacy means in genomics
 
-Genetic information can be highly personal. Depending on the type and amount of data collected, it may be uniquely identifying, deeply intimate, or shared with others, such as family members (in the case of inherited conditions) or specific population groups (for example, in rare diseases or ancestry research).
-
-In genomics, [privacy](https://zenodo.org/records/14720403]) refers to a person’s right to control how their personal and sensitive information is used and shared. Protecting privacy helps prevent undesirable exposure or data misuse, such as discrimination or stigmatisation (for more information, see the topic Vulnerability).
+Genetic information can be highly personal. Depending on the type and amount of data collected, it may be uniquely identifying, deeply intimate, or shared with others, such as family members (in the case of inherited conditions) or specific population groups (for example, in rare diseases or ancestry research). In genomics, [privacy](https://zenodo.org/records/14720403]) refers to a person’s right to control how their personal and sensitive information is used and shared. Protecting privacy helps prevent undesirable exposure or data misuse, such as discrimination or stigmatisation (for more information, see the topic Vulnerability).
 
 Because no one can choose their genetic makeup, privacy protection plays an important role in ensuring that people are not defined solely by what their DNA reveals about them. It supports individual autonomy, as well as psychological and social wellbeing.
 
