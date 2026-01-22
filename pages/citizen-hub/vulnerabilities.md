@@ -16,11 +16,7 @@ permalink: /lets-talk-genomics/vulnerabilities
 
 ## Genomics and vulnerability
 
-Genomics offers unprecedented opportunities to improve health. Understanding how our genes, and the small variations within them, influence disease risk supports better diagnosis, treatment and prevention, and enables more personalised medicine.
-
-At the same time, genomic information can create new kinds of vulnerability. Genetic test results can reveal inherent susceptibilities to disease, raise privacy concerns — particularly for rare conditions — or provide information whose value is uncertain when no effective or affordable treatment is available. Genomic information can also be misused, for example by employers or insurers, potentially leading to stigma or discrimination.
-
-For these reasons, it is essential to put safeguards and trustworthy frameworks in place to help people manage vulnerabilities and prevent misuse.
+Genomics offers unprecedented opportunities to improve health. Understanding how our genes, and the small variations within them, influence disease risk supports better diagnosis, treatment and prevention, and enables more personalised medicine. At the same time, genomic information can create new kinds of vulnerability. Genetic test results can reveal inherent susceptibilities to disease, raise privacy concerns — particularly for rare conditions — or provide information whose value is uncertain when no effective or affordable treatment is available. Genomic information can also be misused, for example by employers or insurers, potentially leading to stigma or discrimination. For these reasons, it is essential to put safeguards and trustworthy frameworks in place to help people manage vulnerabilities and prevent misuse.
 
 ## Inherent vulnerabilities and susceptibility
 
