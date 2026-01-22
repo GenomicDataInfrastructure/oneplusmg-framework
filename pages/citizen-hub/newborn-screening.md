@@ -40,6 +40,7 @@ Patient associations argue that this lack of standardisation creates inequalitie
 > ([see clinical perspectives on expanding screening](https://www.analesdepediatria.org/en-newborn-screening-for-metabolic-disorders-articulo-S2341287919301164)).
 
 
+
 Even if common standards were agreed across Europe, the pressing question remains: how broad should NBS be, and which diseases should it cover?
 
 Currently, NBS only includes conditions where early detection clearly improves health through prevention, monitoring or timely treatment. With rapid advances in genomics, however, there is growing debate about expanding the scope, or even sequencing the entire genome of every newborn  
@@ -54,10 +55,6 @@ Finally, whole-genome sequencing could shift how society views health. If risks 
 
 ## Potential uses of newborn screening data
 
-Health data collected at birth can be valuable beyond its original purpose. It supports public health statistics, research and policymaking. With initiatives such as the European Health Data Space, the reuse of such data is expected to grow.
+Health data collected at birth can be valuable beyond its original purpose. It supports public health statistics, research and policymaking. With initiatives such as the European Health Data Space, the reuse of such data is expected to grow. This raises sensitive questions. Should newborn screening data ever be used for non-medical purposes, such as criminal or forensic investigations? How should transparency, consent and trust be ensured?
 
-This raises sensitive questions. Should newborn screening data ever be used for non-medical purposes, such as criminal or forensic investigations? How should transparency, consent and trust be ensured?
-
-Finally, when considering the reuse of NBS data, autonomy is key. Parents give consent at birth, but as children grow, they may wish to decide for themselves how their genetic data is used.
-
-These debates highlight a central tension in balancing individual rights with the broader societal value of research. Decisions made at the very start of life can carry consequences for decades to come — for both individuals and society.
+Finally, when considering the reuse of NBS data, autonomy is key. Parents give consent at birth, but as children grow, they may wish to decide for themselves how their genetic data is used. These debates highlight a central tension in balancing individual rights with the broader societal value of research. Decisions made at the very start of life can carry consequences for decades to come — for both individuals and society.
