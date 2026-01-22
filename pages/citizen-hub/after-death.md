@@ -9,7 +9,7 @@ A person’s life has a clear beginning and end, but the situation is more compl
 
 ## Why genomic data outlives us
 
-As scientific knowledge evolves, existing data may be analysed again or reinterpreted, for example, for new research purposes. As technologies and analytical methods improve, older datasets can yield new insights that were not possible when the data were first generated. As a result, genomic data is often retained, reused and shared across different domains, including research, healthcare and, in some cases, forensics.
+As scientific knowledge evolves, existing data may be analysed again or reinterpreted, for example, for new research purposes. As technologies and analytical methods improve, older datasets can yield new insights that were not possible when the data was first generated. As a result, genomic data is often retained, reused and shared across different domains, including research, healthcare and, in some cases, forensics.
 
 ## Implications for family members
 
