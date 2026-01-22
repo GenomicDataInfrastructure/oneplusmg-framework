@@ -6,8 +6,6 @@ permalink: /lets-talk-genomics/dna
 
 # My DNA vs our DNA
 
-[PRS (Polygenic Risk Score)](./glossary#prs)
-
 Genomics can offer significant benefits for individuals. It can improve the accuracy of diagnoses, guide more targeted treatments and support what is known as personalised medicine. Due to the close link between genomic information and an individual’s specific characteristics, strong privacy protection is essential.
 <img src="{{ 'assets/img/dna.jpg' | relative_url }}" class="rightpos" alt="My DNA versus Our DNA" />
 
