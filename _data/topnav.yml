@@ -27,14 +27,4 @@ subitems:
         url: /accessibility
       - title: Privacy
         url: /privacy
-  - title: Let's talk Genomics
-    subitems:
-      - title: Let's talk Genomics
-        url: /lets-talk-genomics
-      - title: About
-        url: /lets-talk-genomics/about-genomics
-      - title: Glossary
-        url: /lets-talk-genomics/glossary
-      - title: Citizen engagement initiatives and materials
-        url: /lets-talk-genomics/citizen-engagement-initiative-materials
-    
+  - title: Let's talk genomics  
