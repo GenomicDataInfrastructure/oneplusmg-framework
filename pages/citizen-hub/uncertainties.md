@@ -29,10 +29,7 @@ There is no simple or universal answer to these questions, and approaches vary a
 
 ## Unexpected findings
 
-Genomic testing can also produce unexpected results. A person may undergo testing for a specific reason, such as investigating a particular illness or through family (cascade) screening, but the test may reveal an increased risk for an unrelated condition.
-
-While this information can enable prevention or early detection, it can also be distressing. As a result, there has been significant debate about:
-
+Genomic testing can also produce unexpected results. A person may undergo testing for a specific reason, such as investigating a particular illness or through family (cascade) screening, but the test may reveal an increased risk for an unrelated condition. While this information can enable prevention or early detection, it can also be distressing. As a result, there has been significant debate about:
 - whether people should be able to choose if they receive such findings
 - how informed consent should be handled
 - whether clinicians should disclose information that falls outside the original reason for testing
@@ -43,6 +40,4 @@ Uncertain and unexpected results emphasise the importance of genetic counselling
 
 ## Avoiding genetic determinism
 
-Correct interpretation of genomic information is also important to avoid genetic determinism — the idea that genes alone determine health or future outcomes.
-
-While genomics offers significant medical and societal benefits, over-promising or over-emphasising genetic factors can be misleading. Health is shaped by many factors, including lifestyle, environment and social conditions. Presenting genomics as one part of this broader picture helps ensure that citizens have a realistic and trustworthy understanding of what genomics can and can't offer.
+Correct interpretation of genomic information is also important to avoid genetic determinism – the idea that genes alone determine health or future outcomes. While genomics offers significant medical and societal benefits, over-promising or over-emphasising genetic factors can be misleading. Health is shaped by many factors, including lifestyle, environment and social conditions. Presenting genomics as one part of this broader picture helps ensure that citizens have a realistic and trustworthy understanding of what genomics can and can't offer.
