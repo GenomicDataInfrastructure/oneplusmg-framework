@@ -27,4 +27,5 @@ subitems:
         url: /accessibility
       - title: Privacy
         url: /privacy
-  - title: Let's talk genomics  
+  - title: Let's talk genomics
+    url: /lets-talk-genomics
