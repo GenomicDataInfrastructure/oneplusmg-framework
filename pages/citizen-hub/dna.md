@@ -1,10 +1,10 @@
 ---
 layout: citizen-hub-subpage
-title: My DNA versus Our DNA
+title: My DNA vs our DNA
 permalink: /lets-talk-genomics/dna
 ---
 
-# My DNA versus Our DNA
+# My DNA vs our DNA
 
 [PRS (Polygenic Risk Score)](./glossary#prs)
 
