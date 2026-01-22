@@ -28,9 +28,9 @@ Although this type of vulnerability cannot be eliminated, people can learn to ma
 
 ## Rare diseases and specific challenges
 
-Genomic sequencing and data sharing have transformed the understanding of many rare diseases. Achieving an accurate diagnosis can end a long [diagnostic journey] (https://www.genomicseducation.hee.nhs.uk/genotes/knowledge-hub/the-diagnostic-odyssey-in-rare-disease/) and may enable earlier intervention, treatment options or informed reproductive planning.
+Genomic sequencing and data sharing have transformed the understanding of many rare diseases. Achieving an accurate diagnosis can end a long [diagnostic journey](https://www.genomicseducation.hee.nhs.uk/genotes/knowledge-hub/the-diagnostic-odyssey-in-rare-disease/) and may enable earlier intervention, treatment options or informed reproductive planning.
 
-However, identifying a [rare disease or genetic predisposition] (https://www.eurordis.org/wp-content/uploads/2024/05/RB_NBS_report_vff.pdf) can also introduce new vulnerabilities — particularly when effective treatments are unavailable or unaffordable.
+However, identifying a [rare disease or genetic predisposition](https://www.eurordis.org/wp-content/uploads/2024/05/RB_NBS_report_vff.pdf) can also introduce new vulnerabilities — particularly when effective treatments are unavailable or unaffordable.
 
 ### Unaffordable and inaccessible therapies
 
@@ -43,7 +43,7 @@ Where treatments do exist, they may be extremely expensive and offer uncertain b
 
 ## Privacy risks
 
-Rare diseases affect small populations, which means genomic data linked to them are inherently scarce. When datasets include related family members and unique genetic variants, the [risk of identifying individuals increases] (https://pubmed.ncbi.nlm.nih.gov/35154238/). An analogy is often used: in a small village, describing a person with a distinctive trait and family connections may make it easy to identify them. The same applies to rare-disease data.
+Rare diseases affect small populations, which means genomic data linked to them are inherently scarce. When datasets include related family members and unique genetic variants, the [risk of identifying individuals increases](https://pubmed.ncbi.nlm.nih.gov/35154238/). An analogy is often used: in a small village, describing a person with a distinctive trait and family connections may make it easy to identify them. The same applies to rare-disease data.
 
 These risks are heightened by international data sharing, which is essential for rare-disease research. Single-country datasets are often too small to produce robust scientific evidence, making cross-border collaboration necessary. This increases the importance of strong privacy protections and governance.
 
