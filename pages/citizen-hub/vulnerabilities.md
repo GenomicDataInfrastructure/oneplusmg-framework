@@ -54,12 +54,12 @@ Genomic data are powerful. They can improve diagnosis, treatment and prevention 
 > **Real story – The Holmes case**  
 > In 2024, 17-year-old Carys Holmes was refused entry to the British Army because of a family history of breast cancer, despite having no diagnosis herself. Following public scrutiny, the decision was reversed. The case highlighted how people can be excluded based on genetic risk or family history, even in the absence of illness.
 
-> **Real story – Insurance protection in Australia**  
-> In 2024, Australia introduced a ban preventing life insurers from using genetic test results showing health risks when underwriting policies. This change reassured people that they could undergo genetic testing without fear of insurance discrimination, encouraging testing, research participation and public trust.
-
 ## Protection and empowerment
 
 Vulnerability arising from genomic data misuse can be reduced through strong data protection measures, laws and enforcement mechanisms. At EU level, these include frameworks such as the GDPR, anti-discrimination legislation, the AI Act and the European Health Data Space. However, no legal system can prevent all misuse. Some discrimination may occur informally or unintentionally, beyond the reach of regulation. This means some degree of vulnerability will always remain. For this reason, legal safeguards must be complemented by robust, transparent governance frameworks that promote responsible and trustworthy use of genomic data. Public engagement is crucial. When citizens are involved as partners in shaping genomic policies and practices, vulnerability can be transformed into empowerment.
+
+> **Real story – Insurance protection in Australia**  
+> In 2024, Australia introduced a ban preventing life insurers from using genetic test results showing health risks when underwriting policies. This change reassured people that they could undergo genetic testing without fear of insurance discrimination, encouraging testing, research participation and public trust.
 
 > **Useful tools and materials**  
 > Want to explore public initiatives or materials to support discussion about vulnerability in genomics?  
