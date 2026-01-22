@@ -3,7 +3,7 @@ layout: citizen-hub-subpage
 permalink: /lets-talk-genomics/cascade-screening
 ---
 
-# When a family member falls ill 
+# When a relative is ill 
 
 ## What is cascade screening?
 
