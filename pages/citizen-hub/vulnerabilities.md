@@ -47,14 +47,16 @@ Where treatments do exist, they may be extremely expensive and offer uncertain b
 
 Rare diseases affect small populations, which means genomic data linked to them are inherently scarce. When datasets include related family members and unique genetic variants, the [risk of identifying individuals increases](https://pubmed.ncbi.nlm.nih.gov/35154238/). An analogy is often used: in a small village, describing a person with a distinctive trait and family connections may make it easy to identify them. The same applies to rare-disease data.
 
-These risks are heightened by international data sharing, which is essential for rare-disease research. Single-country datasets are often too small to produce robust scientific evidence, making cross-border collaboration necessary. This increases the importance of strong privacy protections and governance.
+These risks are heightened by international data sharing, essential for rare-disease research. Single-country datasets are often too small to produce robust scientific evidence, making cross-border collaboration necessary. This increases the importance of strong privacy protections and governance.
 
 ## Discrimination and stigmatisation
 
-Genomic data are powerful. They can improve diagnosis, treatment and prevention for both rare and common conditions, and they hold value for individuals, families and future generations. However, this power also creates vulnerability. If genomic data are misused, individuals may face discrimination or stigmatisation. People worry that employers, insurers, banks or other organisations could use genetic information — such as disease predispositions — to limit access to jobs, insurance or services. Such decisions would be based on characteristics people cannot control. Even the fear of possible misuse can have harmful effects, discouraging people from genetic testing and potentially leading to missed diagnoses.
+Genomic data are powerful. They can improve diagnosis, treatment and prevention for both rare and common conditions, and they hold value for individuals, families and future generations. However, this power also creates vulnerability. If genomic data are misused, [individuals may face discrimination or stigmatisation](https://zenodo.org/records/14720403). People worry that employers, insurers, banks or other organisations could use genetic information — such as disease predispositions — to limit access to jobs, insurance or services. In practice, this could mean being denied employment, facing higher insurance premiums, or restricted access to financial or social services based on genetic characteristics that individuals cannot control. Such decisions risk reinforcing existing inequalities and creating new forms of exclusion. Even the fear of possible misuse can have harmful effects. It may discourage people from genetic testing or participation in research, potentially leading to missed diagnoses and lost opportunities for prevention or early treatment.
 
 > **Real story – The Holmes case**  
-> In 2024, 17-year-old Carys Holmes was refused entry to the British Army because of a family history of breast cancer, despite having no diagnosis herself. Following public scrutiny, the decision was reversed. The case highlighted how people can be excluded based on genetic risk or family history, even in the absence of illness.
+> In 2024, 17-year-old Carys Holmes was refused entry to the British Army because of a family history of breast cancer, despite having no diagnosis herself. Two relatives had breast cancer and carried a mutation in the BRCA1-gene, which significantly increases the risk of developing breast and ovarian cancer. Preventive measures, such as enhanced surveillance (e.g. regular mammography or MRI), risk-reducing surgery (e.g. bilateral mastectomy or removal of both breasts) and lifestyle adjustments, might however help reduce these risks. Carys had a 50% chance of carrying this genetic mutation and hence of developing cancer. However, she had not been tested and did not have any current illness or proven incapacity at that time. 
+> 
+> [Carys’ story](https://www.bbc.co.uk/news/articles/cl40ex5rrnko.amp) was widely covered in the national media and after the resulting public scrutiny, the British Army reviewed and reversed its decision, confirming Carys was medically fit to join. According to the Army, no policy of discrimination was involved but a process mistake had resulted in an erroneous rejection. 
 
 ## Protection and empowerment
 
@@ -62,8 +64,3 @@ Vulnerability arising from genomic data misuse can be reduced through strong dat
 
 > **Real story – Insurance protection in Australia**  
 > In 2024, Australia introduced a ban preventing life insurers from using genetic test results showing health risks when underwriting policies. This change reassured people that they could undergo genetic testing without fear of insurance discrimination, encouraging testing, research participation and public trust.
-
-> **Useful tools and materials**  
-> Want to explore public initiatives or materials to support discussion about vulnerability in genomics?  
->  
-> → See our overview of Citizen engagement initiatives and materials to get started.
