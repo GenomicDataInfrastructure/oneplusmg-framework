@@ -5,11 +5,6 @@ permalink: /lets-talk-genomics/prenatal-testing
 
 # During pregnancy
 
-## On this page
-- [How prenatal testing has changed](#how-prenatal-testing-has-changed)
-- [Non-invasive prenatal testing (NIPT)](#non-invasive-prenatal-testing-nipt)
-- [Questions and considerations](#questions-and-considerations)
-
 During pregnancy, regular follow-up and testing are important for the health of the mother and baby. Advances in science and technology have significantly changed prenatal testing over time, resulting in new possibilities for information and care, but also raising new questions and debates.
 
 ## How prenatal testing has changed
@@ -18,9 +13,7 @@ For several decades, combined first-trimester screening was the standard approac
 
 ## Non-invasive prenatal testing (NIPT)
 
-In the early 2010s, the introduction of Non-Invasive Prenatal Testing (NIPT) led to significant changes in prenatal care in several countries. This test can identify chromosomal abnormalities through a blood test from the mother, since small parts of the baby’s DNA already circulate in her blood. 
-
-In countries such as Belgium and the Netherlands, NIPT has become part of standard prenatal care, namely that it is offered to all pregnant women and is fully reimbursed. The test is safe and easy to perform, which has contributed to its widespread use.
+In the early 2010s, the introduction of Non-Invasive Prenatal Testing (NIPT) led to significant changes in prenatal care in several countries. This test can identify chromosomal abnormalities through a blood test from the mother, since small parts of the baby’s DNA already circulate in her blood. In countries such as Belgium and the Netherlands, NIPT has become part of standard prenatal care, namely that it is offered to all pregnant women and is fully reimbursed. The test is safe and easy to perform, which has contributed to its widespread use.
 
 ## Questions and considerations
 
