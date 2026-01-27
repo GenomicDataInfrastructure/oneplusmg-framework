@@ -1055,4 +1055,18 @@ img.middlepos{
 .topicdetail .card-body .fa-screwdriver-wrench:before{
     margin-right: 1rem;
 }
+
+.topicdetail .content-conatiner ul{
+    padding: 2rem 2rem;
+    width: 40%;
+    margin: 2rem 0;
+    background: whitesmoke;
+    li:not(:last-child){
+        padding-bottom: 5px;
+    }
+}
+
+.topicdetail blockquote p strong{
+    color: #387A80 !important;
+}
   
