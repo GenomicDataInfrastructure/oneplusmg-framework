@@ -920,6 +920,10 @@ footer .justify-content-between > div:nth-of-type(3) > ul {
 }
 .topicdetail h1{
     margin-bottom: 2rem;
+    color: #387A80;
+}
+.topicdetail h2{
+    color: #387A80 !important;
 }
 img.rightpos{
     float: right;
@@ -1041,5 +1045,14 @@ img.middlepos{
 .banner-content p{
     font-size: 1.8rem;
     margin: 1rem 0;
+}
+
+.topicdetail .border-primary{
+    border-color: #387A80 !important;
+    background-color: whitesmoke;
+}
+
+.topicdetail .card-body .fa-screwdriver-wrench:before{
+    margin-right: 1rem;
 }
   
