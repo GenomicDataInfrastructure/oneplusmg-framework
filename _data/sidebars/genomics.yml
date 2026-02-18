@@ -1,0 +1,9 @@
+subitems:
+  - title: Let's talk genomics
+    subitems:
+      - title: About
+        url: /about-genomics
+      - title: Glossary
+        url: /lets-talk-genomics/glossary
+      - title: Citizen engagement initiative materials
+        url: /citizen-engagement-initiative-materials

@@ -18,7 +18,7 @@
                         {%- assign nav_title = item.title | downcase | replace: "-", "_" | replace: " ", "_" %}
                         {%- if item.external_url %}
                         <a class="nav-link ps-2" href="{{item.external_url}}" target="_blank" rel="noopener">{{item.title}}</a>
-                        {%- elsif page.url == item.url %}
+                        {%- elsif page.url == item.url or page.url contains item.url %}
                         <a class="nav-link ps-2 active" aria-current="page" href="{{item.url | relative_url }}">{{item.title}}</a>
                         {%- elsif item.subitems -%}
                         {%- assign active_subitem = item.subitems | where: "url", page.url | first -%}

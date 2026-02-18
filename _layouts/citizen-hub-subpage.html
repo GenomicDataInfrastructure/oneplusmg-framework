@@ -1,0 +1,46 @@
+---
+layout: none
+---
+
+<!doctype html>
+<html lang="en">
+{% include head.html %}
+
+<body id="main" class="topic">
+    {% include topnav.html %}
+</div>
+    <div class="landingpage topicdetail">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="content-conatiner">
+                        <p><i class="fa fa-arrow-left" aria-hidden="true"></i> <a href="../lets-talk-genomics">Back to all topics</a></p>
+                            {{content}}
+                    </div>
+                </div>
+            </div>
+            <!-- New row for the useful tools section -->
+            <div class="row mt-4">
+                <div class="col-md-12">
+                    <div class="card border-primary">
+                        <div class="card-body">
+                            <h2 class="card-title my-1"><i class="fas fa-screwdriver-wrench"></i>Useful tools and materials</h2>
+                            <p class="card-text">Want to explore public initiatives addressing this topic or access useful materials to support your own engagement and discussion exercise? </p>
+                            <p>Check our overview of Citizen engagement initiatives and materials to get started!</p>
+                            <a href="../lets-talk-genomics/citizen-engagement-initiative-materials" class="btn btn-primary">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {%- if site.theme_variables.back_to_top or site.theme_variables.back_to_top == nil %}
+    <button id="back-to-top" class="btn btn-primary" type="button" aria-hidden="true" onclick="topFunction()">
+        <i class="fa-solid fa-arrow-up"></i>
+    </button>
+    {%- endif %}
+    {% include footer.html %}
+    {% include cookie-popup.html %}
+</body>
+
+</html>

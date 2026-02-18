@@ -1,0 +1,32 @@
+title: 1+MG Framework
+title_url: /index
+subitems:
+  - title: My DNA vs our DNA
+    image_url: /assets/img/section-icons/topic-icons/topic-icon-dna-v2.png
+    url: /lets-talk-genomics/dna
+    description: How can genomics benefit both individuals and society? 
+
+  - title: Heritage
+    image_url: /assets/img/section-icons/topic-icons/topic-icon-heritage-v2.png
+    url: /lets-talk-genomics/heritage
+    description: What can genomics tell us about our family and cultural origins? 
+
+  - title: Managing vulnerability
+    image_url: /assets/img/section-icons/topic-icons/topic-icon-vulnerability-v2.png
+    url: /lets-talk-genomics/vulnerabilities
+    description: How can vulnerability in genomics be managed?
+
+  - title: Privacy
+    image_url: /assets/img/section-icons/topic-icons/topic-icon-privacy-v2.png
+    url: /lets-talk-genomics/privacy
+    description: How should genomic information be protected? 
+    
+  - title: Interpreting results 
+    image_url: /assets/img/section-icons/topic-icons/topic-icon-uncertainties-v2.png
+    url: /lets-talk-genomics/uncertainties
+    description: What can genomic results really tell us? 
+
+  - title: AI
+    image_url: /assets/img/section-icons/topic-icons/topic-icon-ai-v2.png
+    url: /lets-talk-genomics/big-data-ai
+    description: How can AI improve healthcare in a transparent and ethical way? 

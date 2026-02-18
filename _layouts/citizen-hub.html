@@ -1,0 +1,133 @@
+---
+layout: none
+---
+
+<!doctype html>
+<html lang="en">
+{% include head.html %}
+
+<body id="main" class="home">
+    {% include topnav.html %}
+    <div class="hero" style="background-image:url('{{ '/assets/img/hero-bg.svg' | relative_url }}')">
+        <div class="content-wrapper hero-content">
+            <div class="banner-content">
+            <h1>Let’s talk genomics</h1>
+                 <p>A toolkit for citizen engagement</p>
+                 <div class="d-flex gap-3 justify-content-center">
+                    <a href="about-genomics" class="btn btn-primary btn-lg rounded-pill teal">About</a>
+                    <a href="glossary" class="btn btn-primary btn-lg rounded-pill teal">Glossary</a>
+                    <a href="citizen-engagement-initiative-materials" class="btn btn-primary btn-lg rounded-pill teal">Tools and initiatives</a>
+                </div>
+        </div>
+    </div>
+</div>
+    <div class="landingpage topic">
+        <div class="container py-5">
+            <div class="row">
+                <div class="col-md-12">
+                  <!-- <h2>Welcome!</h2> -->
+                  <p>Genomics has the potential to transform healthcare and society. By preventing illness, improving diagnosis and tailoring individual treatments, it can contribute to better health for everyone. As technologies develop rapidly, they also raise important ethical and societal questions. It is therefore essential to engage the public in open discussions about the possibilities, limitations and broader impacts to ensure that the development and use of genomics reflect shared values and concerns. </p>
+
+            <p>The website Let’s talk genomics presents key ethical and societal topics in genomics and provides tools to support meaningful conversations with citizens. By encouraging informed dialogue and reflection, this initiative aims to help shape responsible and socially supported use of genomics in society.
+                </p>
+                </div>
+              </div>
+            <div class="row mt-6">
+                <div class="col-md-4">
+                    <h2 class="text-center text-primary mb-5">Genomics through life</h1>
+    
+                    <div class="timeline-container">
+                        <div class="timeline-line">
+                            <div class="timeline-marker" id="marker"></div>
+                            
+                            <div class="topic-items">
+                                <!-- Before birth -->
+                                <div class="topic-item active" data-meal="morning" style="top: 8%;">
+                                    <a href="preconception-carrier-screening" class="topic-label" data-url="preconception-carrier-screening">Before pregnancy</a>
+                                    <span class="topic-dot"></span>
+                                </div>
+                                <div class="topic-item active" data-meal="morning" style="top: 17%;">
+                                    <a href="prenatal-testing" class="topic-label" data-url="prenatal-testing">During pregnancy</a>
+                                    <span class="topic-dot"></span>
+                                </div>
+            
+                                <!-- Childhood -->
+                                <div class="topic-item" data-meal="lunch" style="top: 36%;">
+                                    <a href="newborn-screening" class="topic-label" data-url="newborn-screening">At birth</a>
+                                    <span class="topic-dot"></span>
+                                </div>
+                                <div class="topic-item" data-meal="lunch" style="top: 45%;">
+                                    <a href="congenital-and-paediatric-diseases" class="topic-label" data-url="congenital-and-paediatric diseases">During childhood</a>
+                                    <span class="topic-dot"></span>
+                                </div>
+            
+                                <!-- Adulthood -->
+                                <div class="topic-item" data-meal="dinner" style="top: 60%;">
+                                    <a href="cascade-screening" class="topic-label" data-url="cascade-screening">When a family member falls ill</a>
+                                    <span class="topic-dot"></span>
+                                </div>
+                                <div class="topic-item" data-meal="dinner" style="top: 69%;">
+                                    <a href="risk-based-prevention" class="topic-label" data-url="risk-based-prevention">Preventing diseases</a>
+                                    <span class="topic-dot"></span>
+                                </div>
+                                <div class="topic-item" data-meal="dinner" style="top: 77%;">
+                                    <a href="diagnostic-testing" class="topic-label" data-url="diagnostic-testing">When illness strikes</a>
+                                    <span class="topic-dot"></span>
+                                </div>
+                                <div class="topic-item" data-meal="dinner" style="top: 87%;">
+                                    <a href="personalised-treatment" class="topic-label" data-url="personalised-treatment">Starting a treatment</a>
+                                    <span class="topic-dot"></span>
+                                </div>
+                                <div class="topic-item" data-meal="dinner" style="top: 96%;">
+                                    <a href="after-death" class="topic-label" data-url="after-death">After death</a>
+                                    <span class="topic-dot"></span>
+                                </div>
+                            </div>
+            
+                            <!-- life Tab Buttons positioned on the right side -->
+                            <div class="topic-tab active" data-meal="morning" style="top: 9%;">Before birth</div>
+                            <div class="topic-tab" data-meal="lunch" style="top: 40%;">Childhood</div>
+                            <div class="topic-tab" data-meal="dinner" style="top: 75%;">Adulthood</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-8">
+                    <h2 class="card-title pb-2 text-center text-primary mt-1 mb-4">Big questions in genomics</h2>
+                    <section class="">
+                        {%- assign ct = site.data.sidebars[page.ct] %}
+    
+                        <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 topics g-4">
+                            {%- for folder in ct.subitems %}
+                            <div class="col">
+                                    <div class="card border bg-white h-100">
+                                        {%- if folder.image_url%}
+                                        <img src="{{folder.image_url | relative_url}}" class="card-img-top h-icon-5 mx-auto" alt="{{folder.title}} icon">
+                                        {%- endif %}
+                                        <div class="card-body text-center">
+                                            <a href="{{ folder.url | relative_url }}" class="stretched-link">
+                                                <h3 class="card-title no-anchor text-primary">{{folder.title}}</h3>
+                                            </a>
+                                            <p class="card-text">{{folder.description}}</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            {%- endfor %}
+                        </div>
+                    </section>
+                    <p class="text-right mt-5"><a href="mailto:Marlies.Saelaert@sciensano.be?cc=Chloe.Mayeur@sciensano.be" class="btn btn-primary btn-lg rounded-pill teal">Get in touch</a></p>
+                </div>
+            </div>
+        </div>
+     </div>
+    {%- if site.theme_variables.back_to_top or site.theme_variables.back_to_top == nil %}
+    <button id="back-to-top" class="btn btn-primary" type="button" aria-hidden="true" onclick="topFunction()">
+        <i class="fa-solid fa-arrow-up"></i>
+    </button>
+    {%- endif %}
+    {% include footer.html %}
+    {% include cookie-popup.html %}
+    <script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
+</body>
+
+</html>
