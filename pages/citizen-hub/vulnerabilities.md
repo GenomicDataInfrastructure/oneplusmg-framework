@@ -8,9 +8,12 @@ permalink: /lets-talk-genomics/vulnerabilities
 - [Genomics and vulnerability](#genomics-and-vulnerability)
 - [Inherent vulnerabilities and susceptibility](#inherent-vulnerabilities-and-susceptibility)
 - [Rare diseases and specific challenges](#rare-diseases-and-specific-challenges)
-- [Privacy risks](#privacy-risks)
+    - [Unaffordable and inaccessible therapies](#unaffordable-and-inaccessible-therapies)
+    - [Privacy risks](#privacy-risks)
 - [Discrimination and stigmatisation](#discrimination-and-stigmatisation)
 - [Protection and empowerment](#protection-and-empowerment)
+
+
 
 ## Genomics and vulnerability
 

@@ -3,9 +3,8 @@ layout: lets-talk-genomics
 permalink: /lets-talk-genomics/about-genomics
 ---
 
-# About
 
-### What this website is about
+# What this website is about
 
 **Let’s talk genomics** offers inspiration and practical toolkits for everyone who wants to engage citizens in conversations about genetics and genomics in society.
 
@@ -15,13 +14,13 @@ Engaging citizens about genomics is important because genomics affects everyone.
 
 As technology evolves, the choices citizens make can help shape the future role of genomics. Public engagement and a better understanding of citizens’ values and concerns make it possible to develop genomics in a way that is supported by society.
 
-### What this website offers
+# What this website offers
 
 This website is for anyone who wants to engage citizens in discussions about the benefits, risks, and ethical and societal challenges of genomics. Teachers, genetic counsellors, nurses, patient organisations, civil society actors, policymakers and many others all play an important role in supporting the responsible and sustainable implementation of genomics in society. By facilitating public debate, they help citizens become well-informed and active partners in this process.
 
 The website offers an overview of key topics in contemporary genomics. Rather than presenting an exhaustive set of facts or definitive answers, the goal is to encourage public dialogue and critical reflection. It provides foundational information as well as real-life stories and practical examples to spark meaningful, in-depth discussion. The site also highlights inspiring public engagement initiatives and includes hands-on materials to support dialogue. Together, these elements serve as building blocks for productive public conversations about an issue that affects every individual and will shape society as a whole.
 
-### How to use this website
+# How to use this website
 
 The topics on this website are presented using two complementary approaches.
 
@@ -35,7 +34,7 @@ Genomics is a complex field with specialised terminology. The **Glossary** provi
 
 Finally, the website showcases numerous examples of public engagement initiatives where genomics-related topics are discussed with the general public. These initiatives can serve as inspiration for users who wish to engage their own audiences. Relevant examples are referenced within each topic, and an [overview list of public engagement initiatives](oneplusmg-trust-framework/lets-talk-genomics/citizen-engagement-initiative-materials) is also available.
 
-### Context of this website
+# Context of this website
 
 **Let’s talk genomics** was created in the context of the Beyond 1 Million Genomes plus (B1MGplus) project.
 
