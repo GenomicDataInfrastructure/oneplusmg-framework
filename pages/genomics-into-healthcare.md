@@ -37,10 +37,6 @@ The [Roadmap Infographic and Guidance Tool](https://zenodo.org/records/10067169)
 
 This roadmap is a very comprehensive guide to the current status of the field of genomic medicine in healthcare, covering all crucial areas with the most up to date recommendations for genomic medicine in healthcare.
 
-## 1+MG Framework
-
-You are here.
-
 ## Policy Brief
 
 ### [Genomics in Healthcare: Key issues for implementation](https://b1mg-project.eu/images/pdf/Policy_Brief_Genomics_in_Healthcare_2022.pdf) <span class="badge badge-dark">Recommended<i class="fa-solid fa-thumbs-up"></i></span>
