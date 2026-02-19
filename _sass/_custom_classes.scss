@@ -1240,6 +1240,10 @@ img.middlepos{
     width: 250px;
     flex-shrink: 0;
     border-right: 2px solid #ddd;
+    position: sticky;        /* ADD THIS */
+    top: 2rem;               /* ADD THIS */
+    max-height: calc(100vh - 4rem);  /* ADD THIS */
+    overflow-y: auto;        /* ADD THIS */
   }
 
   .tab-btn {
@@ -1304,6 +1308,9 @@ img.middlepos{
       border-right: none;
       border-bottom: 2px solid #ddd;
       margin-bottom: 1.5rem;
+      position: static;        /* ADD THIS */
+      max-height: none;        /* ADD THIS */
+      overflow-y: visible;     /* ADD THIS */
     }
     .tab-btn {
       border-right: none;

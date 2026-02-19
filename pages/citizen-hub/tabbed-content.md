@@ -23,6 +23,25 @@ permalink: /lets-talk-genomics/tabbed-content
       <h2>Genomics and vulnerability</h2>
       <p>Genomic data reveals inherent biological vulnerabilities that must be carefully managed. Understanding these risks is essential for developing equitable healthcare policies and protecting individuals from potential misuse of their genetic information.</p>
       <p>The intersection of genomics and personal vulnerability raises profound questions about how societies manage sensitive biological data in an era of rapidly advancing sequencing technologies.</p>
+            <p>Genomic data reveals inherent biological vulnerabilities that must be carefully managed. Understanding these risks is essential for developing equitable healthcare policies and protecting individuals from potential misuse of their genetic information.</p>
+      <p>The intersection of genomics and personal vulnerability raises profound questions about how societies manage sensitive biological data in an era of rapidly advancing sequencing technologies.</p>
+            <p>Genomic data reveals inherent biological vulnerabilities that must be carefully managed. Understanding these risks is essential for developing equitable healthcare policies and protecting individuals from potential misuse of their genetic information.</p>
+      <p>The intersection of genomics and personal vulnerability raises profound questions about how societies manage sensitive biological data in an era of rapidly advancing sequencing technologies.</p>
+            <p>Genomic data reveals inherent biological vulnerabilities that must be carefully managed. Understanding these risks is essential for developing equitable healthcare policies and protecting individuals from potential misuse of their genetic information.</p>
+      <p>The intersection of genomics and personal vulnerability raises profound questions about how societies manage sensitive biological data in an era of rapidly advancing sequencing technologies.</p>
+            <p>Genomic data reveals inherent biological vulnerabilities that must be carefully managed. Understanding these risks is essential for developing equitable healthcare policies and protecting individuals from potential misuse of their genetic information.</p>
+      <p>The intersection of genomics and personal vulnerability raises profound questions about how societies manage sensitive biological data in an era of rapidly advancing sequencing technologies.</p>
+            <p>Genomic data reveals inherent biological vulnerabilities that must be carefully managed. Understanding these risks is essential for developing equitable healthcare policies and protecting individuals from potential misuse of their genetic information.</p>
+      <p>The intersection of genomics and personal vulnerability raises profound questions about how societies manage sensitive biological data in an era of rapidly advancing sequencing technologies.</p>
+            <p>Genomic data reveals inherent biological vulnerabilities that must be carefully managed. Understanding these risks is essential for developing equitable healthcare policies and protecting individuals from potential misuse of their genetic information.</p>
+      <p>The intersection of genomics and personal vulnerability raises profound questions about how societies manage sensitive biological data in an era of rapidly advancing sequencing technologies.</p>
+            <p>Genomic data reveals inherent biological vulnerabilities that must be carefully managed. Understanding these risks is essential for developing equitable healthcare policies and protecting individuals from potential misuse of their genetic information.</p>
+      <p>The intersection of genomics and personal vulnerability raises profound questions about how societies manage sensitive biological data in an era of rapidly advancing sequencing technologies.</p>
+            <p>Genomic data reveals inherent biological vulnerabilities that must be carefully managed. Understanding these risks is essential for developing equitable healthcare policies and protecting individuals from potential misuse of their genetic information.</p>
+      <p>The intersection of genomics and personal vulnerability raises profound questions about how societies manage sensitive biological data in an era of rapidly advancing sequencing technologies.</p>
+            <p>Genomic data reveals inherent biological vulnerabilities that must be carefully managed. Understanding these risks is essential for developing equitable healthcare policies and protecting individuals from potential misuse of their genetic information.</p>
+
+      
     </div>
 
     <div class="tab-panel" id="tab-inherent">
