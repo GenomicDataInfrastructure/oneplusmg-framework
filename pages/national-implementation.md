@@ -1,6 +1,7 @@
 ---
 title: National implementation
 description: National implementation through the 1+MG National Mirror Groups (NMGs)
+sidebar: framework2
 ---
 The 1+MG National Mirror Groups (NMGs) are the key instrument for implementing the 1+MG EU-level guidelines and recommendations presented in this framework across EU countries according to their national reality (learn more about NMGs <a href="https://zenodo.org/record/5018535">here<a>). 
 

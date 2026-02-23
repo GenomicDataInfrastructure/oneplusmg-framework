@@ -2,6 +2,7 @@
 title: Infectious diseases
 description: The Infectious Disease Use Case aims to strengthen European preparedness against future pandemics.
 page_id: infectious-diseases
+sidebar: framework2
 ---
 
 The Infectious Disease Use Case aims to strengthen European preparedness against future pandemics.
