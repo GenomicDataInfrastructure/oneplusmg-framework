@@ -2,6 +2,7 @@
 title: Population Genomics - Genome of Europe (GoE)
 description: The Genome of Europe project was created to have a Europe-wide collection of subgroup-specific reference genomes to support population genomics and make precision medicine more robust.
 page_id: population-genomics
+sidebar: framework2
 ---
 
 ## [Genome of Europe Plan](https://zenodo.org/record/8017856) 
