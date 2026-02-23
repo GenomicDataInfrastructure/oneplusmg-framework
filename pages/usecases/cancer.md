@@ -2,6 +2,7 @@
 title: Cancer
 description: The Cancer Use Case has been the secondary use case to test the 1+MG Infrastructure. Although a work still in progress it has been acknowledged that the architecture largely supports the Cancer Use Case in its current format.
 page_id: cancer
+sidebar: framework2
 ---
 
 The Cancer Use Case has been the secondary use case to test the 1+MG Infrastructure. Although a work still in progress it has been acknowledged that the architecture largely supports the Cancer Use Case in its current format. 

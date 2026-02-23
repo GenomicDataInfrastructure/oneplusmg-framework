@@ -2,6 +2,7 @@
 title: Rare diseases
 description: The rare disease use case has been the central use case demonstrating the 1+MG Infrastructure to date.
 page_id: rare-diseases
+sidebar: framework2
 ---
 
 The Rare Disease Use Case has been the central use case demonstrating the 1+MG Infrastructure to date. The outcomes expected from the 1+MG initiative for this use case include:
