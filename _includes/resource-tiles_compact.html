@@ -1,0 +1,181 @@
+{% comment %}
+Reusable compact highlighted resource tile strip for the 1+MG Framework.
+
+Selection priority:
+1. If resource_ids is supplied, show those exact resources in the order supplied.
+2. Otherwise, show resources where featured == true.
+3. If framework_topic is supplied in automatic mode, only show featured resources
+   tagged with that framework topic.
+4. limit controls the maximum number of resources shown. Default: 4.
+
+Designed to sit near the bottom of a page, immediately above the footer or final
+page-level content.
+
+Examples:
+
+Automatic featured resources:
+  {% include resource-tiles.html framework_topic="technical-infrastructure" limit=4 %}
+
+Using page metadata:
+  {% include resource-tiles.html framework_topic=page.framework_topic limit=4 %}
+
+Explicit resources from page front matter:
+  featured_resources:
+    - beacon
+    - refget
+    - htsget
+    - data-repository-service-drs
+
+  {% include resource-tiles.html resource_ids=page.featured_resources %}
+
+Explicit resources supplied directly:
+  {% include resource-tiles.html resource_ids="beacon,refget,htsget,data-repository-service-drs" %}
+{% endcomment %}
+
+{% assign tile_limit = include.limit | default: 4 %}
+{% assign framework_topic = include.framework_topic %}
+{% assign explicit_ids = include.resource_ids %}
+{% assign rendered_count = 0 %}
+
+{% if explicit_ids %}
+  {% assign explicit_ids_string = explicit_ids | join: "," %}
+  {% assign selected_ids = explicit_ids_string | split: "," %}
+{% endif %}
+
+{% capture resource_tiles_markup %}
+
+  {% if explicit_ids %}
+
+    {% comment %}
+    Explicit mode. Iterate over IDs first so the page author controls tile order.
+    {% endcomment %}
+
+    {% for selected_id_raw in selected_ids %}
+      {% assign selected_id = selected_id_raw | strip %}
+
+      {% for resource in site.data.resources %}
+        {% if resource.resource_id == selected_id and rendered_count < tile_limit %}
+
+          <div class="resource-tile col-12 col-md-6 col-lg-3 mb-2">
+            <div class="card h-100 shadow-sm">
+              <div class="card-header bg-primary text-white py-1 px-2">
+                <span class="small font-weight-bold text-uppercase">Resource</span>
+              </div>
+
+              <div class="card-body d-flex flex-column py-2 px-3">
+                <h3 class="resource-tile__title h6 mb-1">
+                  {{ resource.title }}
+                </h3>
+
+                {% if resource.framework_recommendation or resource.resource_type %}
+                  <p class="resource-tile__meta small text-muted mb-2">
+                    {% if resource.framework_recommendation %}
+                      <strong>{{ resource.framework_recommendation }}</strong>
+                    {% endif %}
+
+                    {% if resource.resource_type %}
+                      {% if resource.framework_recommendation %} · {% endif %}
+                      {{ resource.resource_type | replace: "-", " " | capitalize }}
+                    {% endif %}
+                  </p>
+                {% endif %}
+
+                <div class="resource-tile__links small mt-auto">
+                  <a href="{{ resource.access_url_1 }}"
+                     target="_blank"
+                     rel="noopener noreferrer"
+                     class="stretched-link">
+                    {% if resource.access_label_1 %}
+                      {{ resource.access_label_1 }}
+                    {% else %}
+                      View resource
+                    {% endif %}
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {% assign rendered_count = rendered_count | plus: 1 %}
+
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+
+  {% else %}
+
+    {% comment %}
+    Automatic mode. Show resources marked featured: true.
+    If framework_topic is supplied, require a topic match as well.
+    {% endcomment %}
+
+    {% for resource in site.data.resources %}
+      {% assign topic_match = true %}
+
+      {% if framework_topic and framework_topic != "" %}
+        {% assign topic_match = false %}
+        {% if resource.framework_topics contains framework_topic %}
+          {% assign topic_match = true %}
+        {% endif %}
+      {% endif %}
+
+      {% if resource.featured == true and topic_match and rendered_count < tile_limit %}
+
+        <div class="resource-tile col-12 col-md-6 col-lg-3 mb-2">
+          <div class="card h-100 shadow-sm">
+            <div class="card-header bg-primary text-white py-1 px-2">
+              <span class="small font-weight-bold text-uppercase">Resource</span>
+            </div>
+
+            <div class="card-body d-flex flex-column py-2 px-3">
+              <h3 class="resource-tile__title h6 mb-1">
+                {{ resource.title }}
+              </h3>
+
+              {% if resource.framework_recommendation or resource.resource_type %}
+                <p class="resource-tile__meta small text-muted mb-2">
+                  {% if resource.framework_recommendation %}
+                    <strong>{{ resource.framework_recommendation }}</strong>
+                  {% endif %}
+
+                  {% if resource.resource_type %}
+                    {% if resource.framework_recommendation %} · {% endif %}
+                    {{ resource.resource_type | replace: "-", " " | capitalize }}
+                  {% endif %}
+                </p>
+              {% endif %}
+
+              <div class="resource-tile__links small mt-auto">
+                <a href="{{ resource.access_url_1 }}"
+                   target="_blank"
+                   rel="noopener noreferrer"
+                   class="stretched-link">
+                  {% if resource.access_label_1 %}
+                    {{ resource.access_label_1 }}
+                  {% else %}
+                    View resource
+                  {% endif %}
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {% assign rendered_count = rendered_count | plus: 1 %}
+
+      {% endif %}
+    {% endfor %}
+
+  {% endif %}
+
+{% endcapture %}
+
+{% if rendered_count > 0 %}
+  <section class="resource-tiles-section bg-light border-top border-bottom mt-4 py-3 px-3" aria-labelledby="relevant-resources-heading">
+    <h2 id="relevant-resources-heading" class="h6 mb-2">Relevant resources</h2>
+
+    <div class="resource-tiles row">
+      {{ resource_tiles_markup }}
+    </div>
+  </section>
+{% endif %}
