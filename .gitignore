@@ -7,5 +7,3 @@ vendor
 .ruby-version
 assets/.DS_Store
 assets/img/.DS_Store
-resources.csv
-.venv/
