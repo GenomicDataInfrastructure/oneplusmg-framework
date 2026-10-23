@@ -1,6 +1,8 @@
 ---
 title: Data and metadata
 description: Introduction to data and metadata
+permalink: "/data-metadata"
+page_id: data-metadata
 ---
 
 

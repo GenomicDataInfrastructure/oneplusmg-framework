@@ -1,0 +1,112 @@
+{% comment %}
+Page navigation tiles
+
+Usage:
+{% include page-navigation-tiles.html tiles=page.navigation_tiles %}
+
+Expected front matter:
+
+navigation_tiles:
+  - page_id: data-discovery
+
+  - page_id: data-access
+    title: "Optional title override"
+    description: "Optional description override"
+
+  - title: "External page"
+    description: "Optional description"
+    url: "https://example.org"
+
+For internal pages, page_id is preferred. The include looks up the
+matching page in site.pages and uses its title, description and URL.
+
+title, description and url can be supplied explicitly to override
+page metadata or to create a tile without a page_id.
+{% endcomment %}
+
+{% assign tiles = include.tiles %}
+
+{% if tiles and tiles.size > 0 %}
+<div class="container">
+<div class="row justify-content-center g-4 my-4 page-navigation-tiles">
+
+  {% for tile in tiles %}
+
+    {% assign target_page = nil %}
+
+    {% if tile.page_id %}
+      {% assign matching_pages = site.pages | where: "page_id", tile.page_id %}
+      {% assign target_page = matching_pages | first %}
+    {% endif %}
+
+    {% comment %}
+    Explicit tile values take precedence over values from the target page.
+    {% endcomment %}
+
+    {% if tile.title %}
+      {% assign tile_title = tile.title %}
+    {% elsif target_page %}
+      {% assign tile_title = target_page.title %}
+    {% else %}
+      {% assign tile_title = tile.page_id %}
+    {% endif %}
+
+    {% if tile.description %}
+      {% assign tile_description = tile.description %}
+    {% elsif target_page %}
+      {% assign tile_description = target_page.description %}
+    {% else %}
+      {% assign tile_description = nil %}
+    {% endif %}
+
+    {% if tile.url %}
+      {% assign tile_url = tile.url %}
+    {% elsif target_page %}
+      {% assign tile_url = target_page.url %}
+    {% else %}
+      {% assign tile_url = nil %}
+    {% endif %}
+
+    {% if tile_url %}
+
+      {% if tile_url contains "://" %}
+        {% assign rendered_url = tile_url %}
+        {% assign external_link = true %}
+      {% else %}
+        {% assign rendered_url = tile_url | relative_url %}
+        {% assign external_link = false %}
+      {% endif %}
+
+      <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
+        <div class="card border bg-white h-100">
+          <div class="card-body text-center">
+
+            <a
+              href="{{ rendered_url }}"
+              class="stretched-link"
+              aria-label="Go to {{ tile_title }}"
+              {% if external_link %}rel="noopener"{% endif %}
+            >
+              <h3 class="card-title no-anchor text-primary">
+                {{ tile_title }}
+              </h3>
+            </a>
+
+            {% if tile_description %}
+              <p class="card-text">
+                {{ tile_description }}
+              </p>
+            {% endif %}
+
+          </div>
+        </div>
+      </div>
+
+    {% endif %}
+
+  {% endfor %}
+
+</div>
+</div>
+
+{% endif %}

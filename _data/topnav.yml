@@ -1,5 +1,6 @@
 subitems:
-  - title: 1+MG Framework Foundations
+  - title: Framework Foundations
+    url: /framework-foundations
     subitems:
       - title: Legal, ethics and governance
         url: /governance-elsi
@@ -9,7 +10,8 @@ subitems:
         url: /data-metadata
       - title: Healthcare integration and sustainability
         url: /genomics-into-healthcare
-  - title: Applying the 1+MG Framework
+  - title: Application of the Framework
+    url: /application-of-the-framework
     subitems:
       - title: Use cases
         url: /usecases
@@ -17,15 +19,32 @@ subitems:
         url: /ehds-data-lifecycle
       - title: National implementation
         url: /national-implementation
-  - title: About
+  - title: About the framework
+    url: /about-the-framework
     subitems:
+      - title: 1+MG Project Portfolio
+        url: /1mg-projects
       - title: How to use the Framework
-        url: /about-the-framework
+        url: /how-to-use-framework
       - title: Contact
         url: /contact
       - title: Accessibility
         url: /accessibility
       - title: Privacy
         url: /privacy
-  - title: Let's talk genomics
+  - title: Navigate by Role
+    subitems:
+      - title: National Coordination
+        url: /national-coordinators
+      - title: Technical Implementation
+        url: /technical-implementers
+      - title: Data Stewardship
+        url: /data-stewards
+      - title: Polcy, ElSI and governance
+        url: /policy-elsi-governance
+      - title: Citizen Engagement 
+        url: /citizen-engagement
+  - title: Resource Library
+    url: /resource-library
+  - title: Citizen Engagement
     url: /lets-talk-genomics

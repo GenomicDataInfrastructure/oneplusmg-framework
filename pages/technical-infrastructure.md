@@ -1,8 +1,17 @@
 ---
 title: 'Technical Infrastructure'
 description: Introduction to Technical Infrastructure
+permalink: "/technical-infrastructure"
+page_id: technical-infrastructure
 ---
 
+## Test section
+
+{% include resource-tiles.html
+   resource_ids="beacon,refget,htsget,data-repository-service-drs"
+%}
+
+{% include resource-list.html framework_topic="technical-infrastructure" %}
 
 ## Infrastructure Vision
 
