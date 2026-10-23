@@ -1,8 +1,7 @@
 ---
 title: Healthcare integration and sustainability
 description: Healthcare integration and sustainability
-permalink: "/genomics-into-healthcare"
-page_id: genomics-into-healthcare
+page_id: healthcare
 ---
 
 The implementation of genomic medicine in healthcare systems will bring us closer to making personalised medicine a reality, with major socioeconomic benefits.
