@@ -9,16 +9,19 @@ The description of the phenotypic and clinical information is heterogeneous, mos
 
 To facilitate cross-border searching, linking and analysis of genomic and health data, this section of the 1+MG Framework includes a set of recommendations and guidelines that cover the minimal requirements for the provenance of the samples and the description of patient-specific phenotype and clinical data. Also, establishing and using standards for both sequencing and phenotypic and clinical data are, together with the ELSI standards, key elements in creating trust.
 
-## Minimal metadata model
+## The datasetdescription of (metadata about) 1+MG datasets
+Initally the datasetdescription of (metadata about) the datasets within 1+MG was part of the 1+MG Harmonised Minimla Datamodel (in short 1+MG HMD) 1.0. Once the HealthDCAT-AP was released (although still in draft (Q3 20226): https://data.health.europa.eu/healthdcat-ap/releases/latest/) the 1+MG initiative has decided to adhere its dataset description to HealthDCAT-AP and has taken out the metadatamodel from the 1+MG HMD (v1.1).
 
-* [README_ Version 1 Release .pdf](/assets/minimal-metadata-model/README_ Version 1 Release .pdf)
-* [Sample Class Version 1](assets/minimal-metadata-model/Sample Class Version 1.pdf)
-* [Subject and Diagnosis Class Version 1](assets/minimal-metadata-model/Subject and Diagnosis Class Version 1.pdf)
-* [Treatment Class Version 1](assets/minimal-metadata-model/Treatment Class Version 1.pdf)
-* [Environmental Exposure and Biomarker Class Version 1](assets/minimal-metadata-model/Environmental Exposure and Biomarker Class Version 1.pdf)
-* [Sequence Class Version 1](assets/minimal-metadata-model/Sequence Class Version 1.pdf)
-* [Metadata Submission Version 1](assets/minimal-metadata-model/Metadata Submission Version 1.pdf)
-* [UML Diagram Version 1](assets/minimal-metadata-model/GDI_diagram.pdf)
+## The 1+MG Harmonised Minimal datamodel
+The 1+MG Harmonised Minimla Datamodel (in short 1+MG HMD) encapsulates the collaborative efforts of various projects (amongst which GDI, Genome of Europe, B1MG(plus) and ERDERA) and various working groups of the 1+MG initiative towards establishing harmonised minimal data models and specifications for genomic data exchange and integration.
+
+All releases can be found at: https://github.com/Health-RI/HarmonisedMinimalDatamodel/releases
+
+Latest version (published october 2026): https://github.com/Health-RI/HarmonisedMinimalDatamodel/releases/tag/v2.0.1
+
+Accompanying documentation (based on https://respec.org/docs/) can be found at: https://health-ri.github.io/HarmonisedMinimalDatamodel/
+
+Currently (Q3-2026/Q1 2027) we are working on the next release of the 1+MG HMD that will include an update for the rare diseases based on the datamodel from ERDERA.
   
 
 ## [Documented best practices in sharing and linking phenotypic and genetic data v2.0](https://zenodo.org/record/7342855) 
@@ -59,7 +62,7 @@ DCAT-AP is the implementation of the European standard to aggregate data collect
 ## [1+MG Minimal dataset for cancer](https://doi.org/10.1038/s41588-024-01721-x)
 <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span> 
 
-* 1+MG Harmonised minimal datamodel paper - in progress
+* 1+MG Harmonised minimal datamodel paper: published (03 May 2024) in Nature Genetics (https://doi.org/10.1038/s41588-024-01721-x)
 
 ## [Report on semantic interoperability scenarios](https://zenodo.org/records/11550316)
 
